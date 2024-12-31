@@ -1,0 +1,1327 @@
+city,state,month,count,diseaseWiseCount,diseaseWiseMonth
+Pune,Maharashtra,October 2024,221,221.0,October 2024
+Pune,Maharashtra,October 2024,221,265.0,September 2024
+Pune,Maharashtra,October 2024,221,361.0,August 2024
+Pune,Maharashtra,October 2024,221,0.0,October 2024
+Pune,Maharashtra,September 2024,265,0.0,September 2024
+Pune,Maharashtra,September 2024,265,0.0,August 2024
+Pune,Maharashtra,September 2024,265,2.0,October 2024
+Pune,Maharashtra,September 2024,265,0.0,September 2024
+Pune,Maharashtra,August 2024,361,0.0,August 2024
+Pune,Maharashtra,August 2024,361,341.0,October 2024
+Pune,Maharashtra,August 2024,361,592.0,September 2024
+Pune,Maharashtra,August 2024,361,328.0,August 2024
+Pune,Maharashtra,October 2024,0,0.0,October 2024
+Pune,Maharashtra,September 2024,0,0.0,September 2024
+Pune,Maharashtra,August 2024,0,0.0,August 2024
+Pune,Maharashtra,October 2024,2,86.0,October 2024
+Pune,Maharashtra,September 2024,0,60.0,September 2024
+Pune,Maharashtra,August 2024,0,26.0,August 2024
+Karad,Maharashtra,October 2024,341,0.0,October 2024
+Karad,Maharashtra,October 2024,341,16.0,September 2024
+Karad,Maharashtra,October 2024,341,44.0,August 2024
+Karad,Maharashtra,September 2024,592,278.0,October 2024
+Karad,Maharashtra,September 2024,592,224.0,September 2024
+Karad,Maharashtra,September 2024,592,155.0,August 2024
+Karad,Maharashtra,August 2024,328,24.0,October 2024
+Karad,Maharashtra,August 2024,328,88.0,September 2024
+Karad,Maharashtra,August 2024,328,0.0,August 2024
+Navsari,Gujarat,October 2024,0,0.0,October 2024
+Navsari,Gujarat,September 2024,0,0.0,September 2024
+Navsari,Gujarat,August 2024,0,0.0,August 2024
+Rajamahendravaram,Andhra Pradesh,October 2024,86,0.0,October 2024
+Rajamahendravaram,Andhra Pradesh,October 2024,86,0.0,September 2024
+Rajamahendravaram,Andhra Pradesh,October 2024,86,0.0,August 2024
+Rajamahendravaram,Andhra Pradesh,September 2024,60,0.0,October 2024
+Rajamahendravaram,Andhra Pradesh,September 2024,60,0.0,September 2024
+Rajamahendravaram,Andhra Pradesh,September 2024,60,8.0,August 2024
+Rajamahendravaram,Andhra Pradesh,August 2024,26,37.0,October 2024
+Rajamahendravaram,Andhra Pradesh,August 2024,26,39.0,September 2024
+Rajamahendravaram,Andhra Pradesh,August 2024,26,9.0,August 2024
+Ahmedabad,Gujarat,October 2024,0,0.0,October 2024
+Ahmedabad,Gujarat,October 2024,0,7.0,September 2024
+Ahmedabad,Gujarat,October 2024,0,0.0,August 2024
+Ahmedabad,Gujarat,September 2024,16,0.0,October 2024
+Ahmedabad,Gujarat,September 2024,16,0.0,September 2024
+Ahmedabad,Gujarat,September 2024,16,147.0,August 2024
+Ahmedabad,Gujarat,August 2024,44,40.0,October 2024
+Ahmedabad,Gujarat,August 2024,44,22.0,September 2024
+Ahmedabad,Gujarat,August 2024,44,20.0,August 2024
+Thanjavur,Tamil Nadu,October 2024,278,0.0,October 2024
+Thanjavur,Tamil Nadu,October 2024,278,0.0,September 2024
+Thanjavur,Tamil Nadu,October 2024,278,0.0,August 2024
+Thanjavur,Tamil Nadu,October 2024,278,7.0,October 2024
+Thanjavur,Tamil Nadu,September 2024,224,4.0,September 2024
+Thanjavur,Tamil Nadu,September 2024,224,18.0,August 2024
+Thanjavur,Tamil Nadu,September 2024,224,0.0,October 2024
+Thanjavur,Tamil Nadu,September 2024,224,0.0,September 2024
+Thanjavur,Tamil Nadu,August 2024,155,0.0,August 2024
+Thanjavur,Tamil Nadu,August 2024,155,0.0,October 2024
+Thanjavur,Tamil Nadu,August 2024,155,0.0,September 2024
+Thanjavur,Tamil Nadu,August 2024,155,4.0,August 2024
+Puducherry,Puducherry,October 2024,24,18.0,October 2024
+Puducherry,Puducherry,October 2024,24,10.0,September 2024
+Puducherry,Puducherry,September 2024,88,7.0,August 2024
+Puducherry,Puducherry,September 2024,88,0.0,October 2024
+Puducherry,Puducherry,August 2024,0,0.0,September 2024
+Puducherry,Puducherry,August 2024,0,0.0,August 2024
+Amritsar,Punjab,October 2024,0,1.0,October 2024
+Amritsar,Punjab,September 2024,0,0.0,September 2024
+Amritsar,Punjab,August 2024,0,0.0,August 2024
+Tiruvannamalai,Tamil Nadu,October 2024,0,0.0,October 2024
+Tiruvannamalai,Tamil Nadu,September 2024,0,0.0,September 2024
+Tiruvannamalai,Tamil Nadu,August 2024,0,0.0,August 2024
+Indore,Madhya Pradesh,October 2024,0,0.0,October 2024
+Indore,Madhya Pradesh,September 2024,0,0.0,September 2024
+Indore,Madhya Pradesh,August 2024,8,0.0,August 2024
+Vizianagaram,Andhra Pradesh,October 2024,37,3.0,October 2024
+Vizianagaram,Andhra Pradesh,October 2024,37,0.0,September 2024
+Vizianagaram,Andhra Pradesh,October 2024,37,0.0,August 2024
+Vizianagaram,Andhra Pradesh,October 2024,37,4.0,October 2024
+Vizianagaram,Andhra Pradesh,September 2024,39,138.0,September 2024
+Vizianagaram,Andhra Pradesh,September 2024,39,959.0,August 2024
+Vizianagaram,Andhra Pradesh,September 2024,39,1.0,October 2024
+Vizianagaram,Andhra Pradesh,September 2024,39,6.0,September 2024
+Vizianagaram,Andhra Pradesh,August 2024,9,10.0,August 2024
+Vizianagaram,Andhra Pradesh,August 2024,9,0.0,October 2024
+Vizianagaram,Andhra Pradesh,August 2024,9,0.0,September 2024
+Vizianagaram,Andhra Pradesh,August 2024,9,0.0,August 2024
+Kolkata,West Bengal,October 2024,0,118.0,October 2024
+Kolkata,West Bengal,October 2024,0,142.0,September 2024
+Kolkata,West Bengal,September 2024,7,72.0,August 2024
+Kolkata,West Bengal,September 2024,7,26.0,October 2024
+Kolkata,West Bengal,August 2024,0,13.0,September 2024
+Kolkata,West Bengal,August 2024,0,8.0,August 2024
+Bathinda,Punjab,October 2024,0,2.0,October 2024
+Bathinda,Punjab,October 2024,0,1.0,September 2024
+Bathinda,Punjab,September 2024,0,5.0,August 2024
+Bathinda,Punjab,September 2024,0,26.0,October 2024
+Bathinda,Punjab,August 2024,147,5.0,September 2024
+Bathinda,Punjab,August 2024,147,27.0,August 2024
+Jamshedpur,Jharkhand,October 2024,40,1.0,October 2024
+Jamshedpur,Jharkhand,October 2024,40,3.0,September 2024
+Jamshedpur,Jharkhand,October 2024,40,2.0,August 2024
+Jamshedpur,Jharkhand,September 2024,22,19.0,October 2024
+Jamshedpur,Jharkhand,September 2024,22,4.0,September 2024
+Jamshedpur,Jharkhand,September 2024,22,9.0,August 2024
+Jamshedpur,Jharkhand,August 2024,20,53.0,October 2024
+Jamshedpur,Jharkhand,August 2024,20,75.0,September 2024
+Jamshedpur,Jharkhand,August 2024,20,62.0,August 2024
+Secunderabad,Telangana,October 2024,0,0.0,October 2024
+Secunderabad,Telangana,September 2024,0,0.0,September 2024
+Secunderabad,Telangana,August 2024,0,0.0,August 2024
+Cheyyar,Tamil Nadu,October 2024,7,9.0,October 2024
+Cheyyar,Tamil Nadu,October 2024,7,3.0,September 2024
+Cheyyar,Tamil Nadu,October 2024,7,7.0,August 2024
+Cheyyar,Tamil Nadu,September 2024,4,0.0,October 2024
+Cheyyar,Tamil Nadu,September 2024,4,0.0,September 2024
+Cheyyar,Tamil Nadu,September 2024,4,0.0,August 2024
+Cheyyar,Tamil Nadu,August 2024,18,0.0,October 2024
+Cheyyar,Tamil Nadu,August 2024,18,0.0,September 2024
+Cheyyar,Tamil Nadu,August 2024,18,0.0,August 2024
+Thiruvananthapuram,Kerala,October 2024,0,0.0,October 2024
+Thiruvananthapuram,Kerala,September 2024,0,0.0,September 2024
+Thiruvananthapuram,Kerala,August 2024,0,0.0,August 2024
+Karur,Tamil Nadu,October 2024,0,6.0,October 2024
+Karur,Tamil Nadu,October 2024,0,7.0,September 2024
+Karur,Tamil Nadu,September 2024,0,14.0,August 2024
+Karur,Tamil Nadu,September 2024,0,0.0,October 2024
+Karur,Tamil Nadu,August 2024,4,0.0,September 2024
+Karur,Tamil Nadu,August 2024,4,0.0,August 2024
+Hubballi,Karnataka,October 2024,18,36.0,October 2024
+Hubballi,Karnataka,October 2024,18,32.0,September 2024
+Hubballi,Karnataka,October 2024,18,47.0,August 2024
+Hubballi,Karnataka,September 2024,10,2.0,October 2024
+Hubballi,Karnataka,September 2024,10,0.0,September 2024
+Hubballi,Karnataka,September 2024,10,1.0,August 2024
+Hubballi,Karnataka,August 2024,7,13.0,October 2024
+Hubballi,Karnataka,August 2024,7,0.0,September 2024
+Hubballi,Karnataka,August 2024,7,0.0,August 2024
+Dharwad,Karnataka,October 2024,0,33.0,October 2024
+Dharwad,Karnataka,September 2024,0,122.0,September 2024
+Dharwad,Karnataka,August 2024,0,71.0,August 2024
+Guwahati,Assam,October 2024,1,8.0,October 2024
+Guwahati,Assam,September 2024,0,2.0,September 2024
+Guwahati,Assam,August 2024,0,28.0,August 2024
+Siddipet,Telangana,October 2024,0,4.0,October 2024
+Siddipet,Telangana,September 2024,0,0.0,September 2024
+Siddipet,Telangana,August 2024,0,9.0,August 2024
+Pune,Maharashtra,October 2024,0,30.0,October 2024
+Pune,Maharashtra,September 2024,0,55.0,September 2024
+Pune,Maharashtra,August 2024,0,40.0,August 2024
+Tirunelveli,Tamil Nadu,October 2024,3,5.0,October 2024
+Tirunelveli,Tamil Nadu,September 2024,0,3.0,September 2024
+Tirunelveli,Tamil Nadu,August 2024,0,8.0,August 2024
+Jalandhar,Punjab,October 2024,4,30.0,October 2024
+Jalandhar,Punjab,October 2024,4,123.0,September 2024
+Jalandhar,Punjab,October 2024,4,39.0,August 2024
+Jalandhar,Punjab,September 2024,138,1.0,October 2024
+Jalandhar,Punjab,September 2024,138,2.0,September 2024
+Jalandhar,Punjab,September 2024,138,1.0,August 2024
+Jalandhar,Punjab,August 2024,959,30.0,October 2024
+Jalandhar,Punjab,August 2024,959,25.0,September 2024
+Jalandhar,Punjab,August 2024,959,27.0,August 2024
+Hyderabad,Telangana,October 2024,1,94.0,October 2024
+Hyderabad,Telangana,October 2024,1,94.0,September 2024
+Hyderabad,Telangana,October 2024,1,123.0,August 2024
+Hyderabad,Telangana,September 2024,6,244.0,October 2024
+Hyderabad,Telangana,September 2024,6,0.0,September 2024
+Hyderabad,Telangana,September 2024,6,6.0,August 2024
+Hyderabad,Telangana,August 2024,10,3.0,October 2024
+Hyderabad,Telangana,August 2024,10,13.0,September 2024
+Hyderabad,Telangana,August 2024,10,24.0,August 2024
+Imphal,Manipur,October 2024,0,2.0,October 2024
+Imphal,Manipur,September 2024,0,4.0,September 2024
+Imphal,Manipur,August 2024,0,0.0,August 2024
+Bhimeshwara,Unknown,October 2024,118,0.0,October 2024
+Bhimeshwara,Unknown,October 2024,118,0.0,September 2024
+Bhimeshwara,Unknown,October 2024,118,0.0,August 2024
+Bhimeshwara,Unknown,September 2024,142,0.0,October 2024
+Bhimeshwara,Unknown,September 2024,142,0.0,September 2024
+Bhimeshwara,Unknown,September 2024,142,0.0,August 2024
+Bhimeshwara,Unknown,August 2024,72,0.0,October 2024
+Bhimeshwara,Unknown,August 2024,72,0.0,September 2024
+Bhimeshwara,Unknown,August 2024,72,0.0,August 2024
+Madhavaram,Tamil Nadu,October 2024,26,2.0,October 2024
+Madhavaram,Tamil Nadu,October 2024,26,0.0,September 2024
+Madhavaram,Tamil Nadu,October 2024,26,13.0,August 2024
+Madhavaram,Tamil Nadu,September 2024,13,0.0,October 2024
+Madhavaram,Tamil Nadu,September 2024,13,0.0,September 2024
+Madhavaram,Tamil Nadu,September 2024,13,0.0,August 2024
+Madhavaram,Tamil Nadu,August 2024,8,0.0,October 2024
+Madhavaram,Tamil Nadu,August 2024,8,7.0,September 2024
+Madhavaram,Tamil Nadu,August 2024,8,6.0,August 2024
+Chittoor,Andhra Pradesh,October 2024,2,0.0,October 2024
+Chittoor,Andhra Pradesh,October 2024,2,0.0,September 2024
+Chittoor,Andhra Pradesh,October 2024,2,0.0,August 2024
+Chittoor,Andhra Pradesh,September 2024,1,0.0,October 2024
+Chittoor,Andhra Pradesh,September 2024,1,0.0,September 2024
+Chittoor,Andhra Pradesh,September 2024,1,0.0,August 2024
+Chittoor,Andhra Pradesh,August 2024,5,0.0,October 2024
+Chittoor,Andhra Pradesh,August 2024,5,0.0,September 2024
+Chittoor,Andhra Pradesh,August 2024,5,0.0,August 2024
+Vijayawada,Andhra Pradesh,October 2024,26,0.0,October 2024
+Vijayawada,Andhra Pradesh,October 2024,26,0.0,September 2024
+Vijayawada,Andhra Pradesh,October 2024,26,0.0,August 2024
+Vijayawada,Andhra Pradesh,October 2024,26,0.0,October 2024
+Vijayawada,Andhra Pradesh,September 2024,5,0.0,September 2024
+Vijayawada,Andhra Pradesh,September 2024,5,0.0,August 2024
+Vijayawada,Andhra Pradesh,September 2024,5,0.0,October 2024
+Vijayawada,Andhra Pradesh,September 2024,5,0.0,September 2024
+Vijayawada,Andhra Pradesh,August 2024,27,0.0,August 2024
+Vijayawada,Andhra Pradesh,August 2024,27,0.0,October 2024
+Vijayawada,Andhra Pradesh,August 2024,27,0.0,September 2024
+Vijayawada,Andhra Pradesh,August 2024,27,0.0,August 2024
+Dhamtari,Chhattisgarh,October 2024,1,0.0,October 2024
+Dhamtari,Chhattisgarh,October 2024,1,0.0,September 2024
+Dhamtari,Chhattisgarh,October 2024,1,0.0,August 2024
+Dhamtari,Chhattisgarh,September 2024,3,0.0,October 2024
+Dhamtari,Chhattisgarh,September 2024,3,0.0,September 2024
+Dhamtari,Chhattisgarh,September 2024,3,0.0,August 2024
+Dhamtari,Chhattisgarh,August 2024,2,6.0,October 2024
+Dhamtari,Chhattisgarh,August 2024,2,22.0,September 2024
+Dhamtari,Chhattisgarh,August 2024,2,49.0,August 2024
+Chennai,Tamil Nadu,October 2024,19,0.0,October 2024
+Chennai,Tamil Nadu,October 2024,19,0.0,September 2024
+Chennai,Tamil Nadu,October 2024,19,0.0,August 2024
+Chennai,Tamil Nadu,September 2024,4,0.0,October 2024
+Chennai,Tamil Nadu,September 2024,4,0.0,September 2024
+Chennai,Tamil Nadu,September 2024,4,0.0,August 2024
+Chennai,Tamil Nadu,August 2024,9,0.0,October 2024
+Chennai,Tamil Nadu,August 2024,9,0.0,September 2024
+Chennai,Tamil Nadu,August 2024,9,0.0,August 2024
+Lunawada,Gujarat,October 2024,53,0.0,October 2024
+Lunawada,Gujarat,October 2024,53,0.0,September 2024
+Lunawada,Gujarat,October 2024,53,43.0,August 2024
+Lunawada,Gujarat,October 2024,53,47.0,October 2024
+Lunawada,Gujarat,September 2024,75,125.0,September 2024
+Lunawada,Gujarat,September 2024,75,63.0,August 2024
+Lunawada,Gujarat,September 2024,75,37.0,October 2024
+Lunawada,Gujarat,September 2024,75,65.0,September 2024
+Lunawada,Gujarat,August 2024,62,32.0,August 2024
+Lunawada,Gujarat,August 2024,62,1.0,October 2024
+Lunawada,Gujarat,August 2024,62,0.0,September 2024
+Lunawada,Gujarat,August 2024,62,148.0,August 2024
+Guwahati,Assam,October 2024,0,1.0,October 2024
+Guwahati,Assam,September 2024,0,1.0,September 2024
+Guwahati,Assam,August 2024,0,9.0,August 2024
+Chennai,Tamil Nadu,October 2024,9,0.0,October 2024
+Chennai,Tamil Nadu,October 2024,9,0.0,September 2024
+Chennai,Tamil Nadu,October 2024,9,0.0,August 2024
+Chennai,Tamil Nadu,October 2024,9,0.0,October 2024
+Chennai,Tamil Nadu,September 2024,3,0.0,September 2024
+Chennai,Tamil Nadu,September 2024,3,0.0,August 2024
+Chennai,Tamil Nadu,September 2024,3,0.0,October 2024
+Chennai,Tamil Nadu,September 2024,3,0.0,September 2024
+Chennai,Tamil Nadu,August 2024,7,0.0,August 2024
+Chennai,Tamil Nadu,August 2024,7,0.0,October 2024
+Chennai,Tamil Nadu,August 2024,7,0.0,September 2024
+Chennai,Tamil Nadu,August 2024,7,0.0,August 2024
+Theni,Tamil Nadu,October 2024,0,0.0,October 2024
+Theni,Tamil Nadu,September 2024,0,60.0,September 2024
+Theni,Tamil Nadu,August 2024,0,15.0,August 2024
+Nagpur,Maharashtra,October 2024,0,18.0,October 2024
+Nagpur,Maharashtra,September 2024,0,11.0,September 2024
+Nagpur,Maharashtra,August 2024,0,10.0,August 2024
+Kochi,Kerala,October 2024,0,0.0,October 2024
+Kochi,Kerala,September 2024,0,10.0,September 2024
+Kochi,Kerala,August 2024,0,49.0,August 2024
+Srikakulam,Andhra Pradesh,October 2024,6,3.0,October 2024
+Srikakulam,Andhra Pradesh,October 2024,6,1.0,September 2024
+Srikakulam,Andhra Pradesh,October 2024,6,2.0,August 2024
+Srikakulam,Andhra Pradesh,September 2024,7,0.0,October 2024
+Srikakulam,Andhra Pradesh,September 2024,7,0.0,September 2024
+Srikakulam,Andhra Pradesh,September 2024,7,0.0,August 2024
+Srikakulam,Andhra Pradesh,August 2024,14,223.0,October 2024
+Srikakulam,Andhra Pradesh,August 2024,14,291.0,September 2024
+Srikakulam,Andhra Pradesh,August 2024,14,307.0,August 2024
+"Gujarat, India",Gujarat,October 2024,0,2.0,October 2024
+"Gujarat, India",Gujarat,September 2024,0,6.0,September 2024
+"Gujarat, India",Gujarat,August 2024,0,2.0,August 2024
+"Jharkhand, India",Jharkhand,October 2024,36,7.0,October 2024
+"Jharkhand, India",Jharkhand,October 2024,36,4.0,September 2024
+"Jharkhand, India",Jharkhand,October 2024,36,7.0,August 2024
+"Jharkhand, India",Jharkhand,September 2024,32,73.0,October 2024
+"Jharkhand, India",Jharkhand,September 2024,32,253.0,September 2024
+"Jharkhand, India",Jharkhand,September 2024,32,64.0,August 2024
+"Jharkhand, India",Jharkhand,August 2024,47,94.0,October 2024
+"Jharkhand, India",Jharkhand,August 2024,47,147.0,September 2024
+"Jharkhand, India",Jharkhand,August 2024,47,339.0,August 2024
+Sangamner,Maharashtra,October 2024,2,57.0,October 2024
+Sangamner,Maharashtra,October 2024,2,23.0,September 2024
+Sangamner,Maharashtra,September 2024,0,63.0,August 2024
+Sangamner,Maharashtra,September 2024,0,0.0,October 2024
+Sangamner,Maharashtra,August 2024,1,0.0,September 2024
+Sangamner,Maharashtra,August 2024,1,3.0,August 2024
+Sangamner,Maharashtra,October 2024,13,0.0,October 2024
+Sangamner,Maharashtra,September 2024,0,9.0,September 2024
+Sangamner,Maharashtra,August 2024,0,0.0,August 2024
+Pune,Maharashtra,October 2024,33,327.0,October 2024
+Pune,Maharashtra,October 2024,33,399.0,September 2024
+Pune,Maharashtra,October 2024,33,376.0,August 2024
+Pune,Maharashtra,October 2024,33,3.0,October 2024
+Pune,Maharashtra,September 2024,122,4.0,September 2024
+Pune,Maharashtra,September 2024,122,18.0,August 2024
+Pune,Maharashtra,September 2024,122,0.0,October 2024
+Pune,Maharashtra,September 2024,122,3.0,September 2024
+Pune,Maharashtra,August 2024,71,3.0,August 2024
+Pune,Maharashtra,August 2024,71,1.0,October 2024
+Pune,Maharashtra,August 2024,71,5.0,September 2024
+Pune,Maharashtra,August 2024,71,22.0,August 2024
+Surat,Gujarat,October 2024,8,194.0,October 2024
+Surat,Gujarat,October 2024,8,250.0,September 2024
+Surat,Gujarat,October 2024,8,302.0,August 2024
+Surat,Gujarat,September 2024,2,0.0,October 2024
+Surat,Gujarat,September 2024,2,0.0,September 2024
+Surat,Gujarat,September 2024,2,0.0,August 2024
+Surat,Gujarat,August 2024,28,0.0,October 2024
+Surat,Gujarat,August 2024,28,0.0,September 2024
+Surat,Gujarat,August 2024,28,1.0,August 2024
+Vadodara,Gujarat,October 2024,4,116.0,October 2024
+Vadodara,Gujarat,October 2024,4,50.0,September 2024
+Vadodara,Gujarat,September 2024,0,64.0,August 2024
+Vadodara,Gujarat,September 2024,0,19.0,October 2024
+Vadodara,Gujarat,August 2024,9,24.0,September 2024
+Vadodara,Gujarat,August 2024,9,24.0,August 2024
+Melmaruvathur,Tamil Nadu,October 2024,30,8.0,October 2024
+Melmaruvathur,Tamil Nadu,October 2024,30,6.0,September 2024
+Melmaruvathur,Tamil Nadu,October 2024,30,13.0,August 2024
+Melmaruvathur,Tamil Nadu,September 2024,55,75.0,October 2024
+Melmaruvathur,Tamil Nadu,September 2024,55,87.0,September 2024
+Melmaruvathur,Tamil Nadu,September 2024,55,89.0,August 2024
+Melmaruvathur,Tamil Nadu,August 2024,40,24.0,October 2024
+Melmaruvathur,Tamil Nadu,August 2024,40,19.0,September 2024
+Melmaruvathur,Tamil Nadu,August 2024,40,22.0,August 2024
+Kalyan,Maharashtra,October 2024,5,6.0,October 2024
+Kalyan,Maharashtra,October 2024,5,76.0,September 2024
+Kalyan,Maharashtra,October 2024,5,56.0,August 2024
+Kalyan,Maharashtra,September 2024,3,9.0,October 2024
+Kalyan,Maharashtra,September 2024,3,4.0,September 2024
+Kalyan,Maharashtra,September 2024,3,0.0,August 2024
+Kalyan,Maharashtra,August 2024,8,0.0,October 2024
+Kalyan,Maharashtra,August 2024,8,0.0,September 2024
+Kalyan,Maharashtra,August 2024,8,0.0,August 2024
+Navi Mumbai,Maharashtra,October 2024,30,206.0,October 2024
+Navi Mumbai,Maharashtra,October 2024,30,614.0,September 2024
+Navi Mumbai,Maharashtra,October 2024,30,101.0,August 2024
+Navi Mumbai,Maharashtra,October 2024,30,63.0,October 2024
+Navi Mumbai,Maharashtra,September 2024,123,144.0,September 2024
+Navi Mumbai,Maharashtra,September 2024,123,77.0,August 2024
+Navi Mumbai,Maharashtra,September 2024,123,46.0,October 2024
+Navi Mumbai,Maharashtra,September 2024,123,5.0,September 2024
+Navi Mumbai,Maharashtra,August 2024,39,14.0,August 2024
+Navi Mumbai,Maharashtra,August 2024,39,0.0,October 2024
+Navi Mumbai,Maharashtra,August 2024,39,0.0,September 2024
+Navi Mumbai,Maharashtra,August 2024,39,0.0,August 2024
+Palakkad,Kerala,October 2024,1,34.0,October 2024
+Palakkad,Kerala,October 2024,1,20.0,September 2024
+Palakkad,Kerala,October 2024,1,72.0,August 2024
+Palakkad,Kerala,September 2024,2,0.0,October 2024
+Palakkad,Kerala,September 2024,2,21.0,September 2024
+Palakkad,Kerala,September 2024,2,10.0,August 2024
+Palakkad,Kerala,August 2024,1,179.0,October 2024
+Palakkad,Kerala,August 2024,1,87.0,September 2024
+Palakkad,Kerala,August 2024,1,245.0,August 2024
+"Gujarat, India",Gujarat,October 2024,30,4.0,October 2024
+"Gujarat, India",Gujarat,October 2024,30,25.0,September 2024
+"Gujarat, India",Gujarat,October 2024,30,518.0,August 2024
+"Gujarat, India",Gujarat,October 2024,30,4.0,October 2024
+"Gujarat, India",Gujarat,September 2024,25,0.0,September 2024
+"Gujarat, India",Gujarat,September 2024,25,4.0,August 2024
+"Gujarat, India",Gujarat,September 2024,25,6.0,October 2024
+"Gujarat, India",Gujarat,September 2024,25,30.0,September 2024
+"Gujarat, India",Gujarat,August 2024,27,5.0,August 2024
+"Gujarat, India",Gujarat,August 2024,27,21.0,October 2024
+"Gujarat, India",Gujarat,August 2024,27,36.0,September 2024
+"Gujarat, India",Gujarat,August 2024,27,13.0,August 2024
+Dasau,Unknown,October 2024,94,0.0,October 2024
+Dasau,Unknown,October 2024,94,0.0,September 2024
+Dasau,Unknown,October 2024,94,1.0,August 2024
+Dasau,Unknown,October 2024,94,15.0,October 2024
+Dasau,Unknown,September 2024,94,5.0,September 2024
+Dasau,Unknown,September 2024,94,9.0,August 2024
+Dasau,Unknown,September 2024,94,8.0,October 2024
+Dasau,Unknown,September 2024,94,186.0,September 2024
+Dasau,Unknown,August 2024,123,808.0,August 2024
+Dasau,Unknown,August 2024,123,0.0,October 2024
+Dasau,Unknown,August 2024,123,16.0,September 2024
+Dasau,Unknown,August 2024,123,19.0,August 2024
+Bhiwani,Haryana,October 2024,244,1.0,October 2024
+Bhiwani,Haryana,October 2024,244,10.0,September 2024
+Bhiwani,Haryana,September 2024,0,0.0,August 2024
+Bhiwani,Haryana,September 2024,0,213.0,October 2024
+Bhiwani,Haryana,August 2024,6,302.0,September 2024
+Bhiwani,Haryana,August 2024,6,6.0,August 2024
+Ludhiana,Punjab,October 2024,3,50.0,October 2024
+Ludhiana,Punjab,October 2024,3,25.0,September 2024
+Ludhiana,Punjab,October 2024,3,6.0,August 2024
+Ludhiana,Punjab,October 2024,3,0.0,October 2024
+Ludhiana,Punjab,September 2024,13,0.0,September 2024
+Ludhiana,Punjab,September 2024,13,0.0,August 2024
+Ludhiana,Punjab,September 2024,13,0.0,October 2024
+Ludhiana,Punjab,September 2024,13,0.0,September 2024
+Ludhiana,Punjab,August 2024,24,0.0,August 2024
+Ludhiana,Punjab,August 2024,24,416.0,October 2024
+Ludhiana,Punjab,August 2024,24,527.0,September 2024
+Ludhiana,Punjab,August 2024,24,500.0,August 2024
+Balotra,Rajasthan,October 2024,2,13.0,October 2024
+Balotra,Rajasthan,October 2024,2,7.0,September 2024
+Balotra,Rajasthan,September 2024,4,105.0,August 2024
+Balotra,Rajasthan,September 2024,4,13.0,October 2024
+Balotra,Rajasthan,August 2024,0,93.0,September 2024
+Balotra,Rajasthan,August 2024,0,158.0,August 2024
+Jayant,Unknown,October 2024,0,36.0,October 2024
+Jayant,Unknown,September 2024,0,412.0,September 2024
+Jayant,Unknown,August 2024,0,872.0,August 2024
+Jabalpur,Madhya Pradesh,October 2024,0,0.0,October 2024
+Jabalpur,Madhya Pradesh,September 2024,0,0.0,September 2024
+Jabalpur,Madhya Pradesh,August 2024,0,0.0,August 2024
+Katni,Madhya Pradesh,October 2024,0,1.0,October 2024
+Katni,Madhya Pradesh,September 2024,0,86.0,September 2024
+Katni,Madhya Pradesh,August 2024,0,24.0,August 2024
+Hosur,Tamil Nadu,October 2024,2,0.0,October 2024
+Hosur,Tamil Nadu,October 2024,2,1885.0,September 2024
+Hosur,Tamil Nadu,September 2024,0,544.0,August 2024
+Hosur,Tamil Nadu,September 2024,0,7.0,October 2024
+Hosur,Tamil Nadu,August 2024,13,12.0,September 2024
+Hosur,Tamil Nadu,August 2024,13,109.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,16.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,29.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,9.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,45.0,October 2024
+Hosur,Tamil Nadu,October 2024,0,115.0,September 2024
+Hosur,Tamil Nadu,September 2024,7,399.0,August 2024
+Hosur,Tamil Nadu,September 2024,7,52.0,October 2024
+Hosur,Tamil Nadu,August 2024,6,77.0,September 2024
+Hosur,Tamil Nadu,August 2024,6,84.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,114.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,2.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,2.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,2.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,28.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,13.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,2.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,11.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,6.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,0.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,0.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,0.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,0.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,3.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,0.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,123.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,45.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,0.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,64.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,103.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,21.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,0.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,0.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,0.0,August 2024
+Hosur,Tamil Nadu,October 2024,0,2.0,October 2024
+Hosur,Tamil Nadu,September 2024,0,7.0,September 2024
+Hosur,Tamil Nadu,August 2024,0,5.0,August 2024
+Vellore,Tamil Nadu,October 2024,6,620.0,October 2024
+Vellore,Tamil Nadu,October 2024,6,126.0,September 2024
+Vellore,Tamil Nadu,October 2024,6,0.0,August 2024
+Vellore,Tamil Nadu,October 2024,6,6.0,October 2024
+Vellore,Tamil Nadu,September 2024,22,14.0,September 2024
+Vellore,Tamil Nadu,September 2024,22,0.0,August 2024
+Vellore,Tamil Nadu,September 2024,22,0.0,October 2024
+Vellore,Tamil Nadu,September 2024,22,0.0,September 2024
+Vellore,Tamil Nadu,August 2024,49,0.0,August 2024
+Vellore,Tamil Nadu,August 2024,49,101.0,October 2024
+Vellore,Tamil Nadu,August 2024,49,131.0,September 2024
+Vellore,Tamil Nadu,August 2024,49,0.0,August 2024
+Vellore,Tamil Nadu,October 2024,0,20.0,October 2024
+Vellore,Tamil Nadu,September 2024,0,24.0,September 2024
+Vellore,Tamil Nadu,August 2024,0,13.0,August 2024
+Vellore,Tamil Nadu,October 2024,0,185.0,October 2024
+Vellore,Tamil Nadu,September 2024,0,45.0,September 2024
+Vellore,Tamil Nadu,August 2024,0,0.0,August 2024
+Pune,Maharashtra,October 2024,0,0.0,October 2024
+Pune,Maharashtra,September 2024,0,0.0,September 2024
+Pune,Maharashtra,August 2024,0,0.0,August 2024
+Hyderabad,Telangana,October 2024,0,53.0,October 2024
+Hyderabad,Telangana,September 2024,0,86.0,September 2024
+Hyderabad,Telangana,August 2024,43,0.0,August 2024
+Srikakulam,Andhra Pradesh,October 2024,47,49.0,October 2024
+Srikakulam,Andhra Pradesh,October 2024,47,59.0,September 2024
+Srikakulam,Andhra Pradesh,October 2024,47,13.0,August 2024
+Srikakulam,Andhra Pradesh,October 2024,47,209.0,October 2024
+Srikakulam,Andhra Pradesh,September 2024,125,54.0,September 2024
+Srikakulam,Andhra Pradesh,September 2024,125,36.0,August 2024
+Srikakulam,Andhra Pradesh,September 2024,125,202.0,October 2024
+Srikakulam,Andhra Pradesh,September 2024,125,21.0,September 2024
+Srikakulam,Andhra Pradesh,August 2024,63,0.0,August 2024
+Srikakulam,Andhra Pradesh,August 2024,63,0.0,October 2024
+Srikakulam,Andhra Pradesh,August 2024,63,0.0,September 2024
+Srikakulam,Andhra Pradesh,August 2024,63,0.0,August 2024
+Guntur,Andhra Pradesh,October 2024,37,1.0,October 2024
+Guntur,Andhra Pradesh,October 2024,37,0.0,September 2024
+Guntur,Andhra Pradesh,October 2024,37,73.0,August 2024
+Guntur,Andhra Pradesh,September 2024,65,10.0,October 2024
+Guntur,Andhra Pradesh,September 2024,65,7.0,September 2024
+Guntur,Andhra Pradesh,September 2024,65,6.0,August 2024
+Guntur,Andhra Pradesh,August 2024,32,1.0,October 2024
+Guntur,Andhra Pradesh,August 2024,32,14.0,September 2024
+Guntur,Andhra Pradesh,August 2024,32,0.0,August 2024
+Nimbahera,Rajasthan,October 2024,1,3.0,October 2024
+Nimbahera,Rajasthan,October 2024,1,0.0,September 2024
+Nimbahera,Rajasthan,October 2024,1,0.0,August 2024
+Nimbahera,Rajasthan,September 2024,0,20.0,October 2024
+Nimbahera,Rajasthan,September 2024,0,0.0,September 2024
+Nimbahera,Rajasthan,September 2024,0,0.0,August 2024
+Nimbahera,Rajasthan,August 2024,148,20.0,October 2024
+Nimbahera,Rajasthan,August 2024,148,34.0,September 2024
+Nimbahera,Rajasthan,August 2024,148,0.0,August 2024
+Hyderabad,Telangana,October 2024,1,15.0,October 2024
+Hyderabad,Telangana,October 2024,1,62.0,September 2024
+Hyderabad,Telangana,October 2024,1,0.0,August 2024
+Hyderabad,Telangana,September 2024,1,138.0,October 2024
+Hyderabad,Telangana,September 2024,1,164.0,September 2024
+Hyderabad,Telangana,September 2024,1,0.0,August 2024
+Hyderabad,Telangana,August 2024,9,24.0,October 2024
+Hyderabad,Telangana,August 2024,9,22.0,September 2024
+Hyderabad,Telangana,August 2024,9,0.0,August 2024
+Hyderabad,Telangana,October 2024,0,17.0,October 2024
+Hyderabad,Telangana,September 2024,0,17.0,September 2024
+Hyderabad,Telangana,August 2024,0,0.0,August 2024
+Hyderabad,Telangana,October 2024,0,8.0,October 2024
+Hyderabad,Telangana,September 2024,0,21.0,September 2024
+Hyderabad,Telangana,August 2024,0,0.0,August 2024
+Hyderabad,Telangana,October 2024,0,0.0,October 2024
+Hyderabad,Telangana,September 2024,0,110.0,September 2024
+Hyderabad,Telangana,August 2024,0,0.0,August 2024
+Thanjavur,Tamil Nadu,October 2024,0,0.0,October 2024
+Thanjavur,Tamil Nadu,September 2024,0,0.0,September 2024
+Thanjavur,Tamil Nadu,August 2024,0,0.0,August 2024
+Rohtak,Haryana,October 2024,0,41.0,October 2024
+Rohtak,Haryana,October 2024,0,47.0,September 2024
+Rohtak,Haryana,September 2024,60,0.0,August 2024
+Rohtak,Haryana,September 2024,60,52.0,October 2024
+Rohtak,Haryana,August 2024,15,0.0,September 2024
+Rohtak,Haryana,August 2024,15,0.0,August 2024
+Hyderabad,Telangana,October 2024,18,138.0,October 2024
+Hyderabad,Telangana,October 2024,18,0.0,September 2024
+Hyderabad,Telangana,October 2024,18,0.0,August 2024
+Hyderabad,Telangana,October 2024,18,222.0,October 2024
+Hyderabad,Telangana,September 2024,11,0.0,September 2024
+Hyderabad,Telangana,September 2024,11,0.0,August 2024
+Hyderabad,Telangana,September 2024,11,15.0,October 2024
+Hyderabad,Telangana,September 2024,11,0.0,September 2024
+Hyderabad,Telangana,August 2024,10,0.0,August 2024
+Hyderabad,Telangana,August 2024,10,16.0,October 2024
+Hyderabad,Telangana,August 2024,10,0.0,September 2024
+Hyderabad,Telangana,August 2024,10,0.0,August 2024
+Mangaluru,Karnataka,October 2024,0,0.0,October 2024
+Mangaluru,Karnataka,October 2024,0,0.0,September 2024
+Mangaluru,Karnataka,September 2024,10,0.0,August 2024
+Mangaluru,Karnataka,September 2024,10,126.0,October 2024
+Mangaluru,Karnataka,August 2024,49,0.0,September 2024
+Mangaluru,Karnataka,August 2024,49,0.0,August 2024
+Bharatpur,Rajasthan,October 2024,3,20.0,October 2024
+Bharatpur,Rajasthan,October 2024,3,0.0,September 2024
+Bharatpur,Rajasthan,October 2024,3,0.0,August 2024
+Bharatpur,Rajasthan,September 2024,1,25.0,October 2024
+Bharatpur,Rajasthan,September 2024,1,0.0,September 2024
+Bharatpur,Rajasthan,September 2024,1,0.0,August 2024
+Bharatpur,Rajasthan,August 2024,2,88.0,October 2024
+Bharatpur,Rajasthan,August 2024,2,0.0,September 2024
+Bharatpur,Rajasthan,August 2024,2,0.0,August 2024
+Pune,Maharashtra,October 2024,0,74.0,October 2024
+Pune,Maharashtra,September 2024,0,0.0,September 2024
+Pune,Maharashtra,August 2024,0,0.0,August 2024
+Rajnandgaon,Chhattisgarh,October 2024,223,4.0,October 2024
+Rajnandgaon,Chhattisgarh,October 2024,223,0.0,September 2024
+Rajnandgaon,Chhattisgarh,October 2024,223,0.0,August 2024
+Rajnandgaon,Chhattisgarh,October 2024,223,1.0,October 2024
+Rajnandgaon,Chhattisgarh,September 2024,291,0.0,September 2024
+Rajnandgaon,Chhattisgarh,September 2024,291,0.0,August 2024
+Rajnandgaon,Chhattisgarh,September 2024,291,0.0,October 2024
+Rajnandgaon,Chhattisgarh,September 2024,291,0.0,September 2024
+Rajnandgaon,Chhattisgarh,August 2024,307,0.0,August 2024
+Rajnandgaon,Chhattisgarh,August 2024,307,0.0,October 2024
+Rajnandgaon,Chhattisgarh,August 2024,307,0.0,September 2024
+Rajnandgaon,Chhattisgarh,August 2024,307,0.0,August 2024
+Bahadurgarh,Haryana,October 2024,2,0.0,October 2024
+Bahadurgarh,Haryana,October 2024,2,0.0,September 2024
+Bahadurgarh,Haryana,October 2024,2,0.0,August 2024
+Bahadurgarh,Haryana,October 2024,2,9.0,October 2024
+Bahadurgarh,Haryana,September 2024,6,0.0,September 2024
+Bahadurgarh,Haryana,September 2024,6,0.0,August 2024
+Bahadurgarh,Haryana,September 2024,6,12.0,October 2024
+Bahadurgarh,Haryana,September 2024,6,0.0,September 2024
+Bahadurgarh,Haryana,August 2024,2,0.0,August 2024
+Bahadurgarh,Haryana,August 2024,2,0.0,October 2024
+Bahadurgarh,Haryana,August 2024,2,0.0,September 2024
+Bahadurgarh,Haryana,August 2024,2,0.0,August 2024
+Krishnapuram Colony,Tamil Nadu,October 2024,7,0.0,October 2024
+Krishnapuram Colony,Tamil Nadu,October 2024,7,0.0,September 2024
+Krishnapuram Colony,Tamil Nadu,October 2024,7,0.0,August 2024
+Krishnapuram Colony,Tamil Nadu,September 2024,4,0.0,October 2024
+Krishnapuram Colony,Tamil Nadu,September 2024,4,0.0,September 2024
+Krishnapuram Colony,Tamil Nadu,September 2024,4,0.0,August 2024
+Krishnapuram Colony,Tamil Nadu,August 2024,7,0.0,October 2024
+Krishnapuram Colony,Tamil Nadu,August 2024,7,0.0,September 2024
+Krishnapuram Colony,Tamil Nadu,August 2024,7,0.0,August 2024
+Guntur,Andhra Pradesh,October 2024,73,0.0,October 2024
+Guntur,Andhra Pradesh,October 2024,73,0.0,September 2024
+Guntur,Andhra Pradesh,October 2024,73,0.0,August 2024
+Guntur,Andhra Pradesh,September 2024,253,0.0,October 2024
+Guntur,Andhra Pradesh,September 2024,253,0.0,September 2024
+Guntur,Andhra Pradesh,September 2024,253,0.0,August 2024
+Guntur,Andhra Pradesh,August 2024,64,0.0,0
+Guntur,Andhra Pradesh,August 2024,64,0.0,0
+Guntur,Andhra Pradesh,August 2024,64,0.0,0
+Kozhikode,Kerala,October 2024,94,0.0,0
+Kozhikode,Kerala,October 2024,94,0.0,0
+Kozhikode,Kerala,October 2024,94,0.0,0
+Kozhikode,Kerala,October 2024,94,0.0,0
+Kozhikode,Kerala,September 2024,147,0.0,0
+Kozhikode,Kerala,September 2024,147,0.0,0
+Kozhikode,Kerala,September 2024,147,0.0,0
+Kozhikode,Kerala,September 2024,147,0.0,0
+Kozhikode,Kerala,August 2024,339,0.0,0
+Kozhikode,Kerala,August 2024,339,0.0,0
+Kozhikode,Kerala,August 2024,339,0.0,0
+Kozhikode,Kerala,August 2024,339,0.0,0
+Hyderabad,Telangana,October 2024,57,0.0,0
+Hyderabad,Telangana,October 2024,57,0.0,0
+Hyderabad,Telangana,October 2024,57,0.0,0
+Hyderabad,Telangana,October 2024,57,0.0,0
+Hyderabad,Telangana,September 2024,23,0.0,0
+Hyderabad,Telangana,September 2024,23,0.0,0
+Hyderabad,Telangana,September 2024,23,0.0,0
+Hyderabad,Telangana,September 2024,23,0.0,0
+Hyderabad,Telangana,August 2024,63,0.0,0
+Hyderabad,Telangana,August 2024,63,0.0,0
+Hyderabad,Telangana,August 2024,63,0.0,0
+Hyderabad,Telangana,August 2024,63,0.0,0
+Hyderabad,Telangana,October 2024,0,0.0,0
+Hyderabad,Telangana,October 2024,0,0.0,0
+Hyderabad,Telangana,September 2024,0,0.0,0
+Hyderabad,Telangana,September 2024,0,0.0,0
+Hyderabad,Telangana,August 2024,3,0.0,0
+Hyderabad,Telangana,August 2024,3,0.0,0
+Sursand Pashchimi,Bihar,October 2024,0,0.0,0
+Sursand Pashchimi,Bihar,September 2024,9,0.0,0
+Sursand Pashchimi,Bihar,August 2024,0,0.0,0
+Korba,Chhattisgarh,October 2024,327,0.0,0
+Korba,Chhattisgarh,October 2024,327,0.0,0
+Korba,Chhattisgarh,October 2024,327,0.0,0
+Korba,Chhattisgarh,October 2024,327,0.0,0
+Korba,Chhattisgarh,September 2024,399,0.0,0
+Korba,Chhattisgarh,September 2024,399,0.0,0
+Korba,Chhattisgarh,September 2024,399,0.0,0
+Korba,Chhattisgarh,September 2024,399,0.0,0
+Korba,Chhattisgarh,August 2024,376,0.0,0
+Korba,Chhattisgarh,August 2024,376,0.0,0
+Korba,Chhattisgarh,August 2024,376,0.0,0
+Korba,Chhattisgarh,August 2024,376,0.0,0
+Vellore,Tamil Nadu,October 2024,3,0.0,0
+Vellore,Tamil Nadu,October 2024,3,0.0,0
+Vellore,Tamil Nadu,October 2024,3,0.0,0
+Vellore,Tamil Nadu,September 2024,4,0.0,0
+Vellore,Tamil Nadu,September 2024,4,0.0,0
+Vellore,Tamil Nadu,September 2024,4,0.0,0
+Vellore,Tamil Nadu,August 2024,18,0.0,0
+Vellore,Tamil Nadu,August 2024,18,0.0,0
+Vellore,Tamil Nadu,August 2024,18,0.0,0
+Chennai,Tamil Nadu,October 2024,0,0.0,0
+Chennai,Tamil Nadu,October 2024,0,0.0,0
+Chennai,Tamil Nadu,October 2024,0,0.0,0
+Chennai,Tamil Nadu,September 2024,3,0.0,0
+Chennai,Tamil Nadu,September 2024,3,0.0,0
+Chennai,Tamil Nadu,September 2024,3,0.0,0
+Chennai,Tamil Nadu,August 2024,3,0.0,0
+Chennai,Tamil Nadu,August 2024,3,0.0,0
+Chennai,Tamil Nadu,August 2024,3,0.0,0
+Hyderabad,Telangana,October 2024,1,0.0,0
+Hyderabad,Telangana,October 2024,1,0.0,0
+Hyderabad,Telangana,October 2024,1,0.0,0
+Hyderabad,Telangana,September 2024,5,0.0,0
+Hyderabad,Telangana,September 2024,5,0.0,0
+Hyderabad,Telangana,September 2024,5,0.0,0
+Hyderabad,Telangana,August 2024,22,0.0,0
+Hyderabad,Telangana,August 2024,22,0.0,0
+Hyderabad,Telangana,August 2024,22,0.0,0
+Morbi,Gujarat,October 2024,194,0.0,0
+Morbi,Gujarat,October 2024,194,0.0,0
+Morbi,Gujarat,October 2024,194,0.0,0
+Morbi,Gujarat,October 2024,194,0.0,0
+Morbi,Gujarat,September 2024,250,0.0,0
+Morbi,Gujarat,September 2024,250,0.0,0
+Morbi,Gujarat,September 2024,250,0.0,0
+Morbi,Gujarat,September 2024,250,0.0,0
+Morbi,Gujarat,August 2024,302,0.0,0
+Morbi,Gujarat,August 2024,302,0.0,0
+Morbi,Gujarat,August 2024,302,0.0,0
+Morbi,Gujarat,August 2024,302,0.0,0
+Pune,Maharashtra,October 2024,0,0.0,0
+Pune,Maharashtra,September 2024,0,0.0,0
+Pune,Maharashtra,August 2024,0,0.0,0
+Puducherry,Puducherry,October 2024,0,0.0,0
+Puducherry,Puducherry,September 2024,0,0.0,0
+Puducherry,Puducherry,August 2024,1,0.0,0
+"NE 3, India","NE 3, India",October 2024,116,0.0,0
+"NE 3, India","NE 3, India",October 2024,116,0.0,0
+"NE 3, India","NE 3, India",October 2024,116,0.0,0
+"NE 3, India","NE 3, India",October 2024,116,0.0,0
+"NE 3, India","NE 3, India",September 2024,50,0.0,0
+"NE 3, India","NE 3, India",September 2024,50,0.0,0
+"NE 3, India","NE 3, India",September 2024,50,0.0,0
+"NE 3, India","NE 3, India",September 2024,50,0.0,0
+"NE 3, India","NE 3, India",August 2024,64,0.0,0
+"NE 3, India","NE 3, India",August 2024,64,0.0,0
+"NE 3, India","NE 3, India",August 2024,64,0.0,0
+"NE 3, India","NE 3, India",August 2024,64,0.0,0
+Chennai,Tamil Nadu,October 2024,19,0.0,0
+Chennai,Tamil Nadu,October 2024,19,0.0,0
+Chennai,Tamil Nadu,October 2024,19,0.0,0
+Chennai,Tamil Nadu,October 2024,19,0.0,0
+Chennai,Tamil Nadu,September 2024,24,0.0,0
+Chennai,Tamil Nadu,September 2024,24,0.0,0
+Chennai,Tamil Nadu,September 2024,24,0.0,0
+Chennai,Tamil Nadu,September 2024,24,0.0,0
+Chennai,Tamil Nadu,August 2024,24,0.0,0
+Chennai,Tamil Nadu,August 2024,24,0.0,0
+Chennai,Tamil Nadu,August 2024,24,0.0,0
+Chennai,Tamil Nadu,August 2024,24,0.0,0
+Chennai,Tamil Nadu,October 2024,8,0.0,0
+Chennai,Tamil Nadu,October 2024,8,0.0,0
+Chennai,Tamil Nadu,October 2024,8,0.0,0
+Chennai,Tamil Nadu,October 2024,8,0.0,0
+Chennai,Tamil Nadu,September 2024,6,0.0,0
+Chennai,Tamil Nadu,September 2024,6,0.0,0
+Chennai,Tamil Nadu,September 2024,6,0.0,0
+Chennai,Tamil Nadu,September 2024,6,0.0,0
+Chennai,Tamil Nadu,August 2024,13,0.0,0
+Chennai,Tamil Nadu,August 2024,13,0.0,0
+Chennai,Tamil Nadu,August 2024,13,0.0,0
+Chennai,Tamil Nadu,August 2024,13,0.0,0
+Chennai,Tamil Nadu,October 2024,75,0.0,0
+Chennai,Tamil Nadu,October 2024,75,0.0,0
+Chennai,Tamil Nadu,October 2024,75,0.0,0
+Chennai,Tamil Nadu,September 2024,87,0.0,0
+Chennai,Tamil Nadu,September 2024,87,0.0,0
+Chennai,Tamil Nadu,September 2024,87,0.0,0
+Chennai,Tamil Nadu,August 2024,89,0.0,0
+Chennai,Tamil Nadu,August 2024,89,0.0,0
+Chennai,Tamil Nadu,August 2024,89,0.0,0
+Chennai,Tamil Nadu,October 2024,24,0.0,0
+Chennai,Tamil Nadu,October 2024,24,0.0,0
+Chennai,Tamil Nadu,October 2024,24,0.0,0
+Chennai,Tamil Nadu,September 2024,19,0.0,0
+Chennai,Tamil Nadu,September 2024,19,0.0,0
+Chennai,Tamil Nadu,September 2024,19,0.0,0
+Chennai,Tamil Nadu,August 2024,22,0.0,0
+Chennai,Tamil Nadu,August 2024,22,0.0,0
+Chennai,Tamil Nadu,August 2024,22,0.0,0
+Kondapur,Telangana,October 2024,6,0.0,0
+Kondapur,Telangana,October 2024,6,0.0,0
+Kondapur,Telangana,October 2024,6,0.0,0
+Kondapur,Telangana,September 2024,76,0.0,0
+Kondapur,Telangana,September 2024,76,0.0,0
+Kondapur,Telangana,September 2024,76,0.0,0
+Kondapur,Telangana,August 2024,56,0.0,0
+Kondapur,Telangana,August 2024,56,0.0,0
+Kondapur,Telangana,August 2024,56,0.0,0
+Chennai,Tamil Nadu,October 2024,9,0.0,0
+Chennai,Tamil Nadu,October 2024,9,0.0,0
+Chennai,Tamil Nadu,September 2024,4,0.0,0
+Chennai,Tamil Nadu,September 2024,4,0.0,0
+Chennai,Tamil Nadu,August 2024,0,0.0,0
+Chennai,Tamil Nadu,August 2024,0,0.0,0
+Chennai,Tamil Nadu,October 2024,0,0.0,0
+Chennai,Tamil Nadu,September 2024,0,0.0,0
+Chennai,Tamil Nadu,August 2024,0,0.0,0
+Bengaluru,Karnataka,October 2024,206,0.0,0
+Bengaluru,Karnataka,October 2024,206,0.0,0
+Bengaluru,Karnataka,October 2024,206,0.0,0
+Bengaluru,Karnataka,October 2024,206,0.0,0
+Bengaluru,Karnataka,September 2024,614,0.0,0
+Bengaluru,Karnataka,September 2024,614,0.0,0
+Bengaluru,Karnataka,September 2024,614,0.0,0
+Bengaluru,Karnataka,September 2024,614,0.0,0
+Bengaluru,Karnataka,August 2024,101,0.0,0
+Bengaluru,Karnataka,August 2024,101,0.0,0
+Bengaluru,Karnataka,August 2024,101,0.0,0
+Bengaluru,Karnataka,August 2024,101,0.0,0
+Hassan,Karnataka,October 2024,63,0.0,0
+Hassan,Karnataka,October 2024,63,0.0,0
+Hassan,Karnataka,October 2024,63,0.0,0
+Hassan,Karnataka,September 2024,144,0.0,0
+Hassan,Karnataka,September 2024,144,0.0,0
+Hassan,Karnataka,September 2024,144,0.0,0
+Hassan,Karnataka,August 2024,77,0.0,0
+Hassan,Karnataka,August 2024,77,0.0,0
+Hassan,Karnataka,August 2024,77,0.0,0
+Tenkasi,Tamil Nadu,October 2024,46,0.0,0
+Tenkasi,Tamil Nadu,October 2024,46,0.0,0
+Tenkasi,Tamil Nadu,October 2024,46,0.0,0
+Tenkasi,Tamil Nadu,September 2024,5,0.0,0
+Tenkasi,Tamil Nadu,September 2024,5,0.0,0
+Tenkasi,Tamil Nadu,September 2024,5,0.0,0
+Tenkasi,Tamil Nadu,August 2024,14,0.0,0
+Tenkasi,Tamil Nadu,August 2024,14,0.0,0
+Tenkasi,Tamil Nadu,August 2024,14,0.0,0
+Thiruvananthapuram,Kerala,October 2024,0,0.0,0
+Thiruvananthapuram,Kerala,September 2024,0,0.0,0
+Thiruvananthapuram,Kerala,August 2024,0,0.0,0
+Agampur,Punjab,October 2024,34,0.0,0
+Agampur,Punjab,October 2024,34,0.0,0
+Agampur,Punjab,October 2024,34,0.0,0
+Agampur,Punjab,September 2024,20,0.0,0
+Agampur,Punjab,September 2024,20,0.0,0
+Agampur,Punjab,September 2024,20,0.0,0
+Agampur,Punjab,August 2024,72,0.0,0
+Agampur,Punjab,August 2024,72,0.0,0
+Agampur,Punjab,August 2024,72,0.0,0
+Avalahalli,Karnataka,October 2024,0,0.0,0
+Avalahalli,Karnataka,October 2024,0,0.0,0
+Avalahalli,Karnataka,September 2024,21,0.0,0
+Avalahalli,Karnataka,September 2024,21,0.0,0
+Avalahalli,Karnataka,August 2024,10,0.0,0
+Avalahalli,Karnataka,August 2024,10,0.0,0
+Gandhigramam,Tamil Nadu,October 2024,179,0.0,0
+Gandhigramam,Tamil Nadu,October 2024,179,0.0,0
+Gandhigramam,Tamil Nadu,October 2024,179,0.0,0
+Gandhigramam,Tamil Nadu,October 2024,179,0.0,0
+Gandhigramam,Tamil Nadu,September 2024,87,0.0,0
+Gandhigramam,Tamil Nadu,September 2024,87,0.0,0
+Gandhigramam,Tamil Nadu,September 2024,87,0.0,0
+Gandhigramam,Tamil Nadu,September 2024,87,0.0,0
+Gandhigramam,Tamil Nadu,August 2024,245,0.0,0
+Gandhigramam,Tamil Nadu,August 2024,245,0.0,0
+Gandhigramam,Tamil Nadu,August 2024,245,0.0,0
+Gandhigramam,Tamil Nadu,August 2024,245,0.0,0
+Bengaluru,Karnataka,October 2024,4,0.0,0
+Bengaluru,Karnataka,October 2024,4,0.0,0
+Bengaluru,Karnataka,October 2024,4,0.0,0
+Bengaluru,Karnataka,October 2024,4,0.0,0
+Bengaluru,Karnataka,September 2024,25,0.0,0
+Bengaluru,Karnataka,September 2024,25,0.0,0
+Bengaluru,Karnataka,September 2024,25,0.0,0
+Bengaluru,Karnataka,September 2024,25,0.0,0
+Bengaluru,Karnataka,August 2024,518,0.0,0
+Bengaluru,Karnataka,August 2024,518,0.0,0
+Bengaluru,Karnataka,August 2024,518,0.0,0
+Bengaluru,Karnataka,August 2024,518,0.0,0
+Chhatrapati Sambhaji Nagar,Maharashtra,October 2024,4,0.0,0
+Chhatrapati Sambhaji Nagar,Maharashtra,October 2024,4,0.0,0
+Chhatrapati Sambhaji Nagar,Maharashtra,September 2024,0,0.0,0
+Chhatrapati Sambhaji Nagar,Maharashtra,September 2024,0,0.0,0
+Chhatrapati Sambhaji Nagar,Maharashtra,August 2024,4,0.0,0
+Chhatrapati Sambhaji Nagar,Maharashtra,August 2024,4,0.0,0
+Rajkot,Gujarat,October 2024,6,0.0,0
+Rajkot,Gujarat,October 2024,6,0.0,0
+Rajkot,Gujarat,October 2024,6,0.0,0
+Rajkot,Gujarat,September 2024,30,0.0,0
+Rajkot,Gujarat,September 2024,30,0.0,0
+Rajkot,Gujarat,September 2024,30,0.0,0
+Rajkot,Gujarat,August 2024,5,0.0,0
+Rajkot,Gujarat,August 2024,5,0.0,0
+Rajkot,Gujarat,August 2024,5,0.0,0
+Vadodara,Gujarat,October 2024,21,0.0,0
+Vadodara,Gujarat,October 2024,21,0.0,0
+Vadodara,Gujarat,October 2024,21,0.0,0
+Vadodara,Gujarat,October 2024,21,0.0,0
+Vadodara,Gujarat,September 2024,36,0.0,0
+Vadodara,Gujarat,September 2024,36,0.0,0
+Vadodara,Gujarat,September 2024,36,0.0,0
+Vadodara,Gujarat,September 2024,36,0.0,0
+Vadodara,Gujarat,August 2024,13,0.0,0
+Vadodara,Gujarat,August 2024,13,0.0,0
+Vadodara,Gujarat,August 2024,13,0.0,0
+Vadodara,Gujarat,August 2024,13,0.0,0
+Jaipur,Rajasthan,October 2024,0,0.0,0
+Jaipur,Rajasthan,October 2024,0,0.0,0
+Jaipur,Rajasthan,September 2024,0,0.0,0
+Jaipur,Rajasthan,September 2024,0,0.0,0
+Jaipur,Rajasthan,August 2024,1,0.0,0
+Jaipur,Rajasthan,August 2024,1,0.0,0
+Ranipet,Tamil Nadu,October 2024,15,0.0,0
+Ranipet,Tamil Nadu,October 2024,15,0.0,0
+Ranipet,Tamil Nadu,October 2024,15,0.0,0
+Ranipet,Tamil Nadu,September 2024,5,0.0,0
+Ranipet,Tamil Nadu,September 2024,5,0.0,0
+Ranipet,Tamil Nadu,September 2024,5,0.0,0
+Ranipet,Tamil Nadu,August 2024,9,0.0,0
+Ranipet,Tamil Nadu,August 2024,9,0.0,0
+Ranipet,Tamil Nadu,August 2024,9,0.0,0
+Madurai,Tamil Nadu,October 2024,8,0.0,0
+Madurai,Tamil Nadu,October 2024,8,0.0,0
+Madurai,Tamil Nadu,October 2024,8,0.0,0
+Madurai,Tamil Nadu,October 2024,8,0.0,0
+Madurai,Tamil Nadu,September 2024,186,0.0,0
+Madurai,Tamil Nadu,September 2024,186,0.0,0
+Madurai,Tamil Nadu,September 2024,186,0.0,0
+Madurai,Tamil Nadu,September 2024,186,0.0,0
+Madurai,Tamil Nadu,August 2024,808,0.0,0
+Madurai,Tamil Nadu,August 2024,808,0.0,0
+Madurai,Tamil Nadu,August 2024,808,0.0,0
+Madurai,Tamil Nadu,August 2024,808,0.0,0
+Jamshedpur,Jharkhand,October 2024,0,0.0,0
+Jamshedpur,Jharkhand,October 2024,0,0.0,0
+Jamshedpur,Jharkhand,September 2024,16,0.0,0
+Jamshedpur,Jharkhand,September 2024,16,0.0,0
+Jamshedpur,Jharkhand,August 2024,19,0.0,0
+Jamshedpur,Jharkhand,August 2024,19,0.0,0
+Coimbatore,Tamil Nadu,October 2024,1,0.0,0
+Coimbatore,Tamil Nadu,October 2024,1,0.0,0
+Coimbatore,Tamil Nadu,September 2024,10,0.0,0
+Coimbatore,Tamil Nadu,September 2024,10,0.0,0
+Coimbatore,Tamil Nadu,August 2024,0,0.0,0
+Coimbatore,Tamil Nadu,August 2024,0,0.0,0
+Chidambaram,Tamil Nadu,October 2024,213,0.0,0
+Chidambaram,Tamil Nadu,October 2024,213,0.0,0
+Chidambaram,Tamil Nadu,October 2024,213,0.0,0
+Chidambaram,Tamil Nadu,September 2024,302,0.0,0
+Chidambaram,Tamil Nadu,September 2024,302,0.0,0
+Chidambaram,Tamil Nadu,September 2024,302,0.0,0
+Chidambaram,Tamil Nadu,August 2024,6,0.0,0
+Chidambaram,Tamil Nadu,August 2024,6,0.0,0
+Chidambaram,Tamil Nadu,August 2024,6,0.0,0
+Udaipur,Rajasthan,October 2024,50,0.0,0
+Udaipur,Rajasthan,October 2024,50,0.0,0
+Udaipur,Rajasthan,October 2024,50,0.0,0
+Udaipur,Rajasthan,October 2024,50,0.0,0
+Udaipur,Rajasthan,September 2024,25,0.0,0
+Udaipur,Rajasthan,September 2024,25,0.0,0
+Udaipur,Rajasthan,September 2024,25,0.0,0
+Udaipur,Rajasthan,September 2024,25,0.0,0
+Udaipur,Rajasthan,August 2024,6,0.0,0
+Udaipur,Rajasthan,August 2024,6,0.0,0
+Udaipur,Rajasthan,August 2024,6,0.0,0
+Udaipur,Rajasthan,August 2024,6,0.0,0
+Mumbai,Maharashtra,October 2024,0,0.0,0
+Mumbai,Maharashtra,September 2024,0,0.0,0
+Mumbai,Maharashtra,August 2024,0,0.0,0
+Salem,Tamil Nadu,October 2024,0,0.0,0
+Salem,Tamil Nadu,September 2024,0,0.0,0
+Salem,Tamil Nadu,August 2024,0,0.0,0
+Jaipur,Rajasthan,October 2024,416,0.0,0
+Jaipur,Rajasthan,October 2024,416,0.0,0
+Jaipur,Rajasthan,October 2024,416,0.0,0
+Jaipur,Rajasthan,October 2024,416,0.0,0
+Jaipur,Rajasthan,September 2024,527,0.0,0
+Jaipur,Rajasthan,September 2024,527,0.0,0
+Jaipur,Rajasthan,September 2024,527,0.0,0
+Jaipur,Rajasthan,September 2024,527,0.0,0
+Jaipur,Rajasthan,August 2024,500,0.0,0
+Jaipur,Rajasthan,August 2024,500,0.0,0
+Jaipur,Rajasthan,August 2024,500,0.0,0
+Jaipur,Rajasthan,August 2024,500,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,October 2024,13,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,October 2024,13,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,October 2024,13,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,October 2024,13,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,September 2024,7,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,September 2024,7,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,September 2024,7,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,September 2024,7,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,August 2024,105,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,August 2024,105,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,August 2024,105,0.0,0
+"Razole, Andhra Pradesh, India",Andhra Pradesh,August 2024,105,0.0,0
+Baramati,Maharashtra,October 2024,13,0.0,0
+Baramati,Maharashtra,October 2024,13,0.0,0
+Baramati,Maharashtra,October 2024,13,0.0,0
+Baramati,Maharashtra,October 2024,13,0.0,0
+Baramati,Maharashtra,September 2024,93,0.0,0
+Baramati,Maharashtra,September 2024,93,0.0,0
+Baramati,Maharashtra,September 2024,93,0.0,0
+Baramati,Maharashtra,September 2024,93,0.0,0
+Baramati,Maharashtra,August 2024,158,0.0,0
+Baramati,Maharashtra,August 2024,158,0.0,0
+Baramati,Maharashtra,August 2024,158,0.0,0
+Baramati,Maharashtra,August 2024,158,0.0,0
+Bhavnagar,Gujarat,October 2024,36,0.0,0
+Bhavnagar,Gujarat,October 2024,36,0.0,0
+Bhavnagar,Gujarat,October 2024,36,0.0,0
+Bhavnagar,Gujarat,October 2024,36,0.0,0
+Bhavnagar,Gujarat,September 2024,412,0.0,0
+Bhavnagar,Gujarat,September 2024,412,0.0,0
+Bhavnagar,Gujarat,September 2024,412,0.0,0
+Bhavnagar,Gujarat,September 2024,412,0.0,0
+Bhavnagar,Gujarat,August 2024,872,0.0,0
+Bhavnagar,Gujarat,August 2024,872,0.0,0
+Bhavnagar,Gujarat,August 2024,872,0.0,0
+Bhavnagar,Gujarat,August 2024,872,0.0,0
+Dubai,Dubai,October 2024,0,0.0,0
+Dubai,Dubai,September 2024,0,0.0,0
+Dubai,Dubai,August 2024,0,0.0,0
+Chennai,Tamil Nadu,October 2024,1,0.0,0
+Chennai,Tamil Nadu,October 2024,1,0.0,0
+Chennai,Tamil Nadu,October 2024,1,0.0,0
+Chennai,Tamil Nadu,October 2024,1,0.0,0
+Chennai,Tamil Nadu,September 2024,86,0.0,0
+Chennai,Tamil Nadu,September 2024,86,0.0,0
+Chennai,Tamil Nadu,September 2024,86,0.0,0
+Chennai,Tamil Nadu,September 2024,86,0.0,0
+Chennai,Tamil Nadu,August 2024,24,0.0,0
+Chennai,Tamil Nadu,August 2024,24,0.0,0
+Chennai,Tamil Nadu,August 2024,24,0.0,0
+Chennai,Tamil Nadu,August 2024,24,0.0,0
+Avadi,Tamil Nadu,October 2024,0,0.0,0
+Avadi,Tamil Nadu,October 2024,0,0.0,0
+Avadi,Tamil Nadu,September 2024,1885,0.0,0
+Avadi,Tamil Nadu,September 2024,1885,0.0,0
+Avadi,Tamil Nadu,August 2024,544,0.0,0
+Avadi,Tamil Nadu,August 2024,544,0.0,0
+Kanpur,Uttar Pradesh,October 2024,7,0.0,0
+Kanpur,Uttar Pradesh,October 2024,7,0.0,0
+Kanpur,Uttar Pradesh,October 2024,7,0.0,0
+Kanpur,Uttar Pradesh,September 2024,12,0.0,0
+Kanpur,Uttar Pradesh,September 2024,12,0.0,0
+Kanpur,Uttar Pradesh,September 2024,12,0.0,0
+Kanpur,Uttar Pradesh,August 2024,109,0.0,0
+Kanpur,Uttar Pradesh,August 2024,109,0.0,0
+Kanpur,Uttar Pradesh,August 2024,109,0.0,0
+Meerpet,Telangana,October 2024,16,0.0,0
+Meerpet,Telangana,October 2024,16,0.0,0
+Meerpet,Telangana,October 2024,16,0.0,0
+Meerpet,Telangana,September 2024,29,0.0,0
+Meerpet,Telangana,September 2024,29,0.0,0
+Meerpet,Telangana,September 2024,29,0.0,0
+Meerpet,Telangana,August 2024,9,0.0,0
+Meerpet,Telangana,August 2024,9,0.0,0
+Meerpet,Telangana,August 2024,9,0.0,0
+Bengaluru,Karnataka,October 2024,45,0.0,0
+Bengaluru,Karnataka,October 2024,45,0.0,0
+Bengaluru,Karnataka,October 2024,45,0.0,0
+Bengaluru,Karnataka,September 2024,115,0.0,0
+Bengaluru,Karnataka,September 2024,115,0.0,0
+Bengaluru,Karnataka,September 2024,115,0.0,0
+Bengaluru,Karnataka,August 2024,399,0.0,0
+Bengaluru,Karnataka,August 2024,399,0.0,0
+Bengaluru,Karnataka,August 2024,399,0.0,0
+Srinagar,Srinagar,October 2024,52,0.0,0
+Srinagar,Srinagar,October 2024,52,0.0,0
+Srinagar,Srinagar,October 2024,52,0.0,0
+Srinagar,Srinagar,September 2024,77,0.0,0
+Srinagar,Srinagar,September 2024,77,0.0,0
+Srinagar,Srinagar,September 2024,77,0.0,0
+Srinagar,Srinagar,August 2024,84,0.0,0
+Srinagar,Srinagar,August 2024,84,0.0,0
+Srinagar,Srinagar,August 2024,84,0.0,0
+Gurugram,Haryana,October 2024,114,0.0,0
+Gurugram,Haryana,October 2024,114,0.0,0
+Gurugram,Haryana,October 2024,114,0.0,0
+Gurugram,Haryana,September 2024,2,0.0,0
+Gurugram,Haryana,September 2024,2,0.0,0
+Gurugram,Haryana,September 2024,2,0.0,0
+Gurugram,Haryana,August 2024,2,0.0,0
+Gurugram,Haryana,August 2024,2,0.0,0
+Gurugram,Haryana,August 2024,2,0.0,0
+Visakhapatnam,Andhra Pradesh,October 2024,2,0.0,0
+Visakhapatnam,Andhra Pradesh,October 2024,2,0.0,0
+Visakhapatnam,Andhra Pradesh,October 2024,2,0.0,0
+Visakhapatnam,Andhra Pradesh,September 2024,28,0.0,0
+Visakhapatnam,Andhra Pradesh,September 2024,28,0.0,0
+Visakhapatnam,Andhra Pradesh,September 2024,28,0.0,0
+Visakhapatnam,Andhra Pradesh,August 2024,13,0.0,0
+Visakhapatnam,Andhra Pradesh,August 2024,13,0.0,0
+Visakhapatnam,Andhra Pradesh,August 2024,13,0.0,0
+Ahmedabad,Gujarat,October 2024,2,0.0,0
+Ahmedabad,Gujarat,October 2024,2,0.0,0
+Ahmedabad,Gujarat,October 2024,2,0.0,0
+Ahmedabad,Gujarat,September 2024,11,0.0,0
+Ahmedabad,Gujarat,September 2024,11,0.0,0
+Ahmedabad,Gujarat,September 2024,11,0.0,0
+Ahmedabad,Gujarat,August 2024,6,0.0,0
+Ahmedabad,Gujarat,August 2024,6,0.0,0
+Ahmedabad,Gujarat,August 2024,6,0.0,0
+Ghaziabad,Uttar Pradesh,October 2024,0,0.0,0
+Ghaziabad,Uttar Pradesh,September 2024,0,0.0,0
+Ghaziabad,Uttar Pradesh,August 2024,0,0.0,0
+Salem,Tamil Nadu,October 2024,0,0.0,0
+Salem,Tamil Nadu,September 2024,3,0.0,0
+Salem,Tamil Nadu,August 2024,0,0.0,0
+Sadashivpet,Telangana,October 2024,123,0.0,0
+Sadashivpet,Telangana,October 2024,123,0.0,0
+Sadashivpet,Telangana,September 2024,45,0.0,0
+Sadashivpet,Telangana,September 2024,45,0.0,0
+Sadashivpet,Telangana,August 2024,0,0.0,0
+Sadashivpet,Telangana,August 2024,0,0.0,0
+Palakollu,Andhra Pradesh,October 2024,64,0.0,0
+Palakollu,Andhra Pradesh,October 2024,64,0.0,0
+Palakollu,Andhra Pradesh,October 2024,64,0.0,0
+Palakollu,Andhra Pradesh,September 2024,103,0.0,0
+Palakollu,Andhra Pradesh,September 2024,103,0.0,0
+Palakollu,Andhra Pradesh,September 2024,103,0.0,0
+Palakollu,Andhra Pradesh,August 2024,21,0.0,0
+Palakollu,Andhra Pradesh,August 2024,21,0.0,0
+Palakollu,Andhra Pradesh,August 2024,21,0.0,0
+Palakollu,Andhra Pradesh,October 2024,0,0.0,0
+Palakollu,Andhra Pradesh,September 2024,0,0.0,0
+Palakollu,Andhra Pradesh,August 2024,0,0.0,0
+Gargoti,Maharashtra,October 2024,2,0.0,0
+Gargoti,Maharashtra,October 2024,2,0.0,0
+Gargoti,Maharashtra,October 2024,2,0.0,0
+Gargoti,Maharashtra,September 2024,7,0.0,0
+Gargoti,Maharashtra,September 2024,7,0.0,0
+Gargoti,Maharashtra,September 2024,7,0.0,0
+Gargoti,Maharashtra,August 2024,5,0.0,0
+Gargoti,Maharashtra,August 2024,5,0.0,0
+Gargoti,Maharashtra,August 2024,5,0.0,0
+Delhi,Delhi,October 2024,620,0.0,0
+Delhi,Delhi,October 2024,620,0.0,0
+Delhi,Delhi,September 2024,126,0.0,0
+Delhi,Delhi,September 2024,126,0.0,0
+Delhi,Delhi,August 2024,0,0.0,0
+Delhi,Delhi,August 2024,0,0.0,0
+Bengaluru,Karnataka,October 2024,6,0.0,0
+Bengaluru,Karnataka,October 2024,6,0.0,0
+Bengaluru,Karnataka,September 2024,14,0.0,0
+Bengaluru,Karnataka,September 2024,14,0.0,0
+Bengaluru,Karnataka,August 2024,0,0.0,0
+Bengaluru,Karnataka,August 2024,0,0.0,0
+Bengaluru,Karnataka,October 2024,0,0.0,0
+Bengaluru,Karnataka,September 2024,0,0.0,0
+Bengaluru,Karnataka,August 2024,0,0.0,0
+Nellore,Andhra Pradesh,October 2024,101,0.0,0
+Nellore,Andhra Pradesh,October 2024,101,0.0,0
+Nellore,Andhra Pradesh,September 2024,131,0.0,0
+Nellore,Andhra Pradesh,September 2024,131,0.0,0
+Nellore,Andhra Pradesh,August 2024,0,0.0,0
+Nellore,Andhra Pradesh,August 2024,0,0.0,0
+Chennai,Tamil Nadu,October 2024,20,0.0,0
+Chennai,Tamil Nadu,October 2024,20,0.0,0
+Chennai,Tamil Nadu,October 2024,20,0.0,0
+Chennai,Tamil Nadu,September 2024,24,0.0,0
+Chennai,Tamil Nadu,September 2024,24,0.0,0
+Chennai,Tamil Nadu,September 2024,24,0.0,0
+Chennai,Tamil Nadu,August 2024,13,0.0,0
+Chennai,Tamil Nadu,August 2024,13,0.0,0
+Chennai,Tamil Nadu,August 2024,13,0.0,0
+Rajkot,Gujarat,October 2024,185,0.0,0
+Rajkot,Gujarat,October 2024,185,0.0,0
+Rajkot,Gujarat,September 2024,45,0.0,0
+Rajkot,Gujarat,September 2024,45,0.0,0
+Rajkot,Gujarat,August 2024,0,0.0,0
+Rajkot,Gujarat,August 2024,0,0.0,0
+Rajkot,Gujarat,October 2024,0,0.0,0
+Rajkot,Gujarat,September 2024,0,0.0,0
+Rajkot,Gujarat,August 2024,0,0.0,0
+Pakur,Jharkhand,October 2024,53,0.0,0
+Pakur,Jharkhand,October 2024,53,0.0,0
+Pakur,Jharkhand,September 2024,86,0.0,0
+Pakur,Jharkhand,September 2024,86,0.0,0
+Pakur,Jharkhand,August 2024,0,0.0,0
+Pakur,Jharkhand,August 2024,0,0.0,0
+Bengaluru,Karnataka,October 2024,49,0.0,0
+Bengaluru,Karnataka,October 2024,49,0.0,0
+Bengaluru,Karnataka,October 2024,49,0.0,0
+Bengaluru,Karnataka,September 2024,59,0.0,0
+Bengaluru,Karnataka,September 2024,59,0.0,0
+Bengaluru,Karnataka,September 2024,59,0.0,0
+Bengaluru,Karnataka,August 2024,13,0.0,0
+Bengaluru,Karnataka,August 2024,13,0.0,0
+Bengaluru,Karnataka,August 2024,13,0.0,0
+Tiruchirappalli,Tamil Nadu,October 2024,209,0.0,0
+Tiruchirappalli,Tamil Nadu,October 2024,209,0.0,0
+Tiruchirappalli,Tamil Nadu,October 2024,209,0.0,0
+Tiruchirappalli,Tamil Nadu,September 2024,54,0.0,0
+Tiruchirappalli,Tamil Nadu,September 2024,54,0.0,0
+Tiruchirappalli,Tamil Nadu,September 2024,54,0.0,0
+Tiruchirappalli,Tamil Nadu,August 2024,36,0.0,0
+Tiruchirappalli,Tamil Nadu,August 2024,36,0.0,0
+Tiruchirappalli,Tamil Nadu,August 2024,36,0.0,0
+Tiruchirappalli,Tamil Nadu,October 2024,202,0.0,0
+Tiruchirappalli,Tamil Nadu,October 2024,202,0.0,0
+Tiruchirappalli,Tamil Nadu,September 2024,21,0.0,0
+Tiruchirappalli,Tamil Nadu,September 2024,21,0.0,0
+Tiruchirappalli,Tamil Nadu,August 2024,0,0.0,0
+Tiruchirappalli,Tamil Nadu,August 2024,0,0.0,0
+Tiruchirappalli,Tamil Nadu,October 2024,0,0.0,0
+Tiruchirappalli,Tamil Nadu,September 2024,0,0.0,0
+Tiruchirappalli,Tamil Nadu,August 2024,0,0.0,0
+New Delhi,Delhi,October 2024,1,0.0,0
+New Delhi,Delhi,October 2024,1,0.0,0
+New Delhi,Delhi,September 2024,0,0.0,0
+New Delhi,Delhi,September 2024,0,0.0,0
+New Delhi,Delhi,August 2024,73,0.0,0
+New Delhi,Delhi,August 2024,73,0.0,0
+Chittoor,Andhra Pradesh,October 2024,10,0.0,0
+Chittoor,Andhra Pradesh,October 2024,10,0.0,0
+Chittoor,Andhra Pradesh,October 2024,10,0.0,0
+Chittoor,Andhra Pradesh,September 2024,7,0.0,0
+Chittoor,Andhra Pradesh,September 2024,7,0.0,0
+Chittoor,Andhra Pradesh,September 2024,7,0.0,0
+Chittoor,Andhra Pradesh,August 2024,6,0.0,0
+Chittoor,Andhra Pradesh,August 2024,6,0.0,0
+Chittoor,Andhra Pradesh,August 2024,6,0.0,0
+Madurai,Tamil Nadu,October 2024,1,0.0,0
+Madurai,Tamil Nadu,October 2024,1,0.0,0
+Madurai,Tamil Nadu,September 2024,14,0.0,0
+Madurai,Tamil Nadu,September 2024,14,0.0,0
+Madurai,Tamil Nadu,August 2024,0,0.0,0
+Madurai,Tamil Nadu,August 2024,0,0.0,0
+Sri Vijaya Puram,Andaman and Nicobar Islands,October 2024,3,0.0,0
+Sri Vijaya Puram,Andaman and Nicobar Islands,September 2024,0,0.0,0
+Sri Vijaya Puram,Andaman and Nicobar Islands,August 2024,0,0.0,0
+Lusaka,Lusaka Province,October 2024,20,0.0,0
+Lusaka,Lusaka Province,September 2024,0,0.0,0
+Lusaka,Lusaka Province,August 2024,0,0.0,0
+Sindagi,Karnataka,October 2024,20,0.0,0
+Sindagi,Karnataka,October 2024,20,0.0,0
+Sindagi,Karnataka,September 2024,34,0.0,0
+Sindagi,Karnataka,September 2024,34,0.0,0
+Sindagi,Karnataka,August 2024,0,0.0,0
+Sindagi,Karnataka,August 2024,0,0.0,0
+Hazaribagh,Jharkhand,October 2024,15,0.0,0
+Hazaribagh,Jharkhand,October 2024,15,0.0,0
+Hazaribagh,Jharkhand,September 2024,62,0.0,0
+Hazaribagh,Jharkhand,September 2024,62,0.0,0
+Hazaribagh,Jharkhand,August 2024,0,0.0,0
+Hazaribagh,Jharkhand,August 2024,0,0.0,0
+Shahdol,Madhya Pradesh,October 2024,138,0.0,0
+Shahdol,Madhya Pradesh,October 2024,138,0.0,0
+Shahdol,Madhya Pradesh,September 2024,164,0.0,0
+Shahdol,Madhya Pradesh,September 2024,164,0.0,0
+Shahdol,Madhya Pradesh,August 2024,0,0.0,0
+Shahdol,Madhya Pradesh,August 2024,0,0.0,0
+Bokaro Steel City,Jharkhand,October 2024,24,0.0,0
+Bokaro Steel City,Jharkhand,October 2024,24,0.0,0
+Bokaro Steel City,Jharkhand,September 2024,22,0.0,0
+Bokaro Steel City,Jharkhand,September 2024,22,0.0,0
+Bokaro Steel City,Jharkhand,August 2024,0,0.0,0
+Bokaro Steel City,Jharkhand,August 2024,0,0.0,0
+Thekkalur,Tamil Nadu,October 2024,17,0.0,0
+Thekkalur,Tamil Nadu,October 2024,17,0.0,0
+Thekkalur,Tamil Nadu,September 2024,17,0.0,0
+Thekkalur,Tamil Nadu,September 2024,17,0.0,0
+Thekkalur,Tamil Nadu,August 2024,0,0.0,0
+Thekkalur,Tamil Nadu,August 2024,0,0.0,0
+Pune,Maharashtra,October 2024,8,0.0,0
+Pune,Maharashtra,October 2024,8,0.0,0
+Pune,Maharashtra,September 2024,21,0.0,0
+Pune,Maharashtra,September 2024,21,0.0,0
+Pune,Maharashtra,August 2024,0,0.0,0
+Pune,Maharashtra,August 2024,0,0.0,0
+Hyderabad,Telangana,October 2024,0,0.0,0
+Hyderabad,Telangana,September 2024,110,0.0,0
+Hyderabad,Telangana,August 2024,0,0.0,0
+Hyderabad,Telangana,October 2024,0,0.0,0
+Hyderabad,Telangana,September 2024,0,0.0,0
+Hyderabad,Telangana,August 2024,0,0.0,0
+Hyderabad,Telangana,October 2024,41,0.0,0
+Hyderabad,Telangana,October 2024,41,0.0,0
+Hyderabad,Telangana,September 2024,47,0.0,0
+Hyderabad,Telangana,September 2024,47,0.0,0
+Hyderabad,Telangana,August 2024,0,0.0,0
+Hyderabad,Telangana,August 2024,0,0.0,0
+Bengaluru,Karnataka,October 2024,52,0.0,0
+Bengaluru,Karnataka,September 2024,0,0.0,0
+Bengaluru,Karnataka,August 2024,0,0.0,0
+Bengaluru,Karnataka,October 2024,138,0.0,0
+Bengaluru,Karnataka,September 2024,0,0.0,0
+Bengaluru,Karnataka,August 2024,0,0.0,0
+Hyderabad,Telangana,October 2024,222,0.0,0
+Hyderabad,Telangana,September 2024,0,0.0,0
+Hyderabad,Telangana,August 2024,0,0.0,0
+Chennai,Tamil Nadu,October 2024,15,0.0,0
+Chennai,Tamil Nadu,September 2024,0,0.0,0
+Chennai,Tamil Nadu,August 2024,0,0.0,0
+Navi Mumbai,Maharashtra,October 2024,16,0.0,0
+Navi Mumbai,Maharashtra,September 2024,0,0.0,0
+Navi Mumbai,Maharashtra,August 2024,0,0.0,0
+Baga,Goa,October 2024,0,0.0,0
+Baga,Goa,September 2024,0,0.0,0
+Baga,Goa,August 2024,0,0.0,0
+Siddipet,Telangana,October 2024,126,0.0,0
+Siddipet,Telangana,September 2024,0,0.0,0
+Siddipet,Telangana,August 2024,0,0.0,0
+Cuttack,Odisha,October 2024,20,0.0,0
+Cuttack,Odisha,September 2024,0,0.0,0
+Cuttack,Odisha,August 2024,0,0.0,0
+Raipur,Chhattisgarh,October 2024,25,0.0,0
+Raipur,Chhattisgarh,September 2024,0,0.0,0
+Raipur,Chhattisgarh,August 2024,0,0.0,0
+Raipur,Chhattisgarh,October 2024,88,0.0,0
+Raipur,Chhattisgarh,September 2024,0,0.0,0
+Raipur,Chhattisgarh,August 2024,0,0.0,0
+Pune,Maharashtra,October 2024,74,0.0,0
+Pune,Maharashtra,September 2024,0,0.0,0
+Pune,Maharashtra,August 2024,0,0.0,0
+Thanjavur,Tamil Nadu,October 2024,4,0.0,0
+Thanjavur,Tamil Nadu,September 2024,0,0.0,0
+Thanjavur,Tamil Nadu,August 2024,0,0.0,0
+Dubai,Dubai,October 2024,1,0.0,0
+Dubai,Dubai,September 2024,0,0.0,0
+Dubai,Dubai,August 2024,0,0.0,0
+Vadakuthu,Tamil Nadu,October 2024,0,0.0,0
+Vadakuthu,Tamil Nadu,September 2024,0,0.0,0
+Vadakuthu,Tamil Nadu,August 2024,0,0.0,0
+Salem,Tamil Nadu,October 2024,0,0.0,0
+Salem,Tamil Nadu,September 2024,0,0.0,0
+Salem,Tamil Nadu,August 2024,0,0.0,0
+Coimbatore,Tamil Nadu,October 2024,0,0.0,0
+Coimbatore,Tamil Nadu,September 2024,0,0.0,0
+Coimbatore,Tamil Nadu,August 2024,0,0.0,0
+New Delhi,Delhi,October 2024,9,0.0,0
+New Delhi,Delhi,September 2024,0,0.0,0
+New Delhi,Delhi,August 2024,0,0.0,0
+Agra,Uttar Pradesh,October 2024,12,0.0,0
+Agra,Uttar Pradesh,September 2024,0,0.0,0
+Agra,Uttar Pradesh,August 2024,0,0.0,0
+Karaikudi,Tamil Nadu,October 2024,0,0.0,0
+Karaikudi,Tamil Nadu,September 2024,0,0.0,0
+Karaikudi,Tamil Nadu,August 2024,0,0.0,0
+Chennai,Tamil Nadu,October 2024,0,0.0,0
+Chennai,Tamil Nadu,September 2024,0,0.0,0
+Chennai,Tamil Nadu,August 2024,0,0.0,0
+Bengaluru,Karnataka,October 2024,0,0.0,0
+Bengaluru,Karnataka,September 2024,0,0.0,0
+Bengaluru,Karnataka,August 2024,0,0.0,0
+Tumakuru,Karnataka,October 2024,0,0.0,0
+Tumakuru,Karnataka,September 2024,0,0.0,0
+Tumakuru,Karnataka,August 2024,0,0.0,0
+Bijainagar,Rajasthan,October 2024,0,0.0,0
+Bijainagar,Rajasthan,September 2024,0,0.0,0
+Bijainagar,Rajasthan,August 2024,0,0.0,0
+Bengaluru,Karnataka,October 2024,0,0.0,0
+Bengaluru,Karnataka,September 2024,0,0.0,0
+Bengaluru,Karnataka,August 2024,0,0.0,0
