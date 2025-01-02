@@ -1,0 +1,1457 @@
+city,state,diseaseKey
+Pune,Maharashtra,RECEDED GUMS
+Pune,Maharashtra,DEEP CARIES
+Pune,Maharashtra,FILLING
+Pune,Maharashtra,PIT AND FISSURE CARIES
+Pune,Maharashtra,STAINS
+Pune,Maharashtra,TOOTH_GAP
+Pune,Maharashtra,INFLAMMED / RED GUMS
+Pune,Maharashtra,ROOT STUMP
+Pune,Maharashtra,CROWNS
+Pune,Maharashtra,CALCULUS
+Pune,Maharashtra,IMPACTED 3RD MOLAR / PERICORONITIS
+Pune,Maharashtra,FRACTURE
+Pune,Maharashtra,MISSING TOOTH
+Pune,Maharashtra,MALALIGNED
+Pune,Maharashtra,GROSSLY DECAYED
+Pune,Maharashtra,DIASTEMA
+Pune,Maharashtra,ATTRITION
+Pune,Maharashtra,BRACES
+Karad,Maharashtra,DEEP CARIES
+Karad,Maharashtra,FILLING
+Karad,Maharashtra,PIT AND FISSURE CARIES
+Karad,Maharashtra,STAINS
+Karad,Maharashtra,BRACES
+Karad,Maharashtra,INFLAMMED / RED GUMS
+Karad,Maharashtra,TOOTH_GAP
+Karad,Maharashtra,ROOT STUMP
+Karad,Maharashtra,CROWNS
+Karad,Maharashtra,CALCULUS
+Karad,Maharashtra,FRACTURE
+Karad,Maharashtra,IMPACTED 3RD MOLAR / PERICORONITIS
+Karad,Maharashtra,MISSING TOOTH
+Karad,Maharashtra,MALALIGNED
+Karad,Maharashtra,GROSSLY DECAYED
+Karad,Maharashtra,DIASTEMA
+Karad,Maharashtra,ATTRITION
+Rajamahendravaram,Andhra Pradesh,RECEDED GUMS
+Rajamahendravaram,Andhra Pradesh,DEEP CARIES
+Rajamahendravaram,Andhra Pradesh,FILLING
+Rajamahendravaram,Andhra Pradesh,PIT AND FISSURE CARIES
+Rajamahendravaram,Andhra Pradesh,STAINS
+Rajamahendravaram,Andhra Pradesh,INFLAMMED / RED GUMS
+Rajamahendravaram,Andhra Pradesh,TOOTH_GAP
+Rajamahendravaram,Andhra Pradesh,ROOT STUMP
+Rajamahendravaram,Andhra Pradesh,CROWNS
+Rajamahendravaram,Andhra Pradesh,CALCULUS
+Rajamahendravaram,Andhra Pradesh,FRACTURE
+Rajamahendravaram,Andhra Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Rajamahendravaram,Andhra Pradesh,MISSING TOOTH
+Rajamahendravaram,Andhra Pradesh,MALALIGNED
+Rajamahendravaram,Andhra Pradesh,GROSSLY DECAYED
+Rajamahendravaram,Andhra Pradesh,DIASTEMA
+Rajamahendravaram,Andhra Pradesh,ATTRITION
+Ahmedabad,Gujarat,DEEP CARIES
+Ahmedabad,Gujarat,FILLING
+Ahmedabad,Gujarat,PIT AND FISSURE CARIES
+Ahmedabad,Gujarat,STAINS
+Ahmedabad,Gujarat,TOOTH_GAP
+Ahmedabad,Gujarat,ROOT STUMP
+Ahmedabad,Gujarat,CROWNS
+Ahmedabad,Gujarat,CALCULUS
+Ahmedabad,Gujarat,IMPACTED 3RD MOLAR / PERICORONITIS
+Ahmedabad,Gujarat,FRACTURE
+Ahmedabad,Gujarat,MISSING TOOTH
+Ahmedabad,Gujarat,MALALIGNED
+Ahmedabad,Gujarat,GROSSLY DECAYED
+Ahmedabad,Gujarat,DIASTEMA
+Ahmedabad,Gujarat,ATTRITION
+Thanjavur,Tamil Nadu,RECEDED GUMS
+Thanjavur,Tamil Nadu,DEEP CARIES
+Thanjavur,Tamil Nadu,FILLING
+Thanjavur,Tamil Nadu,PIT AND FISSURE CARIES
+Thanjavur,Tamil Nadu,STAINS
+Thanjavur,Tamil Nadu,DEFECTIVE / PARTIAL TREATMENT
+Thanjavur,Tamil Nadu,INFLAMMED / RED GUMS
+Thanjavur,Tamil Nadu,TOOTH_GAP
+Thanjavur,Tamil Nadu,ROOT STUMP
+Thanjavur,Tamil Nadu,CROWNS
+Thanjavur,Tamil Nadu,CALCULUS
+Thanjavur,Tamil Nadu,FRACTURE
+Thanjavur,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Thanjavur,Tamil Nadu,MISSING TOOTH
+Thanjavur,Tamil Nadu,MALALIGNED
+Thanjavur,Tamil Nadu,GROSSLY DECAYED
+Thanjavur,Tamil Nadu,DIASTEMA
+Thanjavur,Tamil Nadu,ATTRITION
+Puducherry,Puducherry,DEEP CARIES
+Puducherry,Puducherry,FILLING
+Puducherry,Puducherry,PIT AND FISSURE CARIES
+Puducherry,Puducherry,STAINS
+Puducherry,Puducherry,TOOTH_GAP
+Puducherry,Puducherry,CROWNS
+Puducherry,Puducherry,CALCULUS
+Puducherry,Puducherry,IMPACTED 3RD MOLAR / PERICORONITIS
+Puducherry,Puducherry,FRACTURE
+Puducherry,Puducherry,MISSING TOOTH
+Puducherry,Puducherry,ROOT STUMP
+Puducherry,Puducherry,GROSSLY DECAYED
+Puducherry,Puducherry,DIASTEMA
+Puducherry,Puducherry,ATTRITION
+Puducherry,Puducherry,MALALIGNED
+Indore,Madhya Pradesh,DEEP CARIES
+Indore,Madhya Pradesh,FILLING
+Indore,Madhya Pradesh,PIT AND FISSURE CARIES
+Indore,Madhya Pradesh,STAINS
+Indore,Madhya Pradesh,CROWNS
+Indore,Madhya Pradesh,CALCULUS
+Indore,Madhya Pradesh,FRACTURE
+Indore,Madhya Pradesh,MISSING TOOTH
+Indore,Madhya Pradesh,MALALIGNED
+Indore,Madhya Pradesh,DIASTEMA
+Indore,Madhya Pradesh,ATTRITION
+Vizianagaram,Andhra Pradesh,DEEP CARIES
+Vizianagaram,Andhra Pradesh,FILLING
+Vizianagaram,Andhra Pradesh,PIT AND FISSURE CARIES
+Vizianagaram,Andhra Pradesh,STAINS
+Vizianagaram,Andhra Pradesh,DEFECTIVE / PARTIAL TREATMENT
+Vizianagaram,Andhra Pradesh,INFLAMMED / RED GUMS
+Vizianagaram,Andhra Pradesh,TOOTH_GAP
+Vizianagaram,Andhra Pradesh,CROWNS
+Vizianagaram,Andhra Pradesh,CALCULUS
+Vizianagaram,Andhra Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Vizianagaram,Andhra Pradesh,FRACTURE
+Vizianagaram,Andhra Pradesh,MISSING TOOTH
+Vizianagaram,Andhra Pradesh,MALALIGNED
+Vizianagaram,Andhra Pradesh,GROSSLY DECAYED
+Vizianagaram,Andhra Pradesh,DIASTEMA
+Vizianagaram,Andhra Pradesh,ATTRITION
+Kolkata,West Bengal,DEEP CARIES
+Kolkata,West Bengal,FILLING
+Kolkata,West Bengal,PIT AND FISSURE CARIES
+Kolkata,West Bengal,STAINS
+Kolkata,West Bengal,TOOTH_GAP
+Kolkata,West Bengal,ROOT STUMP
+Kolkata,West Bengal,CROWNS
+Kolkata,West Bengal,CALCULUS
+Kolkata,West Bengal,FRACTURE
+Kolkata,West Bengal,MISSING TOOTH
+Kolkata,West Bengal,MALALIGNED
+Kolkata,West Bengal,GROSSLY DECAYED
+Kolkata,West Bengal,DIASTEMA
+Kolkata,West Bengal,ATTRITION
+Bathinda,Punjab,DEEP CARIES
+Bathinda,Punjab,FILLING
+Bathinda,Punjab,PIT AND FISSURE CARIES
+Bathinda,Punjab,STAINS
+Bathinda,Punjab,TOOTH_GAP
+Bathinda,Punjab,ROOT STUMP
+Bathinda,Punjab,CROWNS
+Bathinda,Punjab,CALCULUS
+Bathinda,Punjab,IMPACTED 3RD MOLAR / PERICORONITIS
+Bathinda,Punjab,FRACTURE
+Bathinda,Punjab,MISSING TOOTH
+Bathinda,Punjab,MALALIGNED
+Bathinda,Punjab,GROSSLY DECAYED
+Bathinda,Punjab,DIASTEMA
+Bathinda,Punjab,ATTRITION
+Jamshedpur,Jharkhand,DEEP CARIES
+Jamshedpur,Jharkhand,FILLING
+Jamshedpur,Jharkhand,PIT AND FISSURE CARIES
+Jamshedpur,Jharkhand,STAINS
+Jamshedpur,Jharkhand,DEFECTIVE / PARTIAL TREATMENT
+Jamshedpur,Jharkhand,TOOTH_GAP
+Jamshedpur,Jharkhand,INFLAMMED / RED GUMS
+Jamshedpur,Jharkhand,CROWNS
+Jamshedpur,Jharkhand,CALCULUS
+Jamshedpur,Jharkhand,IMPACTED 3RD MOLAR / PERICORONITIS
+Jamshedpur,Jharkhand,FRACTURE
+Jamshedpur,Jharkhand,MISSING TOOTH
+Jamshedpur,Jharkhand,ROOT STUMP
+Jamshedpur,Jharkhand,GROSSLY DECAYED
+Jamshedpur,Jharkhand,DIASTEMA
+Jamshedpur,Jharkhand,ATTRITION
+Jamshedpur,Jharkhand,MALALIGNED
+Cheyyar,Tamil Nadu,DEEP CARIES
+Cheyyar,Tamil Nadu,FILLING
+Cheyyar,Tamil Nadu,PIT AND FISSURE CARIES
+Cheyyar,Tamil Nadu,STAINS
+Cheyyar,Tamil Nadu,TOOTH_GAP
+Cheyyar,Tamil Nadu,ROOT STUMP
+Cheyyar,Tamil Nadu,CROWNS
+Cheyyar,Tamil Nadu,CALCULUS
+Cheyyar,Tamil Nadu,FRACTURE
+Cheyyar,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Cheyyar,Tamil Nadu,MISSING TOOTH
+Cheyyar,Tamil Nadu,MALALIGNED
+Cheyyar,Tamil Nadu,GROSSLY DECAYED
+Cheyyar,Tamil Nadu,DIASTEMA
+Cheyyar,Tamil Nadu,ATTRITION
+Karur,Tamil Nadu,PIT AND FISSURE CARIES
+Karur,Tamil Nadu,STAINS
+Karur,Tamil Nadu,TOOTH_GAP
+Karur,Tamil Nadu,CROWNS
+Karur,Tamil Nadu,CALCULUS
+Karur,Tamil Nadu,FRACTURE
+Karur,Tamil Nadu,MISSING TOOTH
+Karur,Tamil Nadu,MALALIGNED
+Karur,Tamil Nadu,DIASTEMA
+Karur,Tamil Nadu,ATTRITION
+Hubballi,Karnataka,DEEP CARIES
+Hubballi,Karnataka,FILLING
+Hubballi,Karnataka,PIT AND FISSURE CARIES
+Hubballi,Karnataka,STAINS
+Hubballi,Karnataka,DEFECTIVE / PARTIAL TREATMENT
+Hubballi,Karnataka,INFLAMMED / RED GUMS
+Hubballi,Karnataka,TOOTH_GAP
+Hubballi,Karnataka,CROWNS
+Hubballi,Karnataka,CALCULUS
+Hubballi,Karnataka,FRACTURE
+Hubballi,Karnataka,IMPACTED 3RD MOLAR / PERICORONITIS
+Hubballi,Karnataka,MISSING TOOTH
+Hubballi,Karnataka,MALALIGNED
+Hubballi,Karnataka,GROSSLY DECAYED
+Hubballi,Karnataka,DIASTEMA
+Hubballi,Karnataka,ATTRITION
+Guwahati,Assam,STAINS
+Tirunelveli,Tamil Nadu,FILLING
+Tirunelveli,Tamil Nadu,STAINS
+Tirunelveli,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Tirunelveli,Tamil Nadu,MALALIGNED
+Tirunelveli,Tamil Nadu,ATTRITION
+Jalandhar,Punjab,DEEP CARIES
+Jalandhar,Punjab,FILLING
+Jalandhar,Punjab,PIT AND FISSURE CARIES
+Jalandhar,Punjab,STAINS
+Jalandhar,Punjab,TOOTH_GAP
+Jalandhar,Punjab,ROOT STUMP
+Jalandhar,Punjab,CROWNS
+Jalandhar,Punjab,CALCULUS
+Jalandhar,Punjab,IMPACTED 3RD MOLAR / PERICORONITIS
+Jalandhar,Punjab,FRACTURE
+Jalandhar,Punjab,MISSING TOOTH
+Jalandhar,Punjab,MALALIGNED
+Jalandhar,Punjab,GROSSLY DECAYED
+Jalandhar,Punjab,DIASTEMA
+Jalandhar,Punjab,ATTRITION
+Hyderabad,Telangana,DEEP CARIES
+Hyderabad,Telangana,FILLING
+Hyderabad,Telangana,PIT AND FISSURE CARIES
+Hyderabad,Telangana,STAINS
+Hyderabad,Telangana,TOOTH_GAP
+Hyderabad,Telangana,CROWNS
+Hyderabad,Telangana,CALCULUS
+Hyderabad,Telangana,FRACTURE
+Hyderabad,Telangana,IMPACTED 3RD MOLAR / PERICORONITIS
+Hyderabad,Telangana,MISSING TOOTH
+Hyderabad,Telangana,MALALIGNED
+Hyderabad,Telangana,DIASTEMA
+Hyderabad,Telangana,ATTRITION
+Hyderabad,Telangana,ROOT STUMP
+Hyderabad,Telangana,GROSSLY DECAYED
+Hyderabad,Telangana,INFLAMMED / RED GUMS
+Hyderabad,Telangana,RECEDED GUMS
+Hyderabad,Telangana,BRACES
+Madhavaram,Tamil Nadu,DEEP CARIES
+Madhavaram,Tamil Nadu,FILLING
+Madhavaram,Tamil Nadu,PIT AND FISSURE CARIES
+Madhavaram,Tamil Nadu,STAINS
+Madhavaram,Tamil Nadu,DEFECTIVE / PARTIAL TREATMENT
+Madhavaram,Tamil Nadu,TOOTH_GAP
+Madhavaram,Tamil Nadu,INFLAMMED / RED GUMS
+Madhavaram,Tamil Nadu,CROWNS
+Madhavaram,Tamil Nadu,CALCULUS
+Madhavaram,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Madhavaram,Tamil Nadu,FRACTURE
+Madhavaram,Tamil Nadu,MISSING TOOTH
+Madhavaram,Tamil Nadu,ROOT STUMP
+Madhavaram,Tamil Nadu,DIASTEMA
+Madhavaram,Tamil Nadu,ATTRITION
+Madhavaram,Tamil Nadu,MALALIGNED
+Chittoor,Andhra Pradesh,DEEP CARIES
+Chittoor,Andhra Pradesh,PIT AND FISSURE CARIES
+Chittoor,Andhra Pradesh,STAINS
+Chittoor,Andhra Pradesh,CALCULUS
+Chittoor,Andhra Pradesh,FRACTURE
+Chittoor,Andhra Pradesh,MALALIGNED
+Chittoor,Andhra Pradesh,DIASTEMA
+Chittoor,Andhra Pradesh,ATTRITION
+Chittoor,Andhra Pradesh,FILLING
+Chittoor,Andhra Pradesh,TOOTH_GAP
+Chittoor,Andhra Pradesh,ROOT STUMP
+Chittoor,Andhra Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Chittoor,Andhra Pradesh,GROSSLY DECAYED
+Vijayawada,Andhra Pradesh,RECEDED GUMS
+Vijayawada,Andhra Pradesh,DEEP CARIES
+Vijayawada,Andhra Pradesh,FILLING
+Vijayawada,Andhra Pradesh,PIT AND FISSURE CARIES
+Vijayawada,Andhra Pradesh,STAINS
+Vijayawada,Andhra Pradesh,DEFECTIVE / PARTIAL TREATMENT
+Vijayawada,Andhra Pradesh,INFLAMMED / RED GUMS
+Vijayawada,Andhra Pradesh,TOOTH_GAP
+Vijayawada,Andhra Pradesh,CROWNS
+Vijayawada,Andhra Pradesh,CALCULUS
+Vijayawada,Andhra Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Vijayawada,Andhra Pradesh,FRACTURE
+Vijayawada,Andhra Pradesh,MISSING TOOTH
+Vijayawada,Andhra Pradesh,MALALIGNED
+Vijayawada,Andhra Pradesh,DIASTEMA
+Vijayawada,Andhra Pradesh,ATTRITION
+Dhamtari,Chhattisgarh,FILLING
+Dhamtari,Chhattisgarh,PIT AND FISSURE CARIES
+Dhamtari,Chhattisgarh,STAINS
+Dhamtari,Chhattisgarh,TOOTH_GAP
+Dhamtari,Chhattisgarh,CROWNS
+Dhamtari,Chhattisgarh,CALCULUS
+Dhamtari,Chhattisgarh,FRACTURE
+Dhamtari,Chhattisgarh,IMPACTED 3RD MOLAR / PERICORONITIS
+Dhamtari,Chhattisgarh,MISSING TOOTH
+Dhamtari,Chhattisgarh,ROOT STUMP
+Dhamtari,Chhattisgarh,DIASTEMA
+Dhamtari,Chhattisgarh,ATTRITION
+Dhamtari,Chhattisgarh,MALALIGNED
+Chennai,Tamil Nadu,DEEP CARIES
+Chennai,Tamil Nadu,FILLING
+Chennai,Tamil Nadu,PIT AND FISSURE CARIES
+Chennai,Tamil Nadu,STAINS
+Chennai,Tamil Nadu,TOOTH_GAP
+Chennai,Tamil Nadu,ROOT STUMP
+Chennai,Tamil Nadu,CROWNS
+Chennai,Tamil Nadu,CALCULUS
+Chennai,Tamil Nadu,FRACTURE
+Chennai,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Chennai,Tamil Nadu,MISSING TOOTH
+Chennai,Tamil Nadu,MALALIGNED
+Chennai,Tamil Nadu,GROSSLY DECAYED
+Chennai,Tamil Nadu,DIASTEMA
+Chennai,Tamil Nadu,ATTRITION
+Chennai,Tamil Nadu,RECEDED GUMS
+Chennai,Tamil Nadu,DEFECTIVE / PARTIAL TREATMENT
+Chennai,Tamil Nadu,INFLAMMED / RED GUMS
+Lunawada,Gujarat,RECEDED GUMS
+Lunawada,Gujarat,DEEP CARIES
+Lunawada,Gujarat,FILLING
+Lunawada,Gujarat,PIT AND FISSURE CARIES
+Lunawada,Gujarat,STAINS
+Lunawada,Gujarat,DEFECTIVE / PARTIAL TREATMENT
+Lunawada,Gujarat,TOOTH_GAP
+Lunawada,Gujarat,INFLAMMED / RED GUMS
+Lunawada,Gujarat,CROWNS
+Lunawada,Gujarat,CALCULUS
+Lunawada,Gujarat,IMPACTED 3RD MOLAR / PERICORONITIS
+Lunawada,Gujarat,FRACTURE
+Lunawada,Gujarat,MISSING TOOTH
+Lunawada,Gujarat,ROOT STUMP
+Lunawada,Gujarat,GROSSLY DECAYED
+Lunawada,Gujarat,DIASTEMA
+Lunawada,Gujarat,ATTRITION
+Lunawada,Gujarat,MALALIGNED
+Srikakulam,Andhra Pradesh,DEEP CARIES
+Srikakulam,Andhra Pradesh,FILLING
+Srikakulam,Andhra Pradesh,PIT AND FISSURE CARIES
+Srikakulam,Andhra Pradesh,STAINS
+Srikakulam,Andhra Pradesh,INFLAMMED / RED GUMS
+Srikakulam,Andhra Pradesh,TOOTH_GAP
+Srikakulam,Andhra Pradesh,ROOT STUMP
+Srikakulam,Andhra Pradesh,CROWNS
+Srikakulam,Andhra Pradesh,CALCULUS
+Srikakulam,Andhra Pradesh,FRACTURE
+Srikakulam,Andhra Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Srikakulam,Andhra Pradesh,MISSING TOOTH
+Srikakulam,Andhra Pradesh,MALALIGNED
+Srikakulam,Andhra Pradesh,GROSSLY DECAYED
+Srikakulam,Andhra Pradesh,DIASTEMA
+Srikakulam,Andhra Pradesh,ATTRITION
+Srikakulam,Andhra Pradesh,RECEDED GUMS
+Srikakulam,Andhra Pradesh,DEFECTIVE / PARTIAL TREATMENT
+"Jharkhand, India",Jharkhand,RECEDED GUMS
+"Jharkhand, India",Jharkhand,DEEP CARIES
+"Jharkhand, India",Jharkhand,FILLING
+"Jharkhand, India",Jharkhand,PIT AND FISSURE CARIES
+"Jharkhand, India",Jharkhand,STAINS
+"Jharkhand, India",Jharkhand,DEFECTIVE / PARTIAL TREATMENT
+"Jharkhand, India",Jharkhand,TOOTH_GAP
+"Jharkhand, India",Jharkhand,INFLAMMED / RED GUMS
+"Jharkhand, India",Jharkhand,CROWNS
+"Jharkhand, India",Jharkhand,CALCULUS
+"Jharkhand, India",Jharkhand,IMPACTED 3RD MOLAR / PERICORONITIS
+"Jharkhand, India",Jharkhand,FRACTURE
+"Jharkhand, India",Jharkhand,MISSING TOOTH
+"Jharkhand, India",Jharkhand,ROOT STUMP
+"Jharkhand, India",Jharkhand,GROSSLY DECAYED
+"Jharkhand, India",Jharkhand,DIASTEMA
+"Jharkhand, India",Jharkhand,ATTRITION
+"Jharkhand, India",Jharkhand,MALALIGNED
+Sangamner,Maharashtra,PIT AND FISSURE CARIES
+Sangamner,Maharashtra,STAINS
+Sangamner,Maharashtra,MALALIGNED
+Sangamner,Maharashtra,DIASTEMA
+Sangamner,Maharashtra,ATTRITION
+Sangamner,Maharashtra,DEEP CARIES
+Sangamner,Maharashtra,FILLING
+Sangamner,Maharashtra,DEFECTIVE / PARTIAL TREATMENT
+Sangamner,Maharashtra,TOOTH_GAP
+Sangamner,Maharashtra,INFLAMMED / RED GUMS
+Sangamner,Maharashtra,CROWNS
+Sangamner,Maharashtra,CALCULUS
+Sangamner,Maharashtra,FRACTURE
+Sangamner,Maharashtra,IMPACTED 3RD MOLAR / PERICORONITIS
+Sangamner,Maharashtra,MISSING TOOTH
+Sangamner,Maharashtra,ROOT STUMP
+Sangamner,Maharashtra,GROSSLY DECAYED
+Surat,Gujarat,DEEP CARIES
+Surat,Gujarat,FILLING
+Surat,Gujarat,PIT AND FISSURE CARIES
+Surat,Gujarat,STAINS
+Surat,Gujarat,BRACES
+Surat,Gujarat,TOOTH_GAP
+Surat,Gujarat,ROOT STUMP
+Surat,Gujarat,CROWNS
+Surat,Gujarat,CALCULUS
+Surat,Gujarat,FRACTURE
+Surat,Gujarat,IMPACTED 3RD MOLAR / PERICORONITIS
+Surat,Gujarat,MISSING TOOTH
+Surat,Gujarat,MALALIGNED
+Surat,Gujarat,DIASTEMA
+Surat,Gujarat,ATTRITION
+Vadodara,Gujarat,RECEDED GUMS
+Vadodara,Gujarat,DEEP CARIES
+Vadodara,Gujarat,PIT AND FISSURE CARIES
+Vadodara,Gujarat,STAINS
+Vadodara,Gujarat,DEFECTIVE / PARTIAL TREATMENT
+Vadodara,Gujarat,INFLAMMED / RED GUMS
+Vadodara,Gujarat,TOOTH_GAP
+Vadodara,Gujarat,ROOT STUMP
+Vadodara,Gujarat,CROWNS
+Vadodara,Gujarat,FRACTURE
+Vadodara,Gujarat,MISSING TOOTH
+Vadodara,Gujarat,MALALIGNED
+Vadodara,Gujarat,DIASTEMA
+Vadodara,Gujarat,ATTRITION
+Vadodara,Gujarat,FILLING
+Vadodara,Gujarat,CALCULUS
+Vadodara,Gujarat,IMPACTED 3RD MOLAR / PERICORONITIS
+Vadodara,Gujarat,GROSSLY DECAYED
+Melmaruvathur,Tamil Nadu,RECEDED GUMS
+Melmaruvathur,Tamil Nadu,DEEP CARIES
+Melmaruvathur,Tamil Nadu,FILLING
+Melmaruvathur,Tamil Nadu,PIT AND FISSURE CARIES
+Melmaruvathur,Tamil Nadu,STAINS
+Melmaruvathur,Tamil Nadu,INFLAMMED / RED GUMS
+Melmaruvathur,Tamil Nadu,TOOTH_GAP
+Melmaruvathur,Tamil Nadu,ROOT STUMP
+Melmaruvathur,Tamil Nadu,CROWNS
+Melmaruvathur,Tamil Nadu,CALCULUS
+Melmaruvathur,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Melmaruvathur,Tamil Nadu,FRACTURE
+Melmaruvathur,Tamil Nadu,MISSING TOOTH
+Melmaruvathur,Tamil Nadu,MALALIGNED
+Melmaruvathur,Tamil Nadu,GROSSLY DECAYED
+Melmaruvathur,Tamil Nadu,DIASTEMA
+Melmaruvathur,Tamil Nadu,ATTRITION
+Kalyan,Maharashtra,FILLING
+Kalyan,Maharashtra,PIT AND FISSURE CARIES
+Kalyan,Maharashtra,STAINS
+Kalyan,Maharashtra,TOOTH_GAP
+Kalyan,Maharashtra,CROWNS
+Kalyan,Maharashtra,CALCULUS
+Kalyan,Maharashtra,FRACTURE
+Kalyan,Maharashtra,MALALIGNED
+Kalyan,Maharashtra,DIASTEMA
+Kalyan,Maharashtra,ATTRITION
+Navi Mumbai,Maharashtra,RECEDED GUMS
+Navi Mumbai,Maharashtra,DEEP CARIES
+Navi Mumbai,Maharashtra,FILLING
+Navi Mumbai,Maharashtra,PIT AND FISSURE CARIES
+Navi Mumbai,Maharashtra,STAINS
+Navi Mumbai,Maharashtra,DEFECTIVE / PARTIAL TREATMENT
+Navi Mumbai,Maharashtra,TOOTH_GAP
+Navi Mumbai,Maharashtra,INFLAMMED / RED GUMS
+Navi Mumbai,Maharashtra,ROOT STUMP
+Navi Mumbai,Maharashtra,CROWNS
+Navi Mumbai,Maharashtra,CALCULUS
+Navi Mumbai,Maharashtra,FRACTURE
+Navi Mumbai,Maharashtra,IMPACTED 3RD MOLAR / PERICORONITIS
+Navi Mumbai,Maharashtra,MISSING TOOTH
+Navi Mumbai,Maharashtra,MALALIGNED
+Navi Mumbai,Maharashtra,GROSSLY DECAYED
+Navi Mumbai,Maharashtra,DIASTEMA
+Navi Mumbai,Maharashtra,ATTRITION
+Palakkad,Kerala,PIT AND FISSURE CARIES
+Palakkad,Kerala,STAINS
+Palakkad,Kerala,TOOTH_GAP
+Palakkad,Kerala,CALCULUS
+Palakkad,Kerala,FRACTURE
+Palakkad,Kerala,MALALIGNED
+Palakkad,Kerala,DIASTEMA
+"Gujarat, India",Gujarat,RECEDED GUMS
+"Gujarat, India",Gujarat,DEEP CARIES
+"Gujarat, India",Gujarat,FILLING
+"Gujarat, India",Gujarat,PIT AND FISSURE CARIES
+"Gujarat, India",Gujarat,STAINS
+"Gujarat, India",Gujarat,INFLAMMED / RED GUMS
+"Gujarat, India",Gujarat,TOOTH_GAP
+"Gujarat, India",Gujarat,ROOT STUMP
+"Gujarat, India",Gujarat,CROWNS
+"Gujarat, India",Gujarat,CALCULUS
+"Gujarat, India",Gujarat,FRACTURE
+"Gujarat, India",Gujarat,IMPACTED 3RD MOLAR / PERICORONITIS
+"Gujarat, India",Gujarat,MISSING TOOTH
+"Gujarat, India",Gujarat,MALALIGNED
+"Gujarat, India",Gujarat,GROSSLY DECAYED
+"Gujarat, India",Gujarat,DIASTEMA
+"Gujarat, India",Gujarat,ATTRITION
+Bhiwani,Haryana,DEEP CARIES
+Bhiwani,Haryana,FILLING
+Bhiwani,Haryana,PIT AND FISSURE CARIES
+Bhiwani,Haryana,STAINS
+Bhiwani,Haryana,TOOTH_GAP
+Bhiwani,Haryana,CROWNS
+Bhiwani,Haryana,CALCULUS
+Bhiwani,Haryana,IMPACTED 3RD MOLAR / PERICORONITIS
+Bhiwani,Haryana,FRACTURE
+Bhiwani,Haryana,MISSING TOOTH
+Bhiwani,Haryana,ROOT STUMP
+Bhiwani,Haryana,GROSSLY DECAYED
+Bhiwani,Haryana,DIASTEMA
+Bhiwani,Haryana,ATTRITION
+Bhiwani,Haryana,MALALIGNED
+Ludhiana,Punjab,DEEP CARIES
+Ludhiana,Punjab,FILLING
+Ludhiana,Punjab,PIT AND FISSURE CARIES
+Ludhiana,Punjab,STAINS
+Ludhiana,Punjab,TOOTH_GAP
+Ludhiana,Punjab,CROWNS
+Ludhiana,Punjab,CALCULUS
+Ludhiana,Punjab,FRACTURE
+Ludhiana,Punjab,MISSING TOOTH
+Ludhiana,Punjab,ROOT STUMP
+Ludhiana,Punjab,GROSSLY DECAYED
+Ludhiana,Punjab,DIASTEMA
+Ludhiana,Punjab,ATTRITION
+Ludhiana,Punjab,MALALIGNED
+Balotra,Rajasthan,FILLING
+Balotra,Rajasthan,PIT AND FISSURE CARIES
+Balotra,Rajasthan,STAINS
+Balotra,Rajasthan,FRACTURE
+Balotra,Rajasthan,ROOT STUMP
+Balotra,Rajasthan,ATTRITION
+Balotra,Rajasthan,MALALIGNED
+Hosur,Tamil Nadu,FILLING
+Hosur,Tamil Nadu,PIT AND FISSURE CARIES
+Hosur,Tamil Nadu,STAINS
+Hosur,Tamil Nadu,TOOTH_GAP
+Hosur,Tamil Nadu,CROWNS
+Hosur,Tamil Nadu,CALCULUS
+Hosur,Tamil Nadu,FRACTURE
+Hosur,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Hosur,Tamil Nadu,MISSING TOOTH
+Hosur,Tamil Nadu,MALALIGNED
+Hosur,Tamil Nadu,DIASTEMA
+Hosur,Tamil Nadu,ATTRITION
+Vellore,Tamil Nadu,DEEP CARIES
+Vellore,Tamil Nadu,FILLING
+Vellore,Tamil Nadu,PIT AND FISSURE CARIES
+Vellore,Tamil Nadu,STAINS
+Vellore,Tamil Nadu,TOOTH_GAP
+Vellore,Tamil Nadu,ROOT STUMP
+Vellore,Tamil Nadu,CROWNS
+Vellore,Tamil Nadu,CALCULUS
+Vellore,Tamil Nadu,FRACTURE
+Vellore,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Vellore,Tamil Nadu,MISSING TOOTH
+Vellore,Tamil Nadu,MALALIGNED
+Vellore,Tamil Nadu,GROSSLY DECAYED
+Vellore,Tamil Nadu,DIASTEMA
+Vellore,Tamil Nadu,ATTRITION
+Guntur,Andhra Pradesh,DEEP CARIES
+Guntur,Andhra Pradesh,FILLING
+Guntur,Andhra Pradesh,PIT AND FISSURE CARIES
+Guntur,Andhra Pradesh,STAINS
+Guntur,Andhra Pradesh,TOOTH_GAP
+Guntur,Andhra Pradesh,CROWNS
+Guntur,Andhra Pradesh,CALCULUS
+Guntur,Andhra Pradesh,FRACTURE
+Guntur,Andhra Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Guntur,Andhra Pradesh,MISSING TOOTH
+Guntur,Andhra Pradesh,ROOT STUMP
+Guntur,Andhra Pradesh,GROSSLY DECAYED
+Guntur,Andhra Pradesh,DIASTEMA
+Guntur,Andhra Pradesh,ATTRITION
+Guntur,Andhra Pradesh,MALALIGNED
+Guntur,Andhra Pradesh,RECEDED GUMS
+Guntur,Andhra Pradesh,INFLAMMED / RED GUMS
+Nimbahera,Rajasthan,DEEP CARIES
+Nimbahera,Rajasthan,FILLING
+Nimbahera,Rajasthan,PIT AND FISSURE CARIES
+Nimbahera,Rajasthan,STAINS
+Nimbahera,Rajasthan,TOOTH_GAP
+Nimbahera,Rajasthan,ROOT STUMP
+Nimbahera,Rajasthan,CROWNS
+Nimbahera,Rajasthan,CALCULUS
+Nimbahera,Rajasthan,IMPACTED 3RD MOLAR / PERICORONITIS
+Nimbahera,Rajasthan,FRACTURE
+Nimbahera,Rajasthan,MISSING TOOTH
+Nimbahera,Rajasthan,MALALIGNED
+Nimbahera,Rajasthan,GROSSLY DECAYED
+Nimbahera,Rajasthan,DIASTEMA
+Nimbahera,Rajasthan,ATTRITION
+Rohtak,Haryana,DEEP CARIES
+Rohtak,Haryana,FILLING
+Rohtak,Haryana,PIT AND FISSURE CARIES
+Rohtak,Haryana,STAINS
+Rohtak,Haryana,TOOTH_GAP
+Rohtak,Haryana,ROOT STUMP
+Rohtak,Haryana,CROWNS
+Rohtak,Haryana,CALCULUS
+Rohtak,Haryana,FRACTURE
+Rohtak,Haryana,MISSING TOOTH
+Rohtak,Haryana,MALALIGNED
+Rohtak,Haryana,GROSSLY DECAYED
+Rohtak,Haryana,DIASTEMA
+Rohtak,Haryana,ATTRITION
+Mangaluru,Karnataka,DEEP CARIES
+Mangaluru,Karnataka,FILLING
+Mangaluru,Karnataka,PIT AND FISSURE CARIES
+Mangaluru,Karnataka,STAINS
+Mangaluru,Karnataka,TOOTH_GAP
+Mangaluru,Karnataka,ROOT STUMP
+Mangaluru,Karnataka,CROWNS
+Mangaluru,Karnataka,CALCULUS
+Mangaluru,Karnataka,IMPACTED 3RD MOLAR / PERICORONITIS
+Mangaluru,Karnataka,FRACTURE
+Mangaluru,Karnataka,MISSING TOOTH
+Mangaluru,Karnataka,MALALIGNED
+Mangaluru,Karnataka,GROSSLY DECAYED
+Mangaluru,Karnataka,DIASTEMA
+Mangaluru,Karnataka,ATTRITION
+Bharatpur,Rajasthan,DEEP CARIES
+Bharatpur,Rajasthan,FILLING
+Bharatpur,Rajasthan,PIT AND FISSURE CARIES
+Bharatpur,Rajasthan,STAINS
+Bharatpur,Rajasthan,TOOTH_GAP
+Bharatpur,Rajasthan,ROOT STUMP
+Bharatpur,Rajasthan,CROWNS
+Bharatpur,Rajasthan,CALCULUS
+Bharatpur,Rajasthan,FRACTURE
+Bharatpur,Rajasthan,MISSING TOOTH
+Bharatpur,Rajasthan,MALALIGNED
+Bharatpur,Rajasthan,DIASTEMA
+Bharatpur,Rajasthan,ATTRITION
+Rajnandgaon,Chhattisgarh,RECEDED GUMS
+Rajnandgaon,Chhattisgarh,DEEP CARIES
+Rajnandgaon,Chhattisgarh,FILLING
+Rajnandgaon,Chhattisgarh,PIT AND FISSURE CARIES
+Rajnandgaon,Chhattisgarh,STAINS
+Rajnandgaon,Chhattisgarh,DEFECTIVE / PARTIAL TREATMENT
+Rajnandgaon,Chhattisgarh,TOOTH_GAP
+Rajnandgaon,Chhattisgarh,INFLAMMED / RED GUMS
+Rajnandgaon,Chhattisgarh,CROWNS
+Rajnandgaon,Chhattisgarh,CALCULUS
+Rajnandgaon,Chhattisgarh,IMPACTED 3RD MOLAR / PERICORONITIS
+Rajnandgaon,Chhattisgarh,FRACTURE
+Rajnandgaon,Chhattisgarh,MISSING TOOTH
+Rajnandgaon,Chhattisgarh,ROOT STUMP
+Rajnandgaon,Chhattisgarh,GROSSLY DECAYED
+Rajnandgaon,Chhattisgarh,DIASTEMA
+Rajnandgaon,Chhattisgarh,ATTRITION
+Rajnandgaon,Chhattisgarh,MALALIGNED
+Bahadurgarh,Haryana,DEEP CARIES
+Bahadurgarh,Haryana,FILLING
+Bahadurgarh,Haryana,PIT AND FISSURE CARIES
+Bahadurgarh,Haryana,STAINS
+Bahadurgarh,Haryana,TOOTH_GAP
+Bahadurgarh,Haryana,CROWNS
+Bahadurgarh,Haryana,CALCULUS
+Bahadurgarh,Haryana,FRACTURE
+Bahadurgarh,Haryana,MISSING TOOTH
+Bahadurgarh,Haryana,ROOT STUMP
+Bahadurgarh,Haryana,DIASTEMA
+Bahadurgarh,Haryana,ATTRITION
+Bahadurgarh,Haryana,MALALIGNED
+Krishnapuram Colony,Tamil Nadu,DEEP CARIES
+Krishnapuram Colony,Tamil Nadu,FILLING
+Krishnapuram Colony,Tamil Nadu,PIT AND FISSURE CARIES
+Krishnapuram Colony,Tamil Nadu,STAINS
+Krishnapuram Colony,Tamil Nadu,CROWNS
+Krishnapuram Colony,Tamil Nadu,CALCULUS
+Krishnapuram Colony,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Krishnapuram Colony,Tamil Nadu,FRACTURE
+Krishnapuram Colony,Tamil Nadu,MISSING TOOTH
+Krishnapuram Colony,Tamil Nadu,ROOT STUMP
+Krishnapuram Colony,Tamil Nadu,DIASTEMA
+Krishnapuram Colony,Tamil Nadu,ATTRITION
+Krishnapuram Colony,Tamil Nadu,MALALIGNED
+Kozhikode,Kerala,DEEP CARIES
+Kozhikode,Kerala,FILLING
+Kozhikode,Kerala,PIT AND FISSURE CARIES
+Kozhikode,Kerala,STAINS
+Kozhikode,Kerala,TOOTH_GAP
+Kozhikode,Kerala,INFLAMMED / RED GUMS
+Kozhikode,Kerala,CROWNS
+Kozhikode,Kerala,CALCULUS
+Kozhikode,Kerala,IMPACTED 3RD MOLAR / PERICORONITIS
+Kozhikode,Kerala,FRACTURE
+Kozhikode,Kerala,MISSING TOOTH
+Kozhikode,Kerala,ROOT STUMP
+Kozhikode,Kerala,GROSSLY DECAYED
+Kozhikode,Kerala,DIASTEMA
+Kozhikode,Kerala,ATTRITION
+Kozhikode,Kerala,MALALIGNED
+Sursand Pashchimi,Bihar,DEEP CARIES
+Sursand Pashchimi,Bihar,FILLING
+Sursand Pashchimi,Bihar,PIT AND FISSURE CARIES
+Sursand Pashchimi,Bihar,STAINS
+Sursand Pashchimi,Bihar,TOOTH_GAP
+Sursand Pashchimi,Bihar,MISSING TOOTH
+Sursand Pashchimi,Bihar,MALALIGNED
+Sursand Pashchimi,Bihar,GROSSLY DECAYED
+Sursand Pashchimi,Bihar,DIASTEMA
+Sursand Pashchimi,Bihar,ATTRITION
+Korba,Chhattisgarh,RECEDED GUMS
+Korba,Chhattisgarh,DEEP CARIES
+Korba,Chhattisgarh,FILLING
+Korba,Chhattisgarh,PIT AND FISSURE CARIES
+Korba,Chhattisgarh,STAINS
+Korba,Chhattisgarh,DEFECTIVE / PARTIAL TREATMENT
+Korba,Chhattisgarh,INFLAMMED / RED GUMS
+Korba,Chhattisgarh,TOOTH_GAP
+Korba,Chhattisgarh,CROWNS
+Korba,Chhattisgarh,CALCULUS
+Korba,Chhattisgarh,IMPACTED 3RD MOLAR / PERICORONITIS
+Korba,Chhattisgarh,FRACTURE
+Korba,Chhattisgarh,MISSING TOOTH
+Korba,Chhattisgarh,ROOT STUMP
+Korba,Chhattisgarh,GROSSLY DECAYED
+Korba,Chhattisgarh,DIASTEMA
+Korba,Chhattisgarh,ATTRITION
+Korba,Chhattisgarh,MALALIGNED
+Morbi,Gujarat,DEEP CARIES
+Morbi,Gujarat,FILLING
+Morbi,Gujarat,PIT AND FISSURE CARIES
+Morbi,Gujarat,STAINS
+Morbi,Gujarat,DEFECTIVE / PARTIAL TREATMENT
+Morbi,Gujarat,TOOTH_GAP
+Morbi,Gujarat,CROWNS
+Morbi,Gujarat,CALCULUS
+Morbi,Gujarat,FRACTURE
+Morbi,Gujarat,IMPACTED 3RD MOLAR / PERICORONITIS
+Morbi,Gujarat,MISSING TOOTH
+Morbi,Gujarat,ROOT STUMP
+Morbi,Gujarat,GROSSLY DECAYED
+Morbi,Gujarat,DIASTEMA
+Morbi,Gujarat,ATTRITION
+Morbi,Gujarat,MALALIGNED
+"NE 3, India","NE 3, India",DEEP CARIES
+"NE 3, India","NE 3, India",FILLING
+"NE 3, India","NE 3, India",PIT AND FISSURE CARIES
+"NE 3, India","NE 3, India",STAINS
+"NE 3, India","NE 3, India",BRACES
+"NE 3, India","NE 3, India",INFLAMMED / RED GUMS
+"NE 3, India","NE 3, India",TOOTH_GAP
+"NE 3, India","NE 3, India",CROWNS
+"NE 3, India","NE 3, India",CALCULUS
+"NE 3, India","NE 3, India",FRACTURE
+"NE 3, India","NE 3, India",IMPACTED 3RD MOLAR / PERICORONITIS
+"NE 3, India","NE 3, India",MISSING TOOTH
+"NE 3, India","NE 3, India",ROOT STUMP
+"NE 3, India","NE 3, India",GROSSLY DECAYED
+"NE 3, India","NE 3, India",DIASTEMA
+"NE 3, India","NE 3, India",ATTRITION
+"NE 3, India","NE 3, India",MALALIGNED
+Kondapur,Telangana,DEEP CARIES
+Kondapur,Telangana,FILLING
+Kondapur,Telangana,PIT AND FISSURE CARIES
+Kondapur,Telangana,STAINS
+Kondapur,Telangana,TOOTH_GAP
+Kondapur,Telangana,CROWNS
+Kondapur,Telangana,CALCULUS
+Kondapur,Telangana,IMPACTED 3RD MOLAR / PERICORONITIS
+Kondapur,Telangana,FRACTURE
+Kondapur,Telangana,MISSING TOOTH
+Kondapur,Telangana,ROOT STUMP
+Kondapur,Telangana,DIASTEMA
+Kondapur,Telangana,ATTRITION
+Kondapur,Telangana,MALALIGNED
+Bengaluru,Karnataka,INFLAMMED / RED GUMS
+Bengaluru,Karnataka,CROWNS
+Bengaluru,Karnataka,DEEP CARIES
+Bengaluru,Karnataka,FILLING
+Bengaluru,Karnataka,PIT AND FISSURE CARIES
+Bengaluru,Karnataka,CALCULUS
+Bengaluru,Karnataka,FRACTURE
+Bengaluru,Karnataka,ROOT STUMP
+Bengaluru,Karnataka,MALALIGNED
+Bengaluru,Karnataka,GROSSLY DECAYED
+Bengaluru,Karnataka,ATTRITION
+Bengaluru,Karnataka,BRACES
+Bengaluru,Karnataka,DEFECTIVE / PARTIAL TREATMENT
+Bengaluru,Karnataka,IMPACTED 3RD MOLAR / PERICORONITIS
+Bengaluru,Karnataka,RECEDED GUMS
+Bengaluru,Karnataka,STAINS
+Bengaluru,Karnataka,TOOTH_GAP
+Bengaluru,Karnataka,MISSING TOOTH
+Bengaluru,Karnataka,DIASTEMA
+Hassan,Karnataka,DEEP CARIES
+Hassan,Karnataka,FILLING
+Hassan,Karnataka,PIT AND FISSURE CARIES
+Hassan,Karnataka,STAINS
+Hassan,Karnataka,TOOTH_GAP
+Hassan,Karnataka,ROOT STUMP
+Hassan,Karnataka,CROWNS
+Hassan,Karnataka,CALCULUS
+Hassan,Karnataka,FRACTURE
+Hassan,Karnataka,IMPACTED 3RD MOLAR / PERICORONITIS
+Hassan,Karnataka,MISSING TOOTH
+Hassan,Karnataka,MALALIGNED
+Hassan,Karnataka,GROSSLY DECAYED
+Hassan,Karnataka,DIASTEMA
+Hassan,Karnataka,ATTRITION
+Tenkasi,Tamil Nadu,DEEP CARIES
+Tenkasi,Tamil Nadu,FILLING
+Tenkasi,Tamil Nadu,PIT AND FISSURE CARIES
+Tenkasi,Tamil Nadu,STAINS
+Tenkasi,Tamil Nadu,TOOTH_GAP
+Tenkasi,Tamil Nadu,CROWNS
+Tenkasi,Tamil Nadu,CALCULUS
+Tenkasi,Tamil Nadu,FRACTURE
+Tenkasi,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Tenkasi,Tamil Nadu,MISSING TOOTH
+Tenkasi,Tamil Nadu,ROOT STUMP
+Tenkasi,Tamil Nadu,GROSSLY DECAYED
+Tenkasi,Tamil Nadu,DIASTEMA
+Tenkasi,Tamil Nadu,ATTRITION
+Tenkasi,Tamil Nadu,MALALIGNED
+Agampur,Punjab,DEEP CARIES
+Agampur,Punjab,FILLING
+Agampur,Punjab,PIT AND FISSURE CARIES
+Agampur,Punjab,STAINS
+Agampur,Punjab,INFLAMMED / RED GUMS
+Agampur,Punjab,TOOTH_GAP
+Agampur,Punjab,CROWNS
+Agampur,Punjab,CALCULUS
+Agampur,Punjab,FRACTURE
+Agampur,Punjab,IMPACTED 3RD MOLAR / PERICORONITIS
+Agampur,Punjab,MISSING TOOTH
+Agampur,Punjab,ROOT STUMP
+Agampur,Punjab,GROSSLY DECAYED
+Agampur,Punjab,DIASTEMA
+Agampur,Punjab,ATTRITION
+Agampur,Punjab,MALALIGNED
+Avalahalli,Karnataka,DEEP CARIES
+Avalahalli,Karnataka,FILLING
+Avalahalli,Karnataka,PIT AND FISSURE CARIES
+Avalahalli,Karnataka,STAINS
+Avalahalli,Karnataka,TOOTH_GAP
+Avalahalli,Karnataka,ROOT STUMP
+Avalahalli,Karnataka,CROWNS
+Avalahalli,Karnataka,CALCULUS
+Avalahalli,Karnataka,FRACTURE
+Avalahalli,Karnataka,IMPACTED 3RD MOLAR / PERICORONITIS
+Avalahalli,Karnataka,MISSING TOOTH
+Avalahalli,Karnataka,MALALIGNED
+Avalahalli,Karnataka,DIASTEMA
+Avalahalli,Karnataka,ATTRITION
+Gandhigramam,Tamil Nadu,RECEDED GUMS
+Gandhigramam,Tamil Nadu,DEEP CARIES
+Gandhigramam,Tamil Nadu,FILLING
+Gandhigramam,Tamil Nadu,PIT AND FISSURE CARIES
+Gandhigramam,Tamil Nadu,STAINS
+Gandhigramam,Tamil Nadu,DEFECTIVE / PARTIAL TREATMENT
+Gandhigramam,Tamil Nadu,INFLAMMED / RED GUMS
+Gandhigramam,Tamil Nadu,TOOTH_GAP
+Gandhigramam,Tamil Nadu,CROWNS
+Gandhigramam,Tamil Nadu,CALCULUS
+Gandhigramam,Tamil Nadu,FRACTURE
+Gandhigramam,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Gandhigramam,Tamil Nadu,MISSING TOOTH
+Gandhigramam,Tamil Nadu,ROOT STUMP
+Gandhigramam,Tamil Nadu,GROSSLY DECAYED
+Gandhigramam,Tamil Nadu,DIASTEMA
+Gandhigramam,Tamil Nadu,ATTRITION
+Gandhigramam,Tamil Nadu,MALALIGNED
+Chhatrapati Sambhaji Nagar,Maharashtra,RECEDED GUMS
+Chhatrapati Sambhaji Nagar,Maharashtra,DEEP CARIES
+Chhatrapati Sambhaji Nagar,Maharashtra,FILLING
+Chhatrapati Sambhaji Nagar,Maharashtra,PIT AND FISSURE CARIES
+Chhatrapati Sambhaji Nagar,Maharashtra,STAINS
+Chhatrapati Sambhaji Nagar,Maharashtra,TOOTH_GAP
+Chhatrapati Sambhaji Nagar,Maharashtra,INFLAMMED / RED GUMS
+Chhatrapati Sambhaji Nagar,Maharashtra,ROOT STUMP
+Chhatrapati Sambhaji Nagar,Maharashtra,CROWNS
+Chhatrapati Sambhaji Nagar,Maharashtra,FRACTURE
+Chhatrapati Sambhaji Nagar,Maharashtra,IMPACTED 3RD MOLAR / PERICORONITIS
+Chhatrapati Sambhaji Nagar,Maharashtra,MALALIGNED
+Chhatrapati Sambhaji Nagar,Maharashtra,DIASTEMA
+Chhatrapati Sambhaji Nagar,Maharashtra,ATTRITION
+Rajkot,Gujarat,DEEP CARIES
+Rajkot,Gujarat,FILLING
+Rajkot,Gujarat,PIT AND FISSURE CARIES
+Rajkot,Gujarat,STAINS
+Rajkot,Gujarat,TOOTH_GAP
+Rajkot,Gujarat,ROOT STUMP
+Rajkot,Gujarat,CROWNS
+Rajkot,Gujarat,CALCULUS
+Rajkot,Gujarat,FRACTURE
+Rajkot,Gujarat,IMPACTED 3RD MOLAR / PERICORONITIS
+Rajkot,Gujarat,MISSING TOOTH
+Rajkot,Gujarat,MALALIGNED
+Rajkot,Gujarat,GROSSLY DECAYED
+Rajkot,Gujarat,DIASTEMA
+Rajkot,Gujarat,ATTRITION
+Jaipur,Rajasthan,DEEP CARIES
+Jaipur,Rajasthan,FILLING
+Jaipur,Rajasthan,PIT AND FISSURE CARIES
+Jaipur,Rajasthan,STAINS
+Jaipur,Rajasthan,TOOTH_GAP
+Jaipur,Rajasthan,MALALIGNED
+Jaipur,Rajasthan,DIASTEMA
+Jaipur,Rajasthan,ATTRITION
+Jaipur,Rajasthan,RECEDED GUMS
+Jaipur,Rajasthan,DEFECTIVE / PARTIAL TREATMENT
+Jaipur,Rajasthan,INFLAMMED / RED GUMS
+Jaipur,Rajasthan,CROWNS
+Jaipur,Rajasthan,CALCULUS
+Jaipur,Rajasthan,FRACTURE
+Jaipur,Rajasthan,IMPACTED 3RD MOLAR / PERICORONITIS
+Jaipur,Rajasthan,MISSING TOOTH
+Jaipur,Rajasthan,ROOT STUMP
+Jaipur,Rajasthan,GROSSLY DECAYED
+Ranipet,Tamil Nadu,DEEP CARIES
+Ranipet,Tamil Nadu,FILLING
+Ranipet,Tamil Nadu,PIT AND FISSURE CARIES
+Ranipet,Tamil Nadu,STAINS
+Ranipet,Tamil Nadu,DEFECTIVE / PARTIAL TREATMENT
+Ranipet,Tamil Nadu,TOOTH_GAP
+Ranipet,Tamil Nadu,ROOT STUMP
+Ranipet,Tamil Nadu,CROWNS
+Ranipet,Tamil Nadu,CALCULUS
+Ranipet,Tamil Nadu,FRACTURE
+Ranipet,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Ranipet,Tamil Nadu,MISSING TOOTH
+Ranipet,Tamil Nadu,MALALIGNED
+Ranipet,Tamil Nadu,GROSSLY DECAYED
+Ranipet,Tamil Nadu,DIASTEMA
+Ranipet,Tamil Nadu,ATTRITION
+Madurai,Tamil Nadu,DEEP CARIES
+Madurai,Tamil Nadu,FILLING
+Madurai,Tamil Nadu,PIT AND FISSURE CARIES
+Madurai,Tamil Nadu,STAINS
+Madurai,Tamil Nadu,TOOTH_GAP
+Madurai,Tamil Nadu,ROOT STUMP
+Madurai,Tamil Nadu,CROWNS
+Madurai,Tamil Nadu,CALCULUS
+Madurai,Tamil Nadu,FRACTURE
+Madurai,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Madurai,Tamil Nadu,MISSING TOOTH
+Madurai,Tamil Nadu,MALALIGNED
+Madurai,Tamil Nadu,GROSSLY DECAYED
+Madurai,Tamil Nadu,DIASTEMA
+Madurai,Tamil Nadu,ATTRITION
+Coimbatore,Tamil Nadu,DEEP CARIES
+Coimbatore,Tamil Nadu,FILLING
+Coimbatore,Tamil Nadu,PIT AND FISSURE CARIES
+Coimbatore,Tamil Nadu,STAINS
+Coimbatore,Tamil Nadu,INFLAMMED / RED GUMS
+Coimbatore,Tamil Nadu,TOOTH_GAP
+Coimbatore,Tamil Nadu,CALCULUS
+Coimbatore,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Coimbatore,Tamil Nadu,FRACTURE
+Coimbatore,Tamil Nadu,MALALIGNED
+Coimbatore,Tamil Nadu,DIASTEMA
+Coimbatore,Tamil Nadu,ATTRITION
+Chidambaram,Tamil Nadu,RECEDED GUMS
+Chidambaram,Tamil Nadu,DEEP CARIES
+Chidambaram,Tamil Nadu,FILLING
+Chidambaram,Tamil Nadu,PIT AND FISSURE CARIES
+Chidambaram,Tamil Nadu,STAINS
+Chidambaram,Tamil Nadu,DEFECTIVE / PARTIAL TREATMENT
+Chidambaram,Tamil Nadu,TOOTH_GAP
+Chidambaram,Tamil Nadu,INFLAMMED / RED GUMS
+Chidambaram,Tamil Nadu,CROWNS
+Chidambaram,Tamil Nadu,CALCULUS
+Chidambaram,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Chidambaram,Tamil Nadu,FRACTURE
+Chidambaram,Tamil Nadu,MISSING TOOTH
+Chidambaram,Tamil Nadu,ROOT STUMP
+Chidambaram,Tamil Nadu,GROSSLY DECAYED
+Chidambaram,Tamil Nadu,DIASTEMA
+Chidambaram,Tamil Nadu,ATTRITION
+Chidambaram,Tamil Nadu,MALALIGNED
+Udaipur,Rajasthan,DEEP CARIES
+Udaipur,Rajasthan,FILLING
+Udaipur,Rajasthan,PIT AND FISSURE CARIES
+Udaipur,Rajasthan,STAINS
+Udaipur,Rajasthan,TOOTH_GAP
+Udaipur,Rajasthan,CROWNS
+Udaipur,Rajasthan,CALCULUS
+Udaipur,Rajasthan,FRACTURE
+Udaipur,Rajasthan,IMPACTED 3RD MOLAR / PERICORONITIS
+Udaipur,Rajasthan,MISSING TOOTH
+Udaipur,Rajasthan,ROOT STUMP
+Udaipur,Rajasthan,DIASTEMA
+Udaipur,Rajasthan,ATTRITION
+Udaipur,Rajasthan,MALALIGNED
+"Razole, Andhra Pradesh, India",Andhra Pradesh,DEEP CARIES
+"Razole, Andhra Pradesh, India",Andhra Pradesh,FILLING
+"Razole, Andhra Pradesh, India",Andhra Pradesh,PIT AND FISSURE CARIES
+"Razole, Andhra Pradesh, India",Andhra Pradesh,STAINS
+"Razole, Andhra Pradesh, India",Andhra Pradesh,TOOTH_GAP
+"Razole, Andhra Pradesh, India",Andhra Pradesh,CROWNS
+"Razole, Andhra Pradesh, India",Andhra Pradesh,CALCULUS
+"Razole, Andhra Pradesh, India",Andhra Pradesh,FRACTURE
+"Razole, Andhra Pradesh, India",Andhra Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+"Razole, Andhra Pradesh, India",Andhra Pradesh,MISSING TOOTH
+"Razole, Andhra Pradesh, India",Andhra Pradesh,ROOT STUMP
+"Razole, Andhra Pradesh, India",Andhra Pradesh,GROSSLY DECAYED
+"Razole, Andhra Pradesh, India",Andhra Pradesh,DIASTEMA
+"Razole, Andhra Pradesh, India",Andhra Pradesh,ATTRITION
+"Razole, Andhra Pradesh, India",Andhra Pradesh,MALALIGNED
+Baramati,Maharashtra,RECEDED GUMS
+Baramati,Maharashtra,DEEP CARIES
+Baramati,Maharashtra,FILLING
+Baramati,Maharashtra,PIT AND FISSURE CARIES
+Baramati,Maharashtra,STAINS
+Baramati,Maharashtra,DEFECTIVE / PARTIAL TREATMENT
+Baramati,Maharashtra,INFLAMMED / RED GUMS
+Baramati,Maharashtra,TOOTH_GAP
+Baramati,Maharashtra,CROWNS
+Baramati,Maharashtra,CALCULUS
+Baramati,Maharashtra,FRACTURE
+Baramati,Maharashtra,IMPACTED 3RD MOLAR / PERICORONITIS
+Baramati,Maharashtra,MISSING TOOTH
+Baramati,Maharashtra,ROOT STUMP
+Baramati,Maharashtra,GROSSLY DECAYED
+Baramati,Maharashtra,DIASTEMA
+Baramati,Maharashtra,ATTRITION
+Baramati,Maharashtra,MALALIGNED
+Bhavnagar,Gujarat,DEEP CARIES
+Bhavnagar,Gujarat,FILLING
+Bhavnagar,Gujarat,PIT AND FISSURE CARIES
+Bhavnagar,Gujarat,STAINS
+Bhavnagar,Gujarat,TOOTH_GAP
+Bhavnagar,Gujarat,CROWNS
+Bhavnagar,Gujarat,CALCULUS
+Bhavnagar,Gujarat,FRACTURE
+Bhavnagar,Gujarat,IMPACTED 3RD MOLAR / PERICORONITIS
+Bhavnagar,Gujarat,MISSING TOOTH
+Bhavnagar,Gujarat,ROOT STUMP
+Bhavnagar,Gujarat,GROSSLY DECAYED
+Bhavnagar,Gujarat,DIASTEMA
+Bhavnagar,Gujarat,ATTRITION
+Bhavnagar,Gujarat,MALALIGNED
+Avadi,Tamil Nadu,DEEP CARIES
+Avadi,Tamil Nadu,FILLING
+Avadi,Tamil Nadu,PIT AND FISSURE CARIES
+Avadi,Tamil Nadu,STAINS
+Avadi,Tamil Nadu,TOOTH_GAP
+Avadi,Tamil Nadu,ROOT STUMP
+Avadi,Tamil Nadu,CROWNS
+Avadi,Tamil Nadu,CALCULUS
+Avadi,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Avadi,Tamil Nadu,FRACTURE
+Avadi,Tamil Nadu,MISSING TOOTH
+Avadi,Tamil Nadu,MALALIGNED
+Avadi,Tamil Nadu,GROSSLY DECAYED
+Avadi,Tamil Nadu,DIASTEMA
+Avadi,Tamil Nadu,ATTRITION
+Kanpur,Uttar Pradesh,DEEP CARIES
+Kanpur,Uttar Pradesh,FILLING
+Kanpur,Uttar Pradesh,PIT AND FISSURE CARIES
+Kanpur,Uttar Pradesh,STAINS
+Kanpur,Uttar Pradesh,TOOTH_GAP
+Kanpur,Uttar Pradesh,ROOT STUMP
+Kanpur,Uttar Pradesh,CROWNS
+Kanpur,Uttar Pradesh,CALCULUS
+Kanpur,Uttar Pradesh,FRACTURE
+Kanpur,Uttar Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Kanpur,Uttar Pradesh,MISSING TOOTH
+Kanpur,Uttar Pradesh,MALALIGNED
+Kanpur,Uttar Pradesh,GROSSLY DECAYED
+Kanpur,Uttar Pradesh,DIASTEMA
+Kanpur,Uttar Pradesh,ATTRITION
+Meerpet,Telangana,DEEP CARIES
+Meerpet,Telangana,FILLING
+Meerpet,Telangana,PIT AND FISSURE CARIES
+Meerpet,Telangana,STAINS
+Meerpet,Telangana,TOOTH_GAP
+Meerpet,Telangana,ROOT STUMP
+Meerpet,Telangana,CROWNS
+Meerpet,Telangana,CALCULUS
+Meerpet,Telangana,IMPACTED 3RD MOLAR / PERICORONITIS
+Meerpet,Telangana,FRACTURE
+Meerpet,Telangana,MISSING TOOTH
+Meerpet,Telangana,MALALIGNED
+Meerpet,Telangana,GROSSLY DECAYED
+Meerpet,Telangana,DIASTEMA
+Meerpet,Telangana,ATTRITION
+Srinagar,Srinagar,RECEDED GUMS
+Srinagar,Srinagar,DEEP CARIES
+Srinagar,Srinagar,FILLING
+Srinagar,Srinagar,PIT AND FISSURE CARIES
+Srinagar,Srinagar,STAINS
+Srinagar,Srinagar,INFLAMMED / RED GUMS
+Srinagar,Srinagar,TOOTH_GAP
+Srinagar,Srinagar,ROOT STUMP
+Srinagar,Srinagar,CROWNS
+Srinagar,Srinagar,CALCULUS
+Srinagar,Srinagar,FRACTURE
+Srinagar,Srinagar,IMPACTED 3RD MOLAR / PERICORONITIS
+Srinagar,Srinagar,MISSING TOOTH
+Srinagar,Srinagar,MALALIGNED
+Srinagar,Srinagar,GROSSLY DECAYED
+Srinagar,Srinagar,DIASTEMA
+Srinagar,Srinagar,ATTRITION
+Gurugram,Haryana,INFLAMMED / RED GUMS
+Gurugram,Haryana,CROWNS
+Gurugram,Haryana,DEEP CARIES
+Gurugram,Haryana,FILLING
+Gurugram,Haryana,PIT AND FISSURE CARIES
+Gurugram,Haryana,CALCULUS
+Gurugram,Haryana,FRACTURE
+Gurugram,Haryana,ROOT STUMP
+Gurugram,Haryana,GROSSLY DECAYED
+Gurugram,Haryana,MALALIGNED
+Gurugram,Haryana,ATTRITION
+Gurugram,Haryana,BRACES
+Gurugram,Haryana,DEFECTIVE / PARTIAL TREATMENT
+Gurugram,Haryana,IMPACTED 3RD MOLAR / PERICORONITIS
+Gurugram,Haryana,RECEDED GUMS
+Gurugram,Haryana,STAINS
+Gurugram,Haryana,TOOTH_GAP
+Gurugram,Haryana,MISSING TOOTH
+Gurugram,Haryana,DIASTEMA
+Visakhapatnam,Andhra Pradesh,DEEP CARIES
+Visakhapatnam,Andhra Pradesh,FILLING
+Visakhapatnam,Andhra Pradesh,PIT AND FISSURE CARIES
+Visakhapatnam,Andhra Pradesh,STAINS
+Visakhapatnam,Andhra Pradesh,TOOTH_GAP
+Visakhapatnam,Andhra Pradesh,CROWNS
+Visakhapatnam,Andhra Pradesh,CALCULUS
+Visakhapatnam,Andhra Pradesh,FRACTURE
+Visakhapatnam,Andhra Pradesh,MISSING TOOTH
+Visakhapatnam,Andhra Pradesh,ROOT STUMP
+Visakhapatnam,Andhra Pradesh,GROSSLY DECAYED
+Visakhapatnam,Andhra Pradesh,DIASTEMA
+Visakhapatnam,Andhra Pradesh,ATTRITION
+Visakhapatnam,Andhra Pradesh,MALALIGNED
+Salem,Tamil Nadu,DEEP CARIES
+Salem,Tamil Nadu,FILLING
+Salem,Tamil Nadu,PIT AND FISSURE CARIES
+Salem,Tamil Nadu,ROOT STUMP
+Salem,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Salem,Tamil Nadu,FRACTURE
+Salem,Tamil Nadu,MALALIGNED
+Salem,Tamil Nadu,ATTRITION
+Sadashivpet,Telangana,RECEDED GUMS
+Sadashivpet,Telangana,DEEP CARIES
+Sadashivpet,Telangana,FILLING
+Sadashivpet,Telangana,PIT AND FISSURE CARIES
+Sadashivpet,Telangana,STAINS
+Sadashivpet,Telangana,DEFECTIVE / PARTIAL TREATMENT
+Sadashivpet,Telangana,TOOTH_GAP
+Sadashivpet,Telangana,INFLAMMED / RED GUMS
+Sadashivpet,Telangana,CROWNS
+Sadashivpet,Telangana,CALCULUS
+Sadashivpet,Telangana,IMPACTED 3RD MOLAR / PERICORONITIS
+Sadashivpet,Telangana,FRACTURE
+Sadashivpet,Telangana,MISSING TOOTH
+Sadashivpet,Telangana,ROOT STUMP
+Sadashivpet,Telangana,GROSSLY DECAYED
+Sadashivpet,Telangana,DIASTEMA
+Sadashivpet,Telangana,ATTRITION
+Sadashivpet,Telangana,MALALIGNED
+Palakollu,Andhra Pradesh,RECEDED GUMS
+Palakollu,Andhra Pradesh,DEEP CARIES
+Palakollu,Andhra Pradesh,FILLING
+Palakollu,Andhra Pradesh,PIT AND FISSURE CARIES
+Palakollu,Andhra Pradesh,STAINS
+Palakollu,Andhra Pradesh,INFLAMMED / RED GUMS
+Palakollu,Andhra Pradesh,TOOTH_GAP
+Palakollu,Andhra Pradesh,CROWNS
+Palakollu,Andhra Pradesh,CALCULUS
+Palakollu,Andhra Pradesh,FRACTURE
+Palakollu,Andhra Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Palakollu,Andhra Pradesh,MISSING TOOTH
+Palakollu,Andhra Pradesh,ROOT STUMP
+Palakollu,Andhra Pradesh,GROSSLY DECAYED
+Palakollu,Andhra Pradesh,DIASTEMA
+Palakollu,Andhra Pradesh,ATTRITION
+Palakollu,Andhra Pradesh,MALALIGNED
+Gargoti,Maharashtra,DEEP CARIES
+Gargoti,Maharashtra,FILLING
+Gargoti,Maharashtra,PIT AND FISSURE CARIES
+Gargoti,Maharashtra,STAINS
+Gargoti,Maharashtra,INFLAMMED / RED GUMS
+Gargoti,Maharashtra,TOOTH_GAP
+Gargoti,Maharashtra,ROOT STUMP
+Gargoti,Maharashtra,CROWNS
+Gargoti,Maharashtra,CALCULUS
+Gargoti,Maharashtra,FRACTURE
+Gargoti,Maharashtra,MISSING TOOTH
+Gargoti,Maharashtra,MALALIGNED
+Gargoti,Maharashtra,GROSSLY DECAYED
+Gargoti,Maharashtra,DIASTEMA
+Gargoti,Maharashtra,ATTRITION
+Delhi,Delhi,INFLAMMED / RED GUMS
+Delhi,Delhi,CROWNS
+Delhi,Delhi,DEEP CARIES
+Delhi,Delhi,FILLING
+Delhi,Delhi,PIT AND FISSURE CARIES
+Delhi,Delhi,CALCULUS
+Delhi,Delhi,FRACTURE
+Delhi,Delhi,ROOT STUMP
+Delhi,Delhi,GROSSLY DECAYED
+Delhi,Delhi,MALALIGNED
+Delhi,Delhi,ATTRITION
+Delhi,Delhi,BRACES
+Delhi,Delhi,DEFECTIVE / PARTIAL TREATMENT
+Delhi,Delhi,IMPACTED 3RD MOLAR / PERICORONITIS
+Delhi,Delhi,RECEDED GUMS
+Delhi,Delhi,STAINS
+Delhi,Delhi,TOOTH_GAP
+Delhi,Delhi,MISSING TOOTH
+Delhi,Delhi,DIASTEMA
+Nellore,Andhra Pradesh,RECEDED GUMS
+Nellore,Andhra Pradesh,DEEP CARIES
+Nellore,Andhra Pradesh,FILLING
+Nellore,Andhra Pradesh,PIT AND FISSURE CARIES
+Nellore,Andhra Pradesh,STAINS
+Nellore,Andhra Pradesh,INFLAMMED / RED GUMS
+Nellore,Andhra Pradesh,TOOTH_GAP
+Nellore,Andhra Pradesh,CROWNS
+Nellore,Andhra Pradesh,CALCULUS
+Nellore,Andhra Pradesh,FRACTURE
+Nellore,Andhra Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Nellore,Andhra Pradesh,MISSING TOOTH
+Nellore,Andhra Pradesh,ROOT STUMP
+Nellore,Andhra Pradesh,GROSSLY DECAYED
+Nellore,Andhra Pradesh,DIASTEMA
+Nellore,Andhra Pradesh,ATTRITION
+Nellore,Andhra Pradesh,MALALIGNED
+Pakur,Jharkhand,DEEP CARIES
+Pakur,Jharkhand,FILLING
+Pakur,Jharkhand,PIT AND FISSURE CARIES
+Pakur,Jharkhand,STAINS
+Pakur,Jharkhand,TOOTH_GAP
+Pakur,Jharkhand,INFLAMMED / RED GUMS
+Pakur,Jharkhand,CROWNS
+Pakur,Jharkhand,CALCULUS
+Pakur,Jharkhand,IMPACTED 3RD MOLAR / PERICORONITIS
+Pakur,Jharkhand,FRACTURE
+Pakur,Jharkhand,MISSING TOOTH
+Pakur,Jharkhand,ROOT STUMP
+Pakur,Jharkhand,GROSSLY DECAYED
+Pakur,Jharkhand,DIASTEMA
+Pakur,Jharkhand,ATTRITION
+Pakur,Jharkhand,MALALIGNED
+Tiruchirappalli,Tamil Nadu,DEEP CARIES
+Tiruchirappalli,Tamil Nadu,FILLING
+Tiruchirappalli,Tamil Nadu,PIT AND FISSURE CARIES
+Tiruchirappalli,Tamil Nadu,STAINS
+Tiruchirappalli,Tamil Nadu,TOOTH_GAP
+Tiruchirappalli,Tamil Nadu,INFLAMMED / RED GUMS
+Tiruchirappalli,Tamil Nadu,ROOT STUMP
+Tiruchirappalli,Tamil Nadu,CROWNS
+Tiruchirappalli,Tamil Nadu,CALCULUS
+Tiruchirappalli,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Tiruchirappalli,Tamil Nadu,FRACTURE
+Tiruchirappalli,Tamil Nadu,MISSING TOOTH
+Tiruchirappalli,Tamil Nadu,MALALIGNED
+Tiruchirappalli,Tamil Nadu,GROSSLY DECAYED
+Tiruchirappalli,Tamil Nadu,DIASTEMA
+Tiruchirappalli,Tamil Nadu,ATTRITION
+Tiruchirappalli,Tamil Nadu,RECEDED GUMS
+New Delhi,Delhi,DEEP CARIES
+New Delhi,Delhi,FILLING
+New Delhi,Delhi,PIT AND FISSURE CARIES
+New Delhi,Delhi,STAINS
+New Delhi,Delhi,TOOTH_GAP
+New Delhi,Delhi,CROWNS
+New Delhi,Delhi,CALCULUS
+New Delhi,Delhi,FRACTURE
+New Delhi,Delhi,IMPACTED 3RD MOLAR / PERICORONITIS
+New Delhi,Delhi,MISSING TOOTH
+New Delhi,Delhi,ROOT STUMP
+New Delhi,Delhi,GROSSLY DECAYED
+New Delhi,Delhi,DIASTEMA
+New Delhi,Delhi,ATTRITION
+New Delhi,Delhi,MALALIGNED
+New Delhi,Delhi,RECEDED GUMS
+New Delhi,Delhi,DEFECTIVE / PARTIAL TREATMENT
+New Delhi,Delhi,INFLAMMED / RED GUMS
+Sri Vijaya Puram,Andaman and Nicobar Islands,PIT AND FISSURE CARIES
+Sri Vijaya Puram,Andaman and Nicobar Islands,STAINS
+Sri Vijaya Puram,Andaman and Nicobar Islands,INFLAMMED / RED GUMS
+Sri Vijaya Puram,Andaman and Nicobar Islands,TOOTH_GAP
+Sri Vijaya Puram,Andaman and Nicobar Islands,CROWNS
+Sri Vijaya Puram,Andaman and Nicobar Islands,CALCULUS
+Sri Vijaya Puram,Andaman and Nicobar Islands,MALALIGNED
+Sri Vijaya Puram,Andaman and Nicobar Islands,ATTRITION
+Lusaka,Lusaka Province,DEEP CARIES
+Lusaka,Lusaka Province,FILLING
+Lusaka,Lusaka Province,PIT AND FISSURE CARIES
+Lusaka,Lusaka Province,STAINS
+Lusaka,Lusaka Province,INFLAMMED / RED GUMS
+Lusaka,Lusaka Province,TOOTH_GAP
+Lusaka,Lusaka Province,ROOT STUMP
+Lusaka,Lusaka Province,CROWNS
+Lusaka,Lusaka Province,CALCULUS
+Lusaka,Lusaka Province,IMPACTED 3RD MOLAR / PERICORONITIS
+Lusaka,Lusaka Province,FRACTURE
+Lusaka,Lusaka Province,MISSING TOOTH
+Lusaka,Lusaka Province,MALALIGNED
+Lusaka,Lusaka Province,DIASTEMA
+Lusaka,Lusaka Province,ATTRITION
+Sindagi,Karnataka,DEEP CARIES
+Sindagi,Karnataka,FILLING
+Sindagi,Karnataka,PIT AND FISSURE CARIES
+Sindagi,Karnataka,STAINS
+Sindagi,Karnataka,TOOTH_GAP
+Sindagi,Karnataka,ROOT STUMP
+Sindagi,Karnataka,CROWNS
+Sindagi,Karnataka,CALCULUS
+Sindagi,Karnataka,FRACTURE
+Sindagi,Karnataka,IMPACTED 3RD MOLAR / PERICORONITIS
+Sindagi,Karnataka,MISSING TOOTH
+Sindagi,Karnataka,MALALIGNED
+Sindagi,Karnataka,GROSSLY DECAYED
+Sindagi,Karnataka,DIASTEMA
+Sindagi,Karnataka,ATTRITION
+Hazaribagh,Jharkhand,DEEP CARIES
+Hazaribagh,Jharkhand,FILLING
+Hazaribagh,Jharkhand,PIT AND FISSURE CARIES
+Hazaribagh,Jharkhand,STAINS
+Hazaribagh,Jharkhand,INFLAMMED / RED GUMS
+Hazaribagh,Jharkhand,TOOTH_GAP
+Hazaribagh,Jharkhand,CROWNS
+Hazaribagh,Jharkhand,CALCULUS
+Hazaribagh,Jharkhand,FRACTURE
+Hazaribagh,Jharkhand,IMPACTED 3RD MOLAR / PERICORONITIS
+Hazaribagh,Jharkhand,MISSING TOOTH
+Hazaribagh,Jharkhand,ROOT STUMP
+Hazaribagh,Jharkhand,GROSSLY DECAYED
+Hazaribagh,Jharkhand,DIASTEMA
+Hazaribagh,Jharkhand,ATTRITION
+Hazaribagh,Jharkhand,MALALIGNED
+Shahdol,Madhya Pradesh,INFLAMMED / RED GUMS
+Shahdol,Madhya Pradesh,CROWNS
+Shahdol,Madhya Pradesh,DEEP CARIES
+Shahdol,Madhya Pradesh,FILLING
+Shahdol,Madhya Pradesh,PIT AND FISSURE CARIES
+Shahdol,Madhya Pradesh,CALCULUS
+Shahdol,Madhya Pradesh,FRACTURE
+Shahdol,Madhya Pradesh,ROOT STUMP
+Shahdol,Madhya Pradesh,GROSSLY DECAYED
+Shahdol,Madhya Pradesh,MALALIGNED
+Shahdol,Madhya Pradesh,ATTRITION
+Shahdol,Madhya Pradesh,BRACES
+Shahdol,Madhya Pradesh,DEFECTIVE / PARTIAL TREATMENT
+Shahdol,Madhya Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Shahdol,Madhya Pradesh,RECEDED GUMS
+Shahdol,Madhya Pradesh,STAINS
+Shahdol,Madhya Pradesh,TOOTH_GAP
+Shahdol,Madhya Pradesh,MISSING TOOTH
+Shahdol,Madhya Pradesh,DIASTEMA
+Bokaro Steel City,Jharkhand,DEEP CARIES
+Bokaro Steel City,Jharkhand,FILLING
+Bokaro Steel City,Jharkhand,PIT AND FISSURE CARIES
+Bokaro Steel City,Jharkhand,STAINS
+Bokaro Steel City,Jharkhand,TOOTH_GAP
+Bokaro Steel City,Jharkhand,INFLAMMED / RED GUMS
+Bokaro Steel City,Jharkhand,CROWNS
+Bokaro Steel City,Jharkhand,CALCULUS
+Bokaro Steel City,Jharkhand,FRACTURE
+Bokaro Steel City,Jharkhand,MISSING TOOTH
+Bokaro Steel City,Jharkhand,ROOT STUMP
+Bokaro Steel City,Jharkhand,DIASTEMA
+Bokaro Steel City,Jharkhand,ATTRITION
+Bokaro Steel City,Jharkhand,MALALIGNED
+Thekkalur,Tamil Nadu,DEEP CARIES
+Thekkalur,Tamil Nadu,FILLING
+Thekkalur,Tamil Nadu,PIT AND FISSURE CARIES
+Thekkalur,Tamil Nadu,STAINS
+Thekkalur,Tamil Nadu,INFLAMMED / RED GUMS
+Thekkalur,Tamil Nadu,TOOTH_GAP
+Thekkalur,Tamil Nadu,ROOT STUMP
+Thekkalur,Tamil Nadu,CROWNS
+Thekkalur,Tamil Nadu,CALCULUS
+Thekkalur,Tamil Nadu,FRACTURE
+Thekkalur,Tamil Nadu,IMPACTED 3RD MOLAR / PERICORONITIS
+Thekkalur,Tamil Nadu,MISSING TOOTH
+Thekkalur,Tamil Nadu,MALALIGNED
+Thekkalur,Tamil Nadu,GROSSLY DECAYED
+Thekkalur,Tamil Nadu,DIASTEMA
+Thekkalur,Tamil Nadu,ATTRITION
+Siddipet,Telangana,DEEP CARIES
+Siddipet,Telangana,FILLING
+Siddipet,Telangana,PIT AND FISSURE CARIES
+Siddipet,Telangana,STAINS
+Siddipet,Telangana,DEFECTIVE / PARTIAL TREATMENT
+Siddipet,Telangana,INFLAMMED / RED GUMS
+Siddipet,Telangana,TOOTH_GAP
+Siddipet,Telangana,CROWNS
+Siddipet,Telangana,CALCULUS
+Siddipet,Telangana,IMPACTED 3RD MOLAR / PERICORONITIS
+Siddipet,Telangana,FRACTURE
+Siddipet,Telangana,MISSING TOOTH
+Siddipet,Telangana,ROOT STUMP
+Siddipet,Telangana,GROSSLY DECAYED
+Siddipet,Telangana,DIASTEMA
+Siddipet,Telangana,ATTRITION
+Siddipet,Telangana,MALALIGNED
+Cuttack,Odisha,RECEDED GUMS
+Cuttack,Odisha,DEEP CARIES
+Cuttack,Odisha,FILLING
+Cuttack,Odisha,PIT AND FISSURE CARIES
+Cuttack,Odisha,STAINS
+Cuttack,Odisha,INFLAMMED / RED GUMS
+Cuttack,Odisha,TOOTH_GAP
+Cuttack,Odisha,CROWNS
+Cuttack,Odisha,CALCULUS
+Cuttack,Odisha,IMPACTED 3RD MOLAR / PERICORONITIS
+Cuttack,Odisha,FRACTURE
+Cuttack,Odisha,MISSING TOOTH
+Cuttack,Odisha,ROOT STUMP
+Cuttack,Odisha,GROSSLY DECAYED
+Cuttack,Odisha,DIASTEMA
+Cuttack,Odisha,ATTRITION
+Cuttack,Odisha,MALALIGNED
+Raipur,Chhattisgarh,DEEP CARIES
+Raipur,Chhattisgarh,FILLING
+Raipur,Chhattisgarh,PIT AND FISSURE CARIES
+Raipur,Chhattisgarh,STAINS
+Raipur,Chhattisgarh,DEFECTIVE / PARTIAL TREATMENT
+Raipur,Chhattisgarh,INFLAMMED / RED GUMS
+Raipur,Chhattisgarh,TOOTH_GAP
+Raipur,Chhattisgarh,CROWNS
+Raipur,Chhattisgarh,CALCULUS
+Raipur,Chhattisgarh,IMPACTED 3RD MOLAR / PERICORONITIS
+Raipur,Chhattisgarh,FRACTURE
+Raipur,Chhattisgarh,MISSING TOOTH
+Raipur,Chhattisgarh,ROOT STUMP
+Raipur,Chhattisgarh,GROSSLY DECAYED
+Raipur,Chhattisgarh,DIASTEMA
+Raipur,Chhattisgarh,ATTRITION
+Raipur,Chhattisgarh,MALALIGNED
+Raipur,Chhattisgarh,APPLIANCES
+Dubai,Dubai,PIT AND FISSURE CARIES
+Dubai,Dubai,STAINS
+Dubai,Dubai,CALCULUS
+Dubai,Dubai,IMPACTED 3RD MOLAR / PERICORONITIS
+Dubai,Dubai,MALALIGNED
+Agra,Uttar Pradesh,RECEDED GUMS
+Agra,Uttar Pradesh,DEEP CARIES
+Agra,Uttar Pradesh,FILLING
+Agra,Uttar Pradesh,PIT AND FISSURE CARIES
+Agra,Uttar Pradesh,STAINS
+Agra,Uttar Pradesh,DEFECTIVE / PARTIAL TREATMENT
+Agra,Uttar Pradesh,INFLAMMED / RED GUMS
+Agra,Uttar Pradesh,TOOTH_GAP
+Agra,Uttar Pradesh,CROWNS
+Agra,Uttar Pradesh,CALCULUS
+Agra,Uttar Pradesh,IMPACTED 3RD MOLAR / PERICORONITIS
+Agra,Uttar Pradesh,MALALIGNED
+Agra,Uttar Pradesh,GROSSLY DECAYED
+Agra,Uttar Pradesh,DIASTEMA
+Agra,Uttar Pradesh,ATTRITION
