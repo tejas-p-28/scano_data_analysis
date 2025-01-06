@@ -6,7 +6,7 @@ import os
 from dotenv import load_dotenv
 global api_key
 load_dotenv()
-api_key = os.listdir('api_key')
+api_key = os.getenv('api_key')
 
 # fetching data from the api hosted
 def fetch_data(url, auth_token):
@@ -67,7 +67,7 @@ def get_state_from_city(city):
     return None
 if __name__ == '__main__':
 
-    url = 'http://182.168.1.210:3100/v1/analytics/get-month-wise-analytics?startDate=31/08/2024&endDate=30/12/2024'
+    url = 'http://192.168.57.148:3100/v1/analytics/get-month-wise-analytics?startDate=31/08/2024&endDate=30/12/2024'
     auth_token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IiIsImlkIjoiNjU5MDA4ODljMGIxMzhlYTY0MGJjZDE1IiwiaWF0IjoxNzM1OTc5ODI5fQ.JnYxf5H02A8ggWvnM3oviThhRvt0u1B9D4YTvytNg2A'
     data = fetch_data(url, auth_token)
     if data :
