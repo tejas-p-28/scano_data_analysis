@@ -1,0 +1,1886 @@
+[
+    {
+        "doctor": "Dr. G",
+        "clinic": "Scan-o Dental",
+        "clinicMobile": "7024022254",
+        "location": "",
+        "address": "Office 1102, Montvert Office Spaces, Opp to Nano Space IT Park, Baner Pashan Link Road, Pune 411045",
+        "kiosk": "kiosk 123",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 33
+            },
+            {
+                "month": "November 2024",
+                "count": 372
+            },
+            {
+                "month": "October 2024",
+                "count": 388
+            },
+            {
+                "month": "September 2024",
+                "count": 468
+            },
+            {
+                "month": "August 2024",
+                "count": 303
+            },
+            {
+                "month": "July 2024",
+                "count": 136
+            },
+            {
+                "month": "June 2024",
+                "count": 7
+            },
+            {
+                "month": "May 2024",
+                "count": 287
+            },
+            {
+                "month": "April 2024",
+                "count": 87
+            },
+            {
+                "month": "March 2024",
+                "count": 4
+            },
+            {
+                "month": "February 2024",
+                "count": 111
+            }
+        ],
+        "diseaseWiseMonthCount": [
+            {
+                "month": "December 2024",
+                "diseaseWiseCount": {
+                    "CROWNS": 11,
+                    "PIT AND FISSURE CARIES": 18,
+                    "MALALIGNED": 11,
+                    "STAINS": 50,
+                    "DEFECTIVE / PARTIAL TREATMENT": 1,
+                    "FRACTURE": 3,
+                    "DEEP CARIES": 1,
+                    "FILLING": 6,
+                    "ATTRITION": 5,
+                    "CALCULUS": 13,
+                    "DIASTEMA": 9,
+                    "TOOTH_GAP": 3
+                }
+            },
+            {
+                "month": "November 2024",
+                "diseaseWiseCount": {
+                    "MALALIGNED": 478,
+                    "DEEP CARIES": 19,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 40,
+                    "GROSSLY DECAYED": 4,
+                    "STAINS": 604,
+                    "FILLING": 59,
+                    "DEFECTIVE / PARTIAL TREATMENT": 7,
+                    "PIT AND FISSURE CARIES": 200,
+                    "TOOTH_GAP": 56,
+                    "CROWNS": 13,
+                    "ROOT STUMP": 2,
+                    "APPLIANCES": 2,
+                    "CALCULUS": 257,
+                    "MISSING TOOTH": 2,
+                    "FRACTURE": 148,
+                    "ATTRITION": 211,
+                    "DIASTEMA": 238
+                }
+            },
+            {
+                "month": "October 2024",
+                "diseaseWiseCount": {
+                    "INFLAMMED / RED GUMS": 180,
+                    "FILLING": 136,
+                    "DEEP CARIES": 54,
+                    "FRACTURE": 72,
+                    "ATTRITION": 317,
+                    "INFLAMMED / RED GUM": 1,
+                    "CALCULUS": 164,
+                    "BRACES": 3,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 38,
+                    "PIT AND FISSURE CARIES": 228,
+                    "GROSSLY DECAYED": 7,
+                    "ROOT STUMP": 10,
+                    "TOOTH_GAP": 47,
+                    "DEFECTIVE / PARTIAL TREATMENT": 21,
+                    "CROWNS": 51,
+                    "DIASTEMA": 157,
+                    "MISSING TOOTH": 13,
+                    "STAINS": 624,
+                    "RECEDED GUMS": 73,
+                    "MALALIGNED": 460
+                }
+            },
+            {
+                "month": "September 2024",
+                "diseaseWiseCount": {
+                    "DIASTEMA": 224,
+                    "STAINS": 560,
+                    "FRACTURE": 131,
+                    "MISSING TOOTH": 3,
+                    "ATTRITION": 282,
+                    "MALALIGNED": 562,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 43,
+                    "TOOTH_GAP": 53,
+                    "DEEP CARIES": 50,
+                    "CALCULUS": 295,
+                    "CROWNS": 27,
+                    "PIT AND FISSURE CARIES": 382,
+                    "FILLING": 229
+                }
+            },
+            {
+                "month": "August 2024",
+                "diseaseWiseCount": {
+                    "DEEP CARIES": 10,
+                    "ROOT STUMP": 2,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 13,
+                    "DIASTEMA": 235,
+                    "TOOTH_GAP": 16,
+                    "FILLING": 209,
+                    "MALALIGNED": 353,
+                    "STAINS": 665,
+                    "CALCULUS": 425,
+                    "FRACTURE": 32,
+                    "ATTRITION": 254,
+                    "PIT AND FISSURE CARIES": 438,
+                    "CROWNS": 10
+                }
+            },
+            {
+                "month": "July 2024",
+                "diseaseWiseCount": {
+                    "FRACTURE": 31,
+                    "STAINS": 129,
+                    "DIASTEMA": 67,
+                    "FILLING": 38,
+                    "CALCULUS": 73,
+                    "ATTRITION": 59,
+                    "TOOTH_GAP": 12,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 12,
+                    "DEEP CARIES": 10,
+                    "ROOT STUMP": 1,
+                    "CROWNS": 11,
+                    "MISSING TOOTH": 2,
+                    "PIT AND FISSURE CARIES": 84,
+                    "MALALIGNED": 121
+                }
+            },
+            {
+                "month": "June 2024",
+                "diseaseWiseCount": {
+                    "CALCULUS": 5,
+                    "STAINS": 4,
+                    "DIASTEMA": 3,
+                    "PIT AND FISSURE CARIES": 2,
+                    "MALALIGNED": 7,
+                    "CROWNS": 1,
+                    "ATTRITION": 1,
+                    "FRACTURE": 4
+                }
+            },
+            {
+                "month": "May 2024",
+                "diseaseWiseCount": {
+                    "DEEP CARIES": 14,
+                    "FILLING": 73,
+                    "DIASTEMA": 87,
+                    "CALCULUS": 58,
+                    "CROWNS": 29,
+                    "PIT AND FISSURE CARIES": 277,
+                    "TOOTH_GAP": 40,
+                    "STAINS": 280,
+                    "ATTRITION": 186,
+                    "MALALIGNED": 330,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 39,
+                    "FRACTURE": 93
+                }
+            },
+            {
+                "month": "April 2024",
+                "diseaseWiseCount": {
+                    "STAINS": 85,
+                    "ATTRITION": 57,
+                    "CALCULUS": 6,
+                    "FRACTURE": 11,
+                    "MISSING TOOTH": 1,
+                    "DIASTEMA": 4,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 1,
+                    "PIT AND FISSURE CARIES": 88,
+                    "CROWNS": 31,
+                    "FILLING": 3,
+                    "TOOTH_GAP": 2,
+                    "FILLINGS": 14,
+                    "MALALIGNED": 97
+                }
+            },
+            {
+                "month": "March 2024",
+                "diseaseWiseCount": {
+                    "MALALIGNED": 6,
+                    "ATTRITION": 3,
+                    "PIT AND FISSURE CARIES": 1,
+                    "FRACTURE": 2
+                }
+            },
+            {
+                "month": "February 2024",
+                "diseaseWiseCount": {
+                    "CALCULUS": 39,
+                    "STAINS": 120,
+                    "MISSING TOOTH": 5,
+                    "SILVER FILLING": 1,
+                    "ROOT STUMP": 6,
+                    "MALALIGNED": 161,
+                    "PIT AND FISSURE CARIES": 94,
+                    "INFLAMMED / RED GUMS": 18,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 14,
+                    "TOOTH_GAP": 19,
+                    "ATTRITION": 93,
+                    "FRACTURE": 17,
+                    "DIASTEMA": 8
+                }
+            },
+            {
+                "month": "January 2024",
+                "diseaseWiseCount": {
+                    "TOOTH_GAP": 1,
+                    "INFLAMMED / RED GUMS": 1,
+                    "PIT AND FISSURE CARIES": 1,
+                    "MALALIGNED": 2,
+                    "STAINS": 1
+                }
+            }
+        ],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "dental dost2",
+        "clinic": "dd karve nagar",
+        "clinicMobile": "8668263262",
+        "location": "",
+        "address": "karve nagar",
+        "kiosk": "Kiosk-pune",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "test1",
+        "clinic": "test1",
+        "clinicMobile": "8888888888",
+        "location": "",
+        "address": "test1",
+        "kiosk": "test1",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "test3",
+        "clinic": "test3",
+        "clinicMobile": "1111111111",
+        "location": "",
+        "address": "test3",
+        "kiosk": "test3",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "aditi kavade",
+        "clinic": "clinic name",
+        "clinicMobile": "8010782255",
+        "location": "",
+        "address": "clinic address",
+        "kiosk": "kiosk name",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "ak",
+        "clinic": "C name",
+        "clinicMobile": "1234123423",
+        "location": "",
+        "address": "C Address",
+        "kiosk": "k name",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "scanO",
+        "clinic": "c name",
+        "clinicMobile": "9000011111",
+        "location": "",
+        "address": "c address",
+        "kiosk": "k name",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "New Doctor",
+        "clinic": "New Clinic",
+        "clinicMobile": "1111111112",
+        "location": "",
+        "address": "123",
+        "kiosk": "New Kiosk",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "trial doc",
+        "clinic": "trial doc",
+        "clinicMobile": "899999999",
+        "location": "",
+        "address": "trial doc address",
+        "kiosk": "trial doc kiosk name",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "New Doctor",
+        "clinic": "New Clinic",
+        "clinicMobile": "1111111113",
+        "location": "",
+        "address": "123",
+        "kiosk": "New Kiosk2",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "PaymentTrial",
+        "clinic": "PaymentTrial",
+        "clinicMobile": "3232455",
+        "location": "",
+        "address": "PaymentTrial",
+        "kiosk": "PaymentTrial",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "Dr. John Doe",
+        "clinic": "Scan-o Dental",
+        "clinicMobile": "7024022254",
+        "location": "",
+        "address": "Office 1102, Montvert Office Spaces, Opp to Nano Space IT Park, Baner Pashan Link Road, Pune 411045",
+        "kiosk": "kiosk 123",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 33
+            },
+            {
+                "month": "November 2024",
+                "count": 372
+            },
+            {
+                "month": "October 2024",
+                "count": 388
+            },
+            {
+                "month": "September 2024",
+                "count": 468
+            },
+            {
+                "month": "August 2024",
+                "count": 303
+            },
+            {
+                "month": "July 2024",
+                "count": 136
+            },
+            {
+                "month": "June 2024",
+                "count": 7
+            },
+            {
+                "month": "May 2024",
+                "count": 287
+            },
+            {
+                "month": "April 2024",
+                "count": 87
+            },
+            {
+                "month": "March 2024",
+                "count": 4
+            },
+            {
+                "month": "February 2024",
+                "count": 111
+            }
+        ],
+        "diseaseWiseMonthCount": [
+            {
+                "month": "December 2024",
+                "diseaseWiseCount": {
+                    "CALCULUS": 13,
+                    "DIASTEMA": 9,
+                    "TOOTH_GAP": 3,
+                    "FILLING": 6,
+                    "ATTRITION": 5,
+                    "DEEP CARIES": 1,
+                    "STAINS": 50,
+                    "DEFECTIVE / PARTIAL TREATMENT": 1,
+                    "FRACTURE": 3,
+                    "MALALIGNED": 11,
+                    "PIT AND FISSURE CARIES": 18,
+                    "CROWNS": 11
+                }
+            },
+            {
+                "month": "November 2024",
+                "diseaseWiseCount": {
+                    "MISSING TOOTH": 2,
+                    "FRACTURE": 148,
+                    "ATTRITION": 211,
+                    "DIASTEMA": 238,
+                    "CALCULUS": 257,
+                    "APPLIANCES": 2,
+                    "ROOT STUMP": 2,
+                    "TOOTH_GAP": 56,
+                    "CROWNS": 13,
+                    "FILLING": 59,
+                    "DEFECTIVE / PARTIAL TREATMENT": 7,
+                    "PIT AND FISSURE CARIES": 200,
+                    "DEEP CARIES": 19,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 40,
+                    "GROSSLY DECAYED": 4,
+                    "STAINS": 604,
+                    "MALALIGNED": 478
+                }
+            },
+            {
+                "month": "October 2024",
+                "diseaseWiseCount": {
+                    "MISSING TOOTH": 13,
+                    "STAINS": 624,
+                    "RECEDED GUMS": 73,
+                    "MALALIGNED": 460,
+                    "DEFECTIVE / PARTIAL TREATMENT": 21,
+                    "CROWNS": 51,
+                    "DIASTEMA": 157,
+                    "TOOTH_GAP": 47,
+                    "ROOT STUMP": 10,
+                    "GROSSLY DECAYED": 7,
+                    "BRACES": 3,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 38,
+                    "PIT AND FISSURE CARIES": 228,
+                    "CALCULUS": 164,
+                    "INFLAMMED / RED GUMS": 180,
+                    "FILLING": 136,
+                    "DEEP CARIES": 54,
+                    "FRACTURE": 72,
+                    "ATTRITION": 317,
+                    "INFLAMMED / RED GUM": 1
+                }
+            },
+            {
+                "month": "September 2024",
+                "diseaseWiseCount": {
+                    "PIT AND FISSURE CARIES": 382,
+                    "FILLING": 229,
+                    "CROWNS": 27,
+                    "DEEP CARIES": 50,
+                    "CALCULUS": 295,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 43,
+                    "TOOTH_GAP": 53,
+                    "ATTRITION": 282,
+                    "MALALIGNED": 562,
+                    "STAINS": 560,
+                    "DIASTEMA": 224,
+                    "FRACTURE": 131,
+                    "MISSING TOOTH": 3
+                }
+            },
+            {
+                "month": "August 2024",
+                "diseaseWiseCount": {
+                    "ATTRITION": 254,
+                    "PIT AND FISSURE CARIES": 438,
+                    "CROWNS": 10,
+                    "FRACTURE": 32,
+                    "MALALIGNED": 353,
+                    "STAINS": 665,
+                    "CALCULUS": 425,
+                    "TOOTH_GAP": 16,
+                    "FILLING": 209,
+                    "DIASTEMA": 235,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 13,
+                    "DEEP CARIES": 10,
+                    "ROOT STUMP": 2
+                }
+            },
+            {
+                "month": "July 2024",
+                "diseaseWiseCount": {
+                    "PIT AND FISSURE CARIES": 84,
+                    "MALALIGNED": 121,
+                    "CROWNS": 11,
+                    "MISSING TOOTH": 2,
+                    "ROOT STUMP": 1,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 12,
+                    "TOOTH_GAP": 12,
+                    "DEEP CARIES": 10,
+                    "FILLING": 38,
+                    "CALCULUS": 73,
+                    "ATTRITION": 59,
+                    "DIASTEMA": 67,
+                    "FRACTURE": 31,
+                    "STAINS": 129
+                }
+            },
+            {
+                "month": "June 2024",
+                "diseaseWiseCount": {
+                    "FRACTURE": 4,
+                    "ATTRITION": 1,
+                    "CROWNS": 1,
+                    "PIT AND FISSURE CARIES": 2,
+                    "MALALIGNED": 7,
+                    "STAINS": 4,
+                    "DIASTEMA": 3,
+                    "CALCULUS": 5
+                }
+            },
+            {
+                "month": "May 2024",
+                "diseaseWiseCount": {
+                    "FRACTURE": 93,
+                    "ATTRITION": 186,
+                    "MALALIGNED": 330,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 39,
+                    "TOOTH_GAP": 40,
+                    "STAINS": 280,
+                    "PIT AND FISSURE CARIES": 277,
+                    "CALCULUS": 58,
+                    "CROWNS": 29,
+                    "DEEP CARIES": 14,
+                    "FILLING": 73,
+                    "DIASTEMA": 87
+                }
+            },
+            {
+                "month": "April 2024",
+                "diseaseWiseCount": {
+                    "MALALIGNED": 97,
+                    "FILLINGS": 14,
+                    "PIT AND FISSURE CARIES": 88,
+                    "CROWNS": 31,
+                    "TOOTH_GAP": 2,
+                    "FILLING": 3,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 1,
+                    "DIASTEMA": 4,
+                    "MISSING TOOTH": 1,
+                    "ATTRITION": 57,
+                    "CALCULUS": 6,
+                    "FRACTURE": 11,
+                    "STAINS": 85
+                }
+            },
+            {
+                "month": "March 2024",
+                "diseaseWiseCount": {
+                    "FRACTURE": 2,
+                    "ATTRITION": 3,
+                    "PIT AND FISSURE CARIES": 1,
+                    "MALALIGNED": 6
+                }
+            },
+            {
+                "month": "February 2024",
+                "diseaseWiseCount": {
+                    "ATTRITION": 93,
+                    "FRACTURE": 17,
+                    "DIASTEMA": 8,
+                    "TOOTH_GAP": 19,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 14,
+                    "INFLAMMED / RED GUMS": 18,
+                    "PIT AND FISSURE CARIES": 94,
+                    "MALALIGNED": 161,
+                    "ROOT STUMP": 6,
+                    "CALCULUS": 39,
+                    "MISSING TOOTH": 5,
+                    "STAINS": 120,
+                    "SILVER FILLING": 1
+                }
+            },
+            {
+                "month": "January 2024",
+                "diseaseWiseCount": {
+                    "PIT AND FISSURE CARIES": 1,
+                    "MALALIGNED": 2,
+                    "STAINS": 1,
+                    "INFLAMMED / RED GUMS": 1,
+                    "TOOTH_GAP": 1
+                }
+            }
+        ],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "Rushi",
+        "clinic": "Scan-o Dental",
+        "clinicMobile": "7024022254",
+        "location": "",
+        "address": "Office 1102, Montvert Office Spaces, Opp to Nano Space IT Park, Baner Pashan Link Road, Pune 411045",
+        "kiosk": "kiosk 123",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 33
+            },
+            {
+                "month": "November 2024",
+                "count": 372
+            },
+            {
+                "month": "October 2024",
+                "count": 388
+            },
+            {
+                "month": "September 2024",
+                "count": 468
+            },
+            {
+                "month": "August 2024",
+                "count": 303
+            },
+            {
+                "month": "July 2024",
+                "count": 136
+            },
+            {
+                "month": "June 2024",
+                "count": 7
+            },
+            {
+                "month": "May 2024",
+                "count": 287
+            },
+            {
+                "month": "April 2024",
+                "count": 87
+            },
+            {
+                "month": "March 2024",
+                "count": 4
+            },
+            {
+                "month": "February 2024",
+                "count": 111
+            }
+        ],
+        "diseaseWiseMonthCount": [
+            {
+                "month": "December 2024",
+                "diseaseWiseCount": {
+                    "CROWNS": 11,
+                    "PIT AND FISSURE CARIES": 18,
+                    "MALALIGNED": 11,
+                    "STAINS": 50,
+                    "DEFECTIVE / PARTIAL TREATMENT": 1,
+                    "FRACTURE": 3,
+                    "DEEP CARIES": 1,
+                    "FILLING": 6,
+                    "ATTRITION": 5,
+                    "CALCULUS": 13,
+                    "TOOTH_GAP": 3,
+                    "DIASTEMA": 9
+                }
+            },
+            {
+                "month": "November 2024",
+                "diseaseWiseCount": {
+                    "MALALIGNED": 478,
+                    "DEEP CARIES": 19,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 40,
+                    "GROSSLY DECAYED": 4,
+                    "STAINS": 604,
+                    "FILLING": 59,
+                    "DEFECTIVE / PARTIAL TREATMENT": 7,
+                    "PIT AND FISSURE CARIES": 200,
+                    "TOOTH_GAP": 56,
+                    "CROWNS": 13,
+                    "ROOT STUMP": 2,
+                    "APPLIANCES": 2,
+                    "CALCULUS": 257,
+                    "MISSING TOOTH": 2,
+                    "FRACTURE": 148,
+                    "ATTRITION": 211,
+                    "DIASTEMA": 238
+                }
+            },
+            {
+                "month": "October 2024",
+                "diseaseWiseCount": {
+                    "INFLAMMED / RED GUMS": 180,
+                    "FILLING": 136,
+                    "DEEP CARIES": 54,
+                    "FRACTURE": 72,
+                    "ATTRITION": 317,
+                    "INFLAMMED / RED GUM": 1,
+                    "CALCULUS": 164,
+                    "BRACES": 3,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 38,
+                    "PIT AND FISSURE CARIES": 228,
+                    "GROSSLY DECAYED": 7,
+                    "ROOT STUMP": 10,
+                    "TOOTH_GAP": 47,
+                    "DEFECTIVE / PARTIAL TREATMENT": 21,
+                    "CROWNS": 51,
+                    "DIASTEMA": 157,
+                    "MISSING TOOTH": 13,
+                    "STAINS": 624,
+                    "RECEDED GUMS": 73,
+                    "MALALIGNED": 460
+                }
+            },
+            {
+                "month": "September 2024",
+                "diseaseWiseCount": {
+                    "DIASTEMA": 224,
+                    "STAINS": 560,
+                    "FRACTURE": 131,
+                    "MISSING TOOTH": 3,
+                    "ATTRITION": 282,
+                    "MALALIGNED": 562,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 43,
+                    "TOOTH_GAP": 53,
+                    "DEEP CARIES": 50,
+                    "CALCULUS": 295,
+                    "CROWNS": 27,
+                    "PIT AND FISSURE CARIES": 382,
+                    "FILLING": 229
+                }
+            },
+            {
+                "month": "August 2024",
+                "diseaseWiseCount": {
+                    "DEEP CARIES": 10,
+                    "ROOT STUMP": 2,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 13,
+                    "DIASTEMA": 235,
+                    "TOOTH_GAP": 16,
+                    "FILLING": 209,
+                    "MALALIGNED": 353,
+                    "STAINS": 665,
+                    "CALCULUS": 425,
+                    "FRACTURE": 32,
+                    "ATTRITION": 254,
+                    "PIT AND FISSURE CARIES": 438,
+                    "CROWNS": 10
+                }
+            },
+            {
+                "month": "July 2024",
+                "diseaseWiseCount": {
+                    "FRACTURE": 31,
+                    "STAINS": 129,
+                    "DIASTEMA": 67,
+                    "FILLING": 38,
+                    "CALCULUS": 73,
+                    "ATTRITION": 59,
+                    "TOOTH_GAP": 12,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 12,
+                    "DEEP CARIES": 10,
+                    "ROOT STUMP": 1,
+                    "CROWNS": 11,
+                    "MISSING TOOTH": 2,
+                    "PIT AND FISSURE CARIES": 84,
+                    "MALALIGNED": 121
+                }
+            },
+            {
+                "month": "June 2024",
+                "diseaseWiseCount": {
+                    "CALCULUS": 5,
+                    "STAINS": 4,
+                    "DIASTEMA": 3,
+                    "PIT AND FISSURE CARIES": 2,
+                    "MALALIGNED": 7,
+                    "CROWNS": 1,
+                    "ATTRITION": 1,
+                    "FRACTURE": 4
+                }
+            },
+            {
+                "month": "May 2024",
+                "diseaseWiseCount": {
+                    "DEEP CARIES": 14,
+                    "FILLING": 73,
+                    "DIASTEMA": 87,
+                    "CALCULUS": 58,
+                    "CROWNS": 29,
+                    "PIT AND FISSURE CARIES": 277,
+                    "TOOTH_GAP": 40,
+                    "STAINS": 280,
+                    "ATTRITION": 186,
+                    "MALALIGNED": 330,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 39,
+                    "FRACTURE": 93
+                }
+            },
+            {
+                "month": "April 2024",
+                "diseaseWiseCount": {
+                    "STAINS": 85,
+                    "ATTRITION": 57,
+                    "CALCULUS": 6,
+                    "FRACTURE": 11,
+                    "MISSING TOOTH": 1,
+                    "DIASTEMA": 4,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 1,
+                    "PIT AND FISSURE CARIES": 88,
+                    "CROWNS": 31,
+                    "FILLING": 3,
+                    "TOOTH_GAP": 2,
+                    "FILLINGS": 14,
+                    "MALALIGNED": 97
+                }
+            },
+            {
+                "month": "March 2024",
+                "diseaseWiseCount": {
+                    "MALALIGNED": 6,
+                    "ATTRITION": 3,
+                    "PIT AND FISSURE CARIES": 1,
+                    "FRACTURE": 2
+                }
+            },
+            {
+                "month": "February 2024",
+                "diseaseWiseCount": {
+                    "CALCULUS": 39,
+                    "STAINS": 120,
+                    "MISSING TOOTH": 5,
+                    "SILVER FILLING": 1,
+                    "MALALIGNED": 161,
+                    "ROOT STUMP": 6,
+                    "PIT AND FISSURE CARIES": 94,
+                    "INFLAMMED / RED GUMS": 18,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 14,
+                    "TOOTH_GAP": 19,
+                    "ATTRITION": 93,
+                    "FRACTURE": 17,
+                    "DIASTEMA": 8
+                }
+            },
+            {
+                "month": "January 2024",
+                "diseaseWiseCount": {
+                    "TOOTH_GAP": 1,
+                    "INFLAMMED / RED GUMS": 1,
+                    "PIT AND FISSURE CARIES": 1,
+                    "MALALIGNED": 2,
+                    "STAINS": 1
+                }
+            }
+        ],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "Test1",
+        "clinic": "Scan-o Dental",
+        "clinicMobile": "7024022254",
+        "location": "",
+        "address": "Office 1102, Montvert Office Spaces, Opp to Nano Space IT Park, Baner Pashan Link Road, Pune 411045",
+        "kiosk": "kiosk 123",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 33
+            },
+            {
+                "month": "November 2024",
+                "count": 372
+            },
+            {
+                "month": "October 2024",
+                "count": 388
+            },
+            {
+                "month": "September 2024",
+                "count": 468
+            },
+            {
+                "month": "August 2024",
+                "count": 303
+            },
+            {
+                "month": "July 2024",
+                "count": 136
+            },
+            {
+                "month": "June 2024",
+                "count": 7
+            },
+            {
+                "month": "May 2024",
+                "count": 287
+            },
+            {
+                "month": "April 2024",
+                "count": 87
+            },
+            {
+                "month": "March 2024",
+                "count": 4
+            },
+            {
+                "month": "February 2024",
+                "count": 111
+            }
+        ],
+        "diseaseWiseMonthCount": [
+            {
+                "month": "December 2024",
+                "diseaseWiseCount": {
+                    "CALCULUS": 13,
+                    "DIASTEMA": 9,
+                    "TOOTH_GAP": 3,
+                    "FILLING": 6,
+                    "ATTRITION": 5,
+                    "MALALIGNED": 11,
+                    "PIT AND FISSURE CARIES": 18,
+                    "CROWNS": 11,
+                    "DEEP CARIES": 1,
+                    "STAINS": 50,
+                    "DEFECTIVE / PARTIAL TREATMENT": 1,
+                    "FRACTURE": 3
+                }
+            },
+            {
+                "month": "November 2024",
+                "diseaseWiseCount": {
+                    "APPLIANCES": 2,
+                    "ROOT STUMP": 2,
+                    "MISSING TOOTH": 2,
+                    "FRACTURE": 148,
+                    "ATTRITION": 211,
+                    "DIASTEMA": 238,
+                    "CALCULUS": 257,
+                    "DEEP CARIES": 19,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 40,
+                    "GROSSLY DECAYED": 4,
+                    "STAINS": 604,
+                    "MALALIGNED": 478,
+                    "TOOTH_GAP": 56,
+                    "CROWNS": 13,
+                    "FILLING": 59,
+                    "DEFECTIVE / PARTIAL TREATMENT": 7,
+                    "PIT AND FISSURE CARIES": 200
+                }
+            },
+            {
+                "month": "October 2024",
+                "diseaseWiseCount": {
+                    "TOOTH_GAP": 47,
+                    "ROOT STUMP": 10,
+                    "MISSING TOOTH": 13,
+                    "STAINS": 624,
+                    "MALALIGNED": 460,
+                    "RECEDED GUMS": 73,
+                    "DEFECTIVE / PARTIAL TREATMENT": 21,
+                    "CROWNS": 51,
+                    "DIASTEMA": 157,
+                    "CALCULUS": 164,
+                    "FILLING": 136,
+                    "DEEP CARIES": 54,
+                    "INFLAMMED / RED GUMS": 180,
+                    "ATTRITION": 317,
+                    "FRACTURE": 72,
+                    "INFLAMMED / RED GUM": 1,
+                    "GROSSLY DECAYED": 7,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 38,
+                    "BRACES": 3,
+                    "PIT AND FISSURE CARIES": 228
+                }
+            },
+            {
+                "month": "September 2024",
+                "diseaseWiseCount": {
+                    "DEEP CARIES": 50,
+                    "CALCULUS": 295,
+                    "TOOTH_GAP": 53,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 43,
+                    "PIT AND FISSURE CARIES": 382,
+                    "FILLING": 229,
+                    "CROWNS": 27,
+                    "STAINS": 560,
+                    "DIASTEMA": 224,
+                    "FRACTURE": 131,
+                    "MISSING TOOTH": 3,
+                    "ATTRITION": 282,
+                    "MALALIGNED": 562
+                }
+            },
+            {
+                "month": "August 2024",
+                "diseaseWiseCount": {
+                    "MALALIGNED": 353,
+                    "CALCULUS": 425,
+                    "STAINS": 665,
+                    "TOOTH_GAP": 16,
+                    "FILLING": 209,
+                    "PIT AND FISSURE CARIES": 438,
+                    "ATTRITION": 254,
+                    "CROWNS": 10,
+                    "FRACTURE": 32,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 13,
+                    "DEEP CARIES": 10,
+                    "ROOT STUMP": 2,
+                    "DIASTEMA": 235
+                }
+            },
+            {
+                "month": "July 2024",
+                "diseaseWiseCount": {
+                    "ATTRITION": 59,
+                    "CROWNS": 11,
+                    "MISSING TOOTH": 2,
+                    "ROOT STUMP": 1,
+                    "MALALIGNED": 121,
+                    "PIT AND FISSURE CARIES": 84,
+                    "DIASTEMA": 67,
+                    "FRACTURE": 31,
+                    "STAINS": 129,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 12,
+                    "TOOTH_GAP": 12,
+                    "DEEP CARIES": 10,
+                    "FILLING": 38,
+                    "CALCULUS": 73
+                }
+            },
+            {
+                "month": "June 2024",
+                "diseaseWiseCount": {
+                    "CROWNS": 1,
+                    "FRACTURE": 4,
+                    "ATTRITION": 1,
+                    "STAINS": 4,
+                    "DIASTEMA": 3,
+                    "CALCULUS": 5,
+                    "PIT AND FISSURE CARIES": 2,
+                    "MALALIGNED": 7
+                }
+            },
+            {
+                "month": "May 2024",
+                "diseaseWiseCount": {
+                    "ATTRITION": 186,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 39,
+                    "MALALIGNED": 330,
+                    "TOOTH_GAP": 40,
+                    "STAINS": 280,
+                    "FRACTURE": 93,
+                    "CALCULUS": 58,
+                    "CROWNS": 29,
+                    "DEEP CARIES": 14,
+                    "FILLING": 73,
+                    "DIASTEMA": 87,
+                    "PIT AND FISSURE CARIES": 277
+                }
+            },
+            {
+                "month": "April 2024",
+                "diseaseWiseCount": {
+                    "FILLINGS": 14,
+                    "PIT AND FISSURE CARIES": 88,
+                    "TOOTH_GAP": 2,
+                    "FILLING": 3,
+                    "CROWNS": 31,
+                    "MALALIGNED": 97,
+                    "ATTRITION": 57,
+                    "CALCULUS": 6,
+                    "FRACTURE": 11,
+                    "STAINS": 85,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 1,
+                    "DIASTEMA": 4,
+                    "MISSING TOOTH": 1
+                }
+            },
+            {
+                "month": "March 2024",
+                "diseaseWiseCount": {
+                    "FRACTURE": 2,
+                    "MALALIGNED": 6,
+                    "ATTRITION": 3,
+                    "PIT AND FISSURE CARIES": 1
+                }
+            },
+            {
+                "month": "February 2024",
+                "diseaseWiseCount": {
+                    "TOOTH_GAP": 19,
+                    "IMPACTED 3RD MOLAR / PERICORONITIS": 14,
+                    "ATTRITION": 93,
+                    "FRACTURE": 17,
+                    "DIASTEMA": 8,
+                    "MALALIGNED": 161,
+                    "ROOT STUMP": 6,
+                    "MISSING TOOTH": 5,
+                    "STAINS": 120,
+                    "CALCULUS": 39,
+                    "SILVER FILLING": 1,
+                    "INFLAMMED / RED GUMS": 18,
+                    "PIT AND FISSURE CARIES": 94
+                }
+            },
+            {
+                "month": "January 2024",
+                "diseaseWiseCount": {
+                    "PIT AND FISSURE CARIES": 1,
+                    "MALALIGNED": 2,
+                    "STAINS": 1,
+                    "TOOTH_GAP": 1,
+                    "INFLAMMED / RED GUMS": 1
+                }
+            }
+        ],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "Dr. ABC",
+        "clinic": "ABC",
+        "clinicMobile": "1234554321",
+        "location": "",
+        "address": "ABC",
+        "kiosk": "ABC",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "final testing doc111",
+        "clinic": "final testing clinic c1",
+        "clinicMobile": "12321234",
+        "location": "",
+        "address": "final testing",
+        "kiosk": "final testing1234",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "final testing doc111",
+        "clinic": "final testing clinic c1",
+        "clinicMobile": "12321234",
+        "location": "",
+        "address": "final testing",
+        "kiosk": "new kiosk",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "final testing doc111",
+        "clinic": "final testing clinic c1",
+        "clinicMobile": "12321234",
+        "location": "",
+        "address": "final testing",
+        "kiosk": "aab",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "Dr. Disha",
+        "clinic": "Disha dental",
+        "clinicMobile": "909090909090",
+        "location": "",
+        "address": "Pune",
+        "kiosk": "kiosk-disha",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            },
+            {
+                "month": "November 2024",
+                "count": 0
+            },
+            {
+                "month": "October 2024",
+                "count": 0
+            },
+            {
+                "month": "September 2024",
+                "count": 0
+            },
+            {
+                "month": "August 2024",
+                "count": 0
+            },
+            {
+                "month": "July 2024",
+                "count": 0
+            },
+            {
+                "month": "June 2024",
+                "count": 0
+            },
+            {
+                "month": "May 2024",
+                "count": 0
+            },
+            {
+                "month": "April 2024",
+                "count": 0
+            },
+            {
+                "month": "March 2024",
+                "count": 0
+            },
+            {
+                "month": "February 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    }
+]

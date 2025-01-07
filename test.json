@@ -1,0 +1,378 @@
+[
+    {
+        "doctor": "Dr. G",
+        "clinic": "Scan-o Dental",
+        "clinicMobile": "7024022254",
+        "location": "",
+        "address": "Office 1102, Montvert Office Spaces, Opp to Nano Space IT Park, Baner Pashan Link Road, Pune 411045",
+        "kiosk": "kiosk 123",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 33
+            }
+        ],
+        "diseaseWiseMonthCount": [
+            {
+                "month": "December 2024",
+                "diseaseWiseCount": {
+                    "PIT AND FISSURE CARIES": 18,
+                    "STAINS": 50,
+                    "CALCULUS": 13,
+                    "MALALIGNED": 11,
+                    "FILLING": 6,
+                    "TOOTH_GAP": 3,
+                    "DIASTEMA": 9,
+                    "DEEP CARIES": 1,
+                    "CROWNS": 11,
+                    "DEFECTIVE / PARTIAL TREATMENT": 1,
+                    "FRACTURE": 3,
+                    "ATTRITION": 5
+                }
+            }
+        ],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "dental dost2",
+        "clinic": "dd karve nagar",
+        "clinicMobile": "8668263262",
+        "location": "",
+        "address": "karve nagar",
+        "kiosk": "Kiosk-pune",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "test1",
+        "clinic": "test1",
+        "clinicMobile": "8888888888",
+        "location": "",
+        "address": "test1",
+        "kiosk": "test1",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "test3",
+        "clinic": "test3",
+        "clinicMobile": "1111111111",
+        "location": "",
+        "address": "test3",
+        "kiosk": "test3",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "aditi kavade",
+        "clinic": "clinic name",
+        "clinicMobile": "8010782255",
+        "location": "",
+        "address": "clinic address",
+        "kiosk": "kiosk name",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "ak",
+        "clinic": "C name",
+        "clinicMobile": "1234123423",
+        "location": "",
+        "address": "C Address",
+        "kiosk": "k name",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "scanO",
+        "clinic": "c name",
+        "clinicMobile": "9000011111",
+        "location": "",
+        "address": "c address",
+        "kiosk": "k name",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "New Doctor",
+        "clinic": "New Clinic",
+        "clinicMobile": "1111111112",
+        "location": "",
+        "address": "123",
+        "kiosk": "New Kiosk",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "trial doc",
+        "clinic": "trial doc",
+        "clinicMobile": "899999999",
+        "location": "",
+        "address": "trial doc address",
+        "kiosk": "trial doc kiosk name",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "New Doctor",
+        "clinic": "New Clinic",
+        "clinicMobile": "1111111113",
+        "location": "",
+        "address": "123",
+        "kiosk": "New Kiosk2",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "PaymentTrial",
+        "clinic": "PaymentTrial",
+        "clinicMobile": "3232455",
+        "location": "",
+        "address": "PaymentTrial",
+        "kiosk": "PaymentTrial",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "Dr. John Doe",
+        "clinic": "Scan-o Dental",
+        "clinicMobile": "7024022254",
+        "location": "",
+        "address": "Office 1102, Montvert Office Spaces, Opp to Nano Space IT Park, Baner Pashan Link Road, Pune 411045",
+        "kiosk": "kiosk 123",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 33
+            }
+        ],
+        "diseaseWiseMonthCount": [
+            {
+                "month": "December 2024",
+                "diseaseWiseCount": {
+                    "STAINS": 50,
+                    "PIT AND FISSURE CARIES": 18,
+                    "ATTRITION": 5,
+                    "FRACTURE": 3,
+                    "DEFECTIVE / PARTIAL TREATMENT": 1,
+                    "CALCULUS": 13,
+                    "CROWNS": 11,
+                    "TOOTH_GAP": 3,
+                    "DIASTEMA": 9,
+                    "DEEP CARIES": 1,
+                    "MALALIGNED": 11,
+                    "FILLING": 6
+                }
+            }
+        ],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "Rushi",
+        "clinic": "Scan-o Dental",
+        "clinicMobile": "7024022254",
+        "location": "",
+        "address": "Office 1102, Montvert Office Spaces, Opp to Nano Space IT Park, Baner Pashan Link Road, Pune 411045",
+        "kiosk": "kiosk 123",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 33
+            }
+        ],
+        "diseaseWiseMonthCount": [
+            {
+                "month": "December 2024",
+                "diseaseWiseCount": {
+                    "MALALIGNED": 11,
+                    "FILLING": 6,
+                    "STAINS": 50,
+                    "DEFECTIVE / PARTIAL TREATMENT": 1,
+                    "DIASTEMA": 9,
+                    "TOOTH_GAP": 3,
+                    "DEEP CARIES": 1,
+                    "CALCULUS": 13,
+                    "CROWNS": 11,
+                    "PIT AND FISSURE CARIES": 18,
+                    "ATTRITION": 5,
+                    "FRACTURE": 3
+                }
+            }
+        ],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "Test1",
+        "clinic": "Scan-o Dental",
+        "clinicMobile": "7024022254",
+        "location": "",
+        "address": "Office 1102, Montvert Office Spaces, Opp to Nano Space IT Park, Baner Pashan Link Road, Pune 411045",
+        "kiosk": "kiosk 123",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 33
+            }
+        ],
+        "diseaseWiseMonthCount": [
+            {
+                "month": "December 2024",
+                "diseaseWiseCount": {
+                    "MALALIGNED": 11,
+                    "FILLING": 6,
+                    "ATTRITION": 5,
+                    "PIT AND FISSURE CARIES": 18,
+                    "FRACTURE": 3,
+                    "DEFECTIVE / PARTIAL TREATMENT": 1,
+                    "CROWNS": 11,
+                    "TOOTH_GAP": 3,
+                    "DIASTEMA": 9,
+                    "DEEP CARIES": 1,
+                    "STAINS": 50,
+                    "CALCULUS": 13
+                }
+            }
+        ],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "Dr. ABC",
+        "clinic": "ABC",
+        "clinicMobile": "1234554321",
+        "location": "",
+        "address": "ABC",
+        "kiosk": "ABC",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "final testing doc111",
+        "clinic": "final testing clinic c1",
+        "clinicMobile": "12321234",
+        "location": "",
+        "address": "final testing",
+        "kiosk": "final testing1234",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": true
+    },
+    {
+        "doctor": "final testing doc111",
+        "clinic": "final testing clinic c1",
+        "clinicMobile": "12321234",
+        "location": "",
+        "address": "final testing",
+        "kiosk": "new kiosk",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "final testing doc111",
+        "clinic": "final testing clinic c1",
+        "clinicMobile": "12321234",
+        "location": "",
+        "address": "final testing",
+        "kiosk": "aab",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    },
+    {
+        "doctor": "Dr. Disha",
+        "clinic": "Disha dental",
+        "clinicMobile": "909090909090",
+        "location": "",
+        "address": "Pune",
+        "kiosk": "kiosk-disha",
+        "monthWiseCounts": [
+            {
+                "month": "December 2024",
+                "count": 0
+            }
+        ],
+        "diseaseWiseMonthCount": [],
+        "activeInLast7Days": false
+    }
+]
