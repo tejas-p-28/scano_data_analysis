@@ -1,0 +1,88 @@
+kiosk,city,state,disease_month,disease_list,disease_count,patient_month,patient_counts
+kiosk 123,Pune,Maharashtra,December 2024,ATTRITION,5.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,FRACTURE,3.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,CROWNS,11.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,PIT AND FISSURE CARIES,18.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,DEFECTIVE / PARTIAL TREATMENT,1.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,FILLING,6.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,STAINS,50.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,MALALIGNED,11.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,TOOTH_GAP,3.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,DIASTEMA,9.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,CALCULUS,13.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,DEEP CARIES,1.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,MALALIGNED,478.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,ROOT STUMP,2.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,DEFECTIVE / PARTIAL TREATMENT,7.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,PIT AND FISSURE CARIES,200.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,FILLING,59.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,CALCULUS,257.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,DIASTEMA,238.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,CROWNS,13.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,STAINS,604.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,ATTRITION,211.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,IMPACTED 3RD MOLAR / PERICORONITIS,40.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,GROSSLY DECAYED,4.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,TOOTH_GAP,56.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,FRACTURE,148.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,DEEP CARIES,19.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,MISSING TOOTH,2.0,December 2024,33
+kiosk 123,Pune,Maharashtra,November 2024,APPLIANCES,2.0,December 2024,33
+kiosk 123,Pune,Maharashtra,December 2024,ATTRITION,5.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,FRACTURE,3.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,CROWNS,11.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,PIT AND FISSURE CARIES,18.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,DEFECTIVE / PARTIAL TREATMENT,1.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,FILLING,6.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,STAINS,50.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,MALALIGNED,11.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,TOOTH_GAP,3.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,DIASTEMA,9.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,CALCULUS,13.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,DEEP CARIES,1.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,MALALIGNED,478.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,ROOT STUMP,2.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,DEFECTIVE / PARTIAL TREATMENT,7.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,PIT AND FISSURE CARIES,200.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,FILLING,59.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,CALCULUS,257.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,DIASTEMA,238.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,CROWNS,13.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,STAINS,604.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,ATTRITION,211.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,IMPACTED 3RD MOLAR / PERICORONITIS,40.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,GROSSLY DECAYED,4.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,TOOTH_GAP,56.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,FRACTURE,148.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,DEEP CARIES,19.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,MISSING TOOTH,2.0,November 2024,372
+kiosk 123,Pune,Maharashtra,November 2024,APPLIANCES,2.0,November 2024,372
+kiosk 123,Pune,Maharashtra,December 2024,ATTRITION,5.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,FRACTURE,3.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,CROWNS,11.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,PIT AND FISSURE CARIES,18.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,DEFECTIVE / PARTIAL TREATMENT,1.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,FILLING,6.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,STAINS,50.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,MALALIGNED,11.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,TOOTH_GAP,3.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,DIASTEMA,9.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,CALCULUS,13.0,October 2024,0
+kiosk 123,Pune,Maharashtra,December 2024,DEEP CARIES,1.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,MALALIGNED,478.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,ROOT STUMP,2.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,DEFECTIVE / PARTIAL TREATMENT,7.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,PIT AND FISSURE CARIES,200.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,FILLING,59.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,CALCULUS,257.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,DIASTEMA,238.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,CROWNS,13.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,STAINS,604.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,ATTRITION,211.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,IMPACTED 3RD MOLAR / PERICORONITIS,40.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,GROSSLY DECAYED,4.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,TOOTH_GAP,56.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,FRACTURE,148.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,DEEP CARIES,19.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,MISSING TOOTH,2.0,October 2024,0
+kiosk 123,Pune,Maharashtra,November 2024,APPLIANCES,2.0,October 2024,0
